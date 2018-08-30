@@ -4992,6 +4992,990 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "subtitle": "Not meeting necessary conditions"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Reasons or evidence necessary to support an argument"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If not, the argument is flawed"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "All necessary conditions must be present"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Example: lottery winner must have valid ticket – but what else is\nnecessary?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Must be necessary AND sufficient"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Example: Birds have wings.  The item has wings.  Therefore, it is\na bird."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Attacking the person and emotive language",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Argument should take counter-arguments into consideration"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Critically analyse the line of reasoning, not the person"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Sometimes authors use emotive/strong language or subjects to\npersuade and affect your judgement"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "See example below:"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Personal identity cards don’t present any real dangers to human\nrights.  They add to our security, by making it easier for the police\nto track and catch criminals.<p><p>\nOpponents of identity cards are wishy-washy liberals who live in\nleafy areas and haven’t a clue what it is like to live in run-down\nareas where crime is rife.<p><p>\nYou can see here that the writer is attacking the people who oppose\nidentity cards, rather than the actual argument.  They are also using\nemotive and subjective language such as 'wishy-washy' and 'run-\ndown'.",
+                                "subtitle": "Example: Identity Cards"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Misrepresentation",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Presenting options in an unfair way<p><p>\nFocusing on minor points in an opposing argument and ignoring\nmain reasons<p><p>\nRestricted options: presenting an argument to look as if there are\nonly 2 possible conclusions, selecting one weak to make the other\nlook preferable"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "See presentation 'Critical analysis 1' for further information on this."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Summary",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identified what an argument is"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Emphasised the importance of planning"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Looked at how to Develop paragraphs leading to the conclusion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identified flaws in arguments"
+                                    }
+                                ],
+                                "subtitle": "We have..."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Be aware!",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "When refuting someone's argument, this on its own is not enough.\nYou must present a valid argument with evidence yourself.",
+                                "subtitle": "Be aware !"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "Critical Thinking Skills, 2nd edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2011)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-website",
+                                "links": [
+                                    {
+                                        "text": "Study Advice",
+                                        "link": "https://www.reading.ac.uk/internal/ studyadvice/postgraduates/sta-mastersstudying.aspx"
+                                    }
+                                ],
+                                "subtitle": "University of Reading (undated)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Group Work",
+                "sections": [
+                    {
+                        "subtitle": "Aims",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Discuss/think about the advantages and disadvantages of group work"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reflection: my own contribution"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify what makes effective team work\n<ol>Functions</ol>\n<ol>Ground rules</ol>\n<ol>Roles and tasks</ol>\n<ol>Speaking and listening</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Look at a scenario"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Discussion/Thinking",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What are your experiences of group work?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What are the benefits of group work?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What are the drawbacks?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How can we overcome the drawbacks?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Think about your own contribution to group work"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What are your strengths?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What are your weaknesses?"
+                                    }
+                                ],
+                                "subtitle": "What about me?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Record your thoughts on the form below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Group work: thinking or discussion\n\n<p><p>\n\nForm >>>>>>>>>>>>>>>>>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Targets",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Try and think of some targets to address your weaknesses\n<ol>for example: “I talk too much”</ol>\n<ol>target: “next time I will ask at least 2 other people a question and listen to their\nanswers”</ol>\n<ol>example 2: “I often arrive late”</ol>\n<ol>target: “set an alarm and leave before I need to”</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Think about how your weaknesses affect other group members"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Adair's model of team functions (2004)",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "image-single",
+                                "src": "/images/adairsmodel_2.png"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Strategies for effective group work",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Work together to set ground rules: if you all agree they are more\nlikely to be kept.  These rules may involve:",
+                                "subtitle": "Ground rules"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Attendance"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Acceptable behaviour"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Consequences of not contributing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Doing work on time"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Respecting others"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Be clear on who will take on which role"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Divide tasks fairly"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Set deadlines for completion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Keep a record of what you have agreed"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Decide how and when you will communicate with each other"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use the attached Team Agreement to set your guidelines"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "When assigning tasks, consider the strengths and weaknesses of\nyour team mates, and try to give them roles which relate to their\nstrengths"
+                                    }
+                                ],
+                                "subtitle": "Roles and tasks"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Example Team Agreement",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "You could create something similar yourself and ask your team members to agree.<p><p>\nAdapted from Gallagher (2016, 225)"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/groupagreement.png"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Body Language",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "image-single",
+                                "src": "/images/bodylanguage_2.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "You can show you are listening and interested by your body language"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Facial expressions, e.g. smiling, frowning"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Eye contact"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Way of sitting, e.g. slouching"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Fidgeting"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Gestures, e.g. nodding"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Listening",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Encourage the speaker by acknowledging what they said"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Think about what they are saying"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Listen for key points"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Think of a question you could ask"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Let them finish"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Think of a positive comment"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "For further development in this area, see the resource 'Active Listening'"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Speaking",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Give yourself a target, e.g. make at least one comment/suggestion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Write down what you want to say"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make eye contact"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Be clear and brief"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Don’t speak too quietly"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Act confidently even if you don’t feel it"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Case Study",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "You are working with some people you know and some you don’t.  Things are going well and\nyou have developed ground rules, appointed a group coordinator and have regular meetings.\nHowever, as time goes on, problems arise as two group members aren’t contributing; one\nhas even stopped coming to meetings and hasn’t produced anything yet.  The group is\ngetting annoyed as they see all their hard work being compromised.<p><p>\nMake a note of your thoughts on the form below.",
+                                "subtitle": "Scenario: what would you do with two weeks to go?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Group Case Study <p><p>\n\nForm >>>>>>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Listen to the audio for some ideas about the case study.  If you prefer, you can read the\ntranscript below.\n<p><p>\nAUDIO >>>>>>>>>>>>>>>",
+                                "subtitle": "Possible actions"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Group work case study transcript",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "First you might want to find out if there's a genuine reason this person hasn't been engaging\nwith the group.  For example, they might have been ill or had a situation which prevented\nthem from contacting you.  If this is the case, it would be best to try and support them, and\noffer any help they might need.<p><p>\nIf there isn't a genuine reason, it might be a good idea to remind them of the rules and what\nyou set out in your group agreement (this is precisely why it's a good idea to do that!)  It\nmight be best to send an email so that you can keep a copy in writing.<p><p>\nSometimes just doing it yourself might be the only way, but this is obviously not an ideal\nsituation.  You could report it to your tutor as a last resort after you've given them a chance.\nAgain, not ideal but they might be able to do something about it.  This is where it's good if\nyou've kept a record of the interaction you've had with them.<p><p>\nYou might have had some other ideas – if so, please share them with your group!"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Encourage each other"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Listen to others"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Build on others’ ideas"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Share ideas"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Include everyone"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Show when you agree"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Admit mistakes"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Politely disagree, e.g. ‘Why do you think that?’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Summarise"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Final thoughts",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What am I going to do to make a more effective contribution to group work?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How can I encourage others?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Adair on team building and motivation",
+                                "publisher": "T. London: Thorogood Publishing",
+                                "authors": [
+                                    {
+                                        "name": "Adair, J. (2004)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "The Study skills handbook, 4th edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2013)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Skills for success: personal development and employability, 3rd edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2015)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Essential study and employment skills for business and management students, 3rd edition",
+                                "publisher": "Oxford University Press",
+                                "authors": [
+                                    {
+                                        "name": "Gallagher, K. (2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Study skills for business and management students",
+                                "publisher": "Harlow: Pearson Education Ltd",
+                                "authors": [
+                                    {
+                                        "name": "Ramsay, P., Maier, P. and Price, G. (2010)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Paraphrasing and summarising sources",
+                "sections": [
+                    {
+                        "subtitle": "Aims",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify different ways of paraphrasing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Summarise a passage"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Introduction",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Paraphrasing and summarising are important skills for academic writing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "We’ll look at paraphrasing first, then move on to summarising"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Why paraphrase?",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Why do you think lecturers usually say it’s better to paraphrase? Note/discuss your ideas."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Paraphrasing: discussion/thinking<p><p>\n\nForm >>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Now look at the ideas below."
+                            },
+                            {
+                                "type": "list-text",
+                                "subtitle": "Why paraphrase ?",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "You may want to target a specific audience and use language to suit"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Shows you've understood your reading"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Keeps your writing style consistent in <b>your</b> voice"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "What makes a 'good' paraphrase?",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "It is sufficiently changed from the original"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It retains the original meaning"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It is roughly the same length as the original"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It will include an in-text citation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It should include your own comments on the author’s ideas"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It will be linked to the rest of the text"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You shouldn’t paraphrase complete paragraphs"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Steps to successful paraphrasing",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Read the original passage/sentence and make sure you understand the meaning and\ncontext"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Cover the text and make notes"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Write your paraphrase from your notes without looking at the original"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Compare with the original and make sure it is sufficiently changed without altering the\nmeaning"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make sure you’ve added an in-text citation"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Ways of paraphrasing",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "There are two main ways of paraphrasing:\n<ol>Changing the sentence structure</ol>\n<ol>Changing the words</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "We’ll look at these in turn"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "One way to do this is by changing active voice to passive voice or\nvice versa",
+                                "subtitle": "Changing the sentence structure"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Original: PDP [Personal Development Planning] can have a positive\nimpact on your academic achievement (Cottrell, 2015, 11).<p><p>\nThis sentence is active, with PDP as the subject.<p><p>\nPassive: A positive impact on your academic achievement can be\nachieved by use of PDP (Cottrell, 2015, 11).<p><p>\nThe object (a positive impact) becomes the subject of the passive\nsentence.<p><p>\nIf a sentence is already passive, you can change it to active if you\nknow who or what the agent (doer of the action) is.",
+                                "subtitle": "Example"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Radium was discovered in 1898. (Passive)<p><p>\nThe Curies discovered radium in 1898. (Active)<p><p>\nNote: this may not always be appropriate, depending on the\ncontext.<p><p>\nThe order of the sentence could also be changed as follows:<p><p>\nOriginal: “When engaged upon a long-term project, such as gaining\na degree or developing a career path, it is important to stay focused\non what you want to achieve” (Cottrell, 2015, 50).<p><p>\nIt is important to stay focused on what you want to achieve when\nengaged upon a long-term project, such as gaining a degree or\ndeveloping a career path (Cottrell, 2015, 50).",
+                                "subtitle": "Example"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Changing the sentence structure alone, however, is not really\nsufficient to be a successful paraphrase"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "We also need to look at the vocabulary and if/how we can change\nit"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Changing the words",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Some words (which are not technical or very specific) can be\nchanged as long as you retain the original meaning"
+                                    },
+                                    {
+                                        "links": [
+                                            {
+                                                "portion": "http://www.thesaurus.com/",
+                                                "href": "http://www.thesaurus.com/"
+                                            }
+                                        ],
+                                        "text": "A thesaurus can be useful for this, e.g. http://www.thesaurus.com/ - but be careful not to use words which are\ntoo informal, and remember that similar words often have\ndifferent connotations"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "“In recent decades there has been much consideration of types of\nlearner and styles of doing this – such as <i>visual</i>, or <i>auditory</i>, or\n<i>kinaesthetic</i> learning styles” (Cottrell, 2015, 68)."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Which words do you think could be changed in this sentence?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Which would you not want to change?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You would probably not want to change <i>visual</i>, <i>auditory</i> or\n<i>kinaesthetic</i>, as they are specific terms related to learning styles"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "“In recent decades there has been much consideration of types of\nlearner and styles of doing this – such as <i>visual</i>, or <i>auditory</i>, or\n<i>kinaesthetic</i> learning styles” (Cottrell, 2015, 68).<p><p>\n‘Consideration’ could be changed to ‘attention’, ‘debate’,\n‘deliberation’, for example<p><p>\n‘Styles’ could be ‘approaches’, ‘ways’…<p><p>\nOver the past few decades, there has been a great deal of\ndeliberation around different learners and approaches to learning –\nfor example, visual, or auditory, or kinaesthetic (Cottrell, 2015, 68)."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Successful paraphrasing",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Again, on its own, this is probably not enough"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Ideally, we should use a combination of changing the structure\nand the words, for example:"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "\"There has been much deliberation over the past few decades around\ndifferent learners using <i>visual</i>, <i>auditory</i> or <i>kinaesthetic</i> approaches\nto learning (Cottrell, 2015, 68).\"<p><p>\nNote that the original meaning has been retained"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Summarising",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "The steps to a successful summary are very similar to paraphrasing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The difference is that you are reading a longer passage, and condensing it into fewer\nwords"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You may not need a page number in your citation if, for example, you are summarising an\nauthor’s idea from a whole publication"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Read the following passage and summarise"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Read the text first and make notes, then cover it and write a\nsummary from your notes on the form below"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Check that you have kept the original meaning"
+                                    }
+                                ],
+                                "subtitle": "Activity"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "We all have preferred ways of doing things.  Some believe there are\ninherent, immutable ‘learning styles’; others consider such ‘styles’\nto be deeply seated preferences that simply indicate our ‘comfort\nzones’.  Either way, it is useful to be aware of our styles or\npreferences, so that we can evaluate how well these are working for\nus.<p><p>\nFollowing our preferences can make tasks more enjoyable, less of\nan effort, more intuitive, and make it easier to stay on task for\nlonger.  However, we can become over-attached to one set of\napproaches: what worked last year or last week for a different\nassignment or with different people is not working effectively for us\nany more.  It is useful to be able to recognise when that happens.\nBe ready to experiment afresh.  If you find you are becoming bored\nor disengaged, try something new.<p><p>\nFrom Cottrell, S. (2015) <i>Skills for Success: Personal Development\nand Employability</i> p. 69."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "SUMMARISING <p><p>\n\nExercise >>>>>>>>>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "Writing academic English, 4th Ed.",
+                                "publisher": "New York, USA: Pearson Education",
+                                "authors": [
+                                    {
+                                        "name": "Oshima, A. and Hogue, A. (2006)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Cottrell, S. (2015) <i>Skills for success: personal development and employability.</i>  Basingstoke:\nPalgrave Macmillan",
+                                "subtitle": "Example texts taken from:"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Presentations (1): the slides",
+                "sections": [
+                    {
+                        "subtitle": "Aims",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify what to include in a presentation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How to structure your slides"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Watch a video and spot the mistakes"
+                                    }
+                                ]
                             }
                         ]
                     }
