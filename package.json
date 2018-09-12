@@ -24,6 +24,7 @@
     "express-session": "^1.15.6",
     "less-middleware": "^2.2.1",
     "passport": "^0.4.0",
+    "morgan": "^1.9.1",
     "passport-github2": "^0.1.11"
   },
   "devDependencies": {
@@ -42,7 +43,6 @@
     "less": "^3.0.2",
     "less-loader": "^4.1.0",
     "localtunnel": "^1.9.0",
-    "morgan": "^1.9.1",
     "ng-annotate-webpack-plugin": "^0.2.1-pre",
     "npm-run-all": "^4.1.2",
     "nsp": "^3.2.1",
