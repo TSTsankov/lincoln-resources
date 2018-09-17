@@ -8791,8 +8791,484 @@
                                     {
                                         "links": [],
                                         "text": "<b>Analyse:</b>\n\n<ol>analysing your research findings, making sense of the data</ol>\n<ol>breaking down and examining in detail</ol>\n<ol>how something interrelates to something else</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<b>Create:</b> produce new or original work\n<ol>creating a generalisation, trend or rule from your findings</ol>\n<ol>creating a business plan for a new venture</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<b>Evaluate:</b> giving a judgment or value to something\n<ol>comparing your findings against accepted external theories\nor standards (e.g. how a company rates in quality terms\nagainst a standard)</ol>\n<ol>comparing against internal evidence (e.g. percentage in\nsales figures against previous years)</ol>"
                                     }
                                 ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "A critical checklist",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "The acronym WEB-SPUN (Gallagher, 2016) has been developed to aid memory for a\ncritical approach to assignments (see next slide)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "WEB represents the first elements of a typical assignment"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "SPUN represents further thoughts you might develop"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Experiment with adding other questions of your own or even make your own acronym!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<b>Gallagher’s (2016) WEBSPUN</b>"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/web copy.jpg"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "W - What? Where? Why? When? How? Who? What if? What next? So what?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "E - Evidence: references, quotes, examples, data"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "B -  Build argument: use the evidence and data to support your argument"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "S - Situation: effect on the outcome.  Static or dynamic?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "P -  Practicality: what are the limitations?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "U -  Universality: does the theory apply generally or only in certain cases?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "N -  Links to other findings. Do theories support each other?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from Gallagher, 2016, 105)\n<p><p>\nOr you could create your own acronym – this way you are more likely to remember it."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Summary",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Never rely on a single source – use multiple sources"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Ensure logic is sound and one point leads to another"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use credible sources"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Question everything and apply the same to your writing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Don’t assume because something is in print it must be ‘right’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use sources to build your argument"
+                                    }
+                                ],
+                                "subtitle": "Final tips"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "Essential study skills, 4th edition",
+                                "publisher": "London: Sage.",
+                                "authors": [
+                                    {
+                                        "name": "Burns, T. and Sinfield, S. (2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Critical thinking skills, 2nd edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2011)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Essential study and employment skills for business and management students, 3rd edition",
+                                "publisher": "Oxford: OUP",
+                                "authors": [
+                                    {
+                                        "name": "Gallagher, K. (2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Doing essays and assignments, 2nd edition",
+                                "publisher": "London: Sage",
+                                "authors": [
+                                    {
+                                        "name": "Greasley, P. (2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Study skills for business and management students",
+                                "publisher": "Harlow: Pearson",
+                                "authors": [
+                                    {
+                                        "name": "Ramsay, P., Maier, P. and Price, G. (2010)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Critical reading and writing for postgraduates, 3rd edition",
+                                "publisher": "London: Sage",
+                                "authors": [
+                                    {
+                                        "name": "Wallace, M. and Wray, A. (2016)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Critical Reflection",
+                "sections": [
+                    {
+                        "subtitle": "Aims",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify what is meant by reflection"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Look at different reflective cycles/models"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Relate theory to practice"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Reflection",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "The term ‘reflection’ is limited"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "A mirror simply reflects what’s in front"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reflective practice goes right through glass to the other side\nand sees experiences from other viewpoints"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It examines different scenarios (Bolton, 2005, 4)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It encourages learning and developing by examination of a situation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It looks at how others might see it (Bolton, 2005, 7)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "What reflection is not",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "links": [],
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Being overly negative about yourself"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Blaming others"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Dwelling on things you did ‘wrong’ without any action plan"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Purpose of reflection",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "For what reason are you reflecting?  It could be...\n<ol>Assessment</ol>\n<ol>Professional development</ol>\n<ol>Just because you want to!</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What do you want to understand or do better because of it?  It's important to identify\nwhat you want to achieve."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "There are many ways to reflect (e.g. blogs, journals, essays, discussion, workplace CPD)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Reflective writing",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "image-single",
+                                "src": "/images/notebook.jpeg"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Written in the first person (I) with a focus on yourself"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Generally more personal than other forms of academic writing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Helpful when you’re asked to evaluate experiences"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Focused on your experiences, thoughts, feelings, assumptions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "A form of self-supervision"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Honest and spontaneous"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Subjective"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "A record of your thoughts and experiences that you can return to"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "An investment of time"
+                                    }
+                                ],
+                                "subtitle": "Reflective writing is…"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Bassot, 2016, 16)"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Selection: you can select one aspect of practice for analysis"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Changing perspective: you can analyse different angles and try seeing it from another's\npoint of view"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Returning to experience:  it could be a recurring incident, a critical incident, maybe based\non a theme, or a particular challenge you had to face"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Analysis of role: analyse the impact of your role in a situation, reasons you did things, any\nchanges that took place within you or your group for example"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Received wisdom: what are the theories and research that apply to the situation?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Deepening understanding: you should start to make sense of your experience"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Using insights to effect change: you should be aiming to make a difference – e.g. more\neffective studying or developing in professional practice"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Different models of reflection… have a look at the following examples that can be used to\ninspire your thinking.  You could even create your own model!"
+                                    }
+                                ],
+                                "subtitle": "Characteristics of Critical Reflection"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Reflective cycles",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Argyris’ ladder of inference (1982)"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/argyris_ladder_2.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [
+                                    {
+                                        "href": "https://cdn.pixabay.com/photo/2013/07/12/12/03/tool-145193_960_720.png",
+                                        "portion": "https://cdn.pixabay.com/photo/2013/07/12/12/03/tool-145193_960_720.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Start at the bottom with ‘observe’\n<p><p>\nAction: taking action\n<p><p>\nBeliefs: this leads to beliefs about the world\n<p><p>\nConclusions: form conclusions based on assumptions\n<p><p>\nAssumptions: based on the meanings\n<p><p>\nMeanings: attachment of meanings to these\n<p><p>\nSelect: selection of focus from these experiences/data\n<p><p>\nObserve: experiences or data"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Kolb’s cycle of experiential learning (1984)"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/kolbs_cyle_2.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Concrete experience: doing/taking part in/having an experience\n<p><p>\nReflective observation: thoughts, reviews on the experience\n<p><p>\nAbstract conceptualization: conclusions made from the experience\n<p><p>\nActive experimentation: trying out what was learned – leading on to another experience,\nwhich starts the cycle again"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Gibbs’ reflective cycle (1988)"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/Gibbs_reflection_2.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "We'll look at Gibbs' cycle in more detail.  It is a useful, straightforward model to use."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What happened?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What was my role?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What was the role of others?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What did I do?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What did they do?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What outcomes were there?"
+                                    }
+                                ],
+                                "subtitle": "Gibbs’ cycle: description"
                             }
                         ]
                     }
