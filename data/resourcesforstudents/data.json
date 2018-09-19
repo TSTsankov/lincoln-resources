@@ -9269,6 +9269,399 @@
                                     }
                                 ],
                                 "subtitle": "Gibbs’ cycle: description"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/feelings_emotions.jpeg"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "How did I feel?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What did I find interesting/inspiring/disappointing and why?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Why did I respond as I did?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How might others have responded in a similar situation?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Were my actions appropriate?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Were my expectations met?"
+                                    }
+                                ],
+                                "subtitle": "Gibbs’ cycle: feelings"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What was positive and negative about the experience?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What were my strengths and weaknesses?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What did I learn?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Has it changed anything in me?"
+                                    }
+                                ],
+                                "subtitle": "Gibbs’ cycle: evaluation"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What theory or research is relevant to this?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How does what happened relate to this theory?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How could my involvement have improved?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What could we have done instead and what consequences would that have had?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Questions in bold particularly important if for an assessment"
+                                    }
+                                ],
+                                "subtitle": "Gibbs’ cycle: analysis"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What did I learn from this exercise?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What would I do differently next time?"
+                                    }
+                                ],
+                                "subtitle": "Gibbs’ cycle: conclusion"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Useful for both academic study and work"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reflection should result in action planning"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Remember the SMART goals:\n\n<ol>Specific</ol>\n<ol>Measurable</ol>\n<ol>Achievable</ol>\n<ol>Realistic</ol>\n<ol>Time-related</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Monitor and review if necessary"
+                                    }
+                                ],
+                                "subtitle": "Gibbs’ cycle: action plan"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Relating theory to practice",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Check research basis – choose an area you know has published research"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Key issues – research that supports, any criticisms, debate within the subject"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How and why your experiences support/don’t support these theories"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "New insights – are there theories that support these?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Relate your conclusions to broad research base"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Learn from experts – reputable sources of research to understand difficult areas"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Does research encourage you to do things differently?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Helps understand: what happened, why, how wider issues impact, how you can act\ndifferently for different outcomes"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Good reflection",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "has a clear focus"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "goes below the surface, analyses initial thoughts"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "uses theory and links experience to it"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "leads to action"
+                                    }
+                                ],
+                                "subtitle": "Good reflection…"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Poor reflection",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "blames others"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "tries to cover too many aspects/be too general"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "is superficial (only looks at the surface)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "doesn’t refer to theory"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "is mainly descriptive and doesn’t develop understanding"
+                                    }
+                                ],
+                                "subtitle": "Poor reflection…"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Applications for professional practice",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Reflection is increasingly used for Continuing Professional Development in the work place"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It brings theory alive"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It recognises lifelong learning - we never stop learning!"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It relates practical experience to academic study"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It helps us develop understanding of difficult situations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It challenges our own assumptions and actions"
+                                    }
+                                ],
+                                "subtitle": ""
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": []
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "areas of health care, education, teaching, management, and research often engage in\nreflection"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "encourages practitioners to gain insight into their own professionalism through their\nexperiences"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "approaches may range from informal discussions to highly structured formats"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "models guide process, but allow for flexibility"
+                                    }
+                                ],
+                                "subtitle": "Reflection in work"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Practice",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Think about a recent activity you took part in as part of your studies (e.g. a presentation,\ngroup work)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use Gibbs' cycle and make notes of your ideas for each stage, based on the activity you\ntook part in"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use the form below for your notes"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "REFLECTION \n<p><p>\nFORM >>>>>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Summary",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "We have identified what reflection is and is not"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "We have looked at several models, or you could create your own"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "We have considered the academic and professional applications"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reflection should effect a change/contribute to your development"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "The reflective journal, 2nd edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Bassot, B. (2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Reflective practice, 2nd edition",
+                                "publisher": "London: Sage",
+                                "authors": [
+                                    {
+                                        "name": "Bolton, G. (2005)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Critical Thinking Skills 2nd edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2011)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "The Study Skills Handbook, 4th edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2013)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "How to improve your critical thinking and reflective skills",
+                                "publisher": "Harlow: Prentice Hall",
+                                "authors": [
+                                    {
+                                        "name": "McMillan, K. and Weyers, J. (2013)"
+                                    }
+                                ]
                             }
                         ]
                     }
