@@ -10048,7 +10048,134 @@
                     {
                         "subtitle": "How can we develop our own cross-cultural awareness?",
                         "space_after": false,
-                        "components": []
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Visit new places"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Read about other cultures"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Get to know students from another culture"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Learn another language"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Visit a friend in their culture"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Live in another country or go on a student exchange"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Communicate in international online communities"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "What are you going to do to develop yours?  Add it to your Action Plan!"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Action Plan",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Have a look at the action plan and develop one of your own."
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/action_plan_culture.png"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Taking it to work",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<b>Possible interview questions: what might your answers be?</b>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "What do you think are the biggest issues currently facing international organisations?<p><p>\nWhat difficulties would you expect to face if you were offered a role in another country?<p><p>\nImagine a situation where you – as a departmental manager – needed quickly to resolve\na conflict between two individuals of different cultural backgrounds about an issue where\nboth held very strong and opposing views.  How would you handle such a situation?<p><p>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Summary",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Be aware of your own and others’ cultural differences"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Give others time to respond"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Be prepared to work in a different way"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Try not to assume or make judgements"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Develop your inter-cultural competence"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "Business communication today, global edition, 13th ed.",
+                                "publisher": "Harlow: Pearson Education",
+                                "authors": [
+                                    {
+                                        "name": "Bovee, C. L.  and Thill, V. J.(2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "The business student’s guide to study and employability",
+                                "publisher": "London: Sage",
+                                "authors": [
+                                    {
+                                        "name": "Morgan, P. (2017)"
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             }
