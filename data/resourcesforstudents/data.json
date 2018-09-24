@@ -1,184 +1,5 @@
 [
     {
-        "name": "Academic Etiquette",
-        "chapters": [
-            {
-                "name": "Introduction",
-                "sections": [
-                    {
-                        "subtitle": "Aims",
-                        "space_after": false,
-                        "components": [
-                            {
-                                "type": "list-text",
-                                "list_elements": [
-                                    {
-                                        "links": [],
-                                        "text": "Identify suitable language for use in emails at university"
-                                    }
-                                ],
-                                "space_after": true
-                            }
-                        ]
-                    },
-                    {
-                        "subtitle": "Introduction",
-                        "space_after": false,
-                        "components": [
-                            {
-                                "type": "list-text",
-                                "list_elements": [
-                                    {
-                                        "links": [],
-                                        "text": "While you are at university, you should behave as you would in a professional work\nenvironment – this will prepare you for your career"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Most academic staff in the UK will be on first name terms with students – but check this\nfirst"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Emails have been an important part of our communication for a number of years now"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "They don’t need to be as formal as a letter, but not as informal as a text message for\nexample"
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "subtitle": "Email Etiquette: a few tips",
-                        "space_after": false,
-                        "components": [
-                            {
-                                "type": "list-text",
-                                "list_elements": [
-                                    {
-                                        "links": [],
-                                        "text": "It’s better to be too formal than too informal (consider that your email may be forwarded\nto another member of staff who you are not so familiar with)"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Avoid using shorthand in emails, such as ‘thx’"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Use correct grammar, complete sentences and capital letters in the appropriate places (‘I’\nnot ‘i’)"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Make sure your email address is appropriate and professional"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Always check you've got the right name in the 'To' box: there are often staff members at\nuniversity who have similar names"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Make sure your email only goes to the people who need to read it. Remember that if you\nreply to all, then everyone will get your email"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "If you don’t want other recipients to see who else you’ve sent the email to, use the ‘bcc’\nfield"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "This sounds obvious, but don't forget to attach attachments! A word of advice – attach the\nfile you want to send before you start writing. That way, you can't forget to attach it!"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "DON’T USE CAPITAL LETTERS! If you write in this way, you are basically shouting at\nyour reader"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Short emails can sometimes sound rude, so try to make them polite and friendly"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Long emails can be quite off-putting, so consider putting extra information in an\nattachment, which the reader can read later"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Proofread before you send. If you make mistakes in your email, people will think you also\nmake mistakes in your work. So always check everything carefully"
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Starting and finishing phrases",
-                "sections": [
-                    {
-                        "subtitle": "Starting and finishing phrases",
-                        "space_after": false,
-                        "components": [
-                            {
-                                "type": "text-paragraph",
-                                "links": [],
-                                "text": "Look at the table for some suggestions on how you might start or finish an email.  The\nphrases in red aren't really suitable for addressing academic staff.  You should also avoid the\nvery formal phrase."
-                            },
-                            {
-                                "type": "image-single",
-                                "src": "/images/aims-table.jpg"
-                            },
-                            {
-                                "type": "text-paragraph",
-                                "links": [],
-                                "text": "We've got starting and ending phrases, separated into formal and informal.  Your tutor\nwould probably be happy with 'hi' as a greeting, or 'dear' is also a good one to use.  Avoid the\nphrases in red, as they are very informal and not really suitable for addressing a member of\nstaff.  Remember as well that you may be emailing someone you're familiar with, but that\nperson might forward it to someone else, so it's probably better to be a little more formal\nthan you are with your friends.  'Dear Sir or Madam' is probably not necessary though."
-                            }
-                        ]
-                    },
-                    {
-                        "subtitle": "Try the quick quiz on the Microsoft form below",
-                        "space_after": false,
-                        "components": [
-                            {
-                                "type": "text-paragraph",
-                                "links": [],
-                                "text": "The quiz to go here >>>>>>>>>>>>>>>>>>"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "References",
-                "sections": [
-                    {
-                        "subtitle": "References",
-                        "space_after": false,
-                        "components": [
-                            {
-                                "type": "link-reference",
-                                "title": "Writing: English for emails [accessed 31 March 2016]",
-                                "link": "http://learnenglish.britishcouncil.org/en/english-emails?utm_source=LEfacebook&utm_medium=social&utm_campaign=emailenglish",
-                                "authors": [
-                                    {
-                                        "name": "British Council (2016)"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "link-reference",
-                                "title": "Writing Business emails [accessed 14 June 2017]",
-                                "link": "http://www.plainenglish.co.uk/files/email.html",
-                                "authors": [
-                                    {
-                                        "name": "Plain English Campaign (2017)"
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "name": "Time Management",
         "chapters": [
             {
@@ -9668,6 +9489,621 @@
                 ]
             },
             {
+                "name": "Exam Strategies",
+                "sections": [
+                    {
+                        "subtitle": "Aims",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify how to structure a response"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify what makes a good answer"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Look at different revision strategies"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Look at use of time in the exam"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Discussion/thinking",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What’s your general experience of exams?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do you prefer exams or coursework?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "You can record your thoughts on the form below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Exam <p>\nFORM >>>>>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Check your course learning outcomes",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Go to your course information and find the learning\noutcomes – these should be clearly listed"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make sure you have achieved these"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Assessments are designed to check learning outcomes, so if\nthey don’t appear in your previous assignments, they are\nvery likely to appear in the exam"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make sure you understand the terminology used, e.g.,\nexplain, analyse, synthesise"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Essay-styled responses",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "These should be relatively detailed"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "They should contain an introduction, main body and a\nconclusion as you would in an essay for course work"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Introduction: scene setting, e.g. approach, model you’re\ngoing to use and why; how you're going to answer the\nquestion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Main section: explore, analyse, synthesise and evaluate"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Conclusion: draw together key issues to form a supported\nconclusion that comes from the points discussed (e.g.\n‘Company X should avoid entering market Z due to the\ncurrent high entry barriers as shown in the Five Forces\nanalysis…’ )"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "What makes a 'good' exam answer?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<b>Make a note on the form below.</b>\n<p><p>\n<i>What do you think makes a ‘good answer’ for an essay-styled\nquestion?</i>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "A good exam answer\n<p><p>\nFORM >>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Have a look at the ideas below.  Click on the pictures to see the\nnext."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Presentation \n\n<p> <p>FORM >>>>>>>>>>>>>>>\n<p>What makes a good answer for an essay-style question."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Short answer responses",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Need to be succinct"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Short paragraphs/extended bullet points"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "For example, bullet points could be used to explain PESTLE factors or key elements of a\nmodel (such as Porter’s Five Forces)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Multiple choice questions",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "image-single",
+                                "src": "/images/multiplechoiceques.jpeg"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Possible to get 100%"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Usually follow a pattern: one correct answer, close (but wrong) answer, one or two\nanswers near topic, answer far removed from topic (sometimes an ‘all of the above’\noption)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Aim is to check understanding of key concepts and make basic links"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You need to know the subject well to answer them"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use reasoning if the answer isn’t immediately obvious to you"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<ol type=\"1\">\n<li>Read all the questions first</li>\n<li>Answer the ones you are sure of</li>\n<li>Look at the ones you’re not sure of: compare and contrast questions and possible\nanswers – look for links and similarities (rephrase to T/F question?)</li>\n<li>Only guess as a last resort if there’s no penalty for a wrong answer</li>\n<li>Check your answers and that you’ve clearly indicated them</li>\n</ol>",
+                                "subtitle": "Multiple choice questions: reasoning"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Revision strategies",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Discussion/thinking"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What are your experiences of revision?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do you prefer to revise alone or with others?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How do your experiences compare with your course mates?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do their views change your opinions about the way you study?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What kind of plans (if any) do you use?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Make a note of your thoughts on the form below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "REVISION<p><p>\n\nFORM >>>>>>>>>>>>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Planning",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Draw up a plan of each major area and when you’ll revise it"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Organise your environment"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Monitor your time wasting"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Just start – open up a file, jot down an essay title, pick a favourite topic…"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "How much is 'enough'?",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "If you can answer the following questions, you should have a broad grasp and enough information to answer your exam questions."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What are the key themes in your subject?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Main points of view/schools of thought?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Key debates in the subject over time"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Major pieces of research on each topic"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Which points of view you find convincing and why"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Have a look at the image below, and complete your notes in a similar way."
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "blob:https://lincoln-resources.herokuapp.com/191c7b28-6098-4662-9660-f50fc81696aa"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Summarise: in headings, several paragraphs, in one paragraph, in one sentence"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Actively select – what is really key?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Revise at least twice as many main topics as the number of questions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Questions may be multi-topic"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Read further than lectures"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Different ways of revising",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Flashcards: many people like to test themselves by writing, for example, a concept on one\nside of a card with its definition/further details on the other.  The website and app Quizlet is\nvery good for this.\n<p><p>\nWriting notes: some people like to go through their course work and make notes/reduce the\ninformation to key words.\n<p><p>\nDrawing diagrams: try taking your notes and making a visual representation, which you can\nstick on your wall.\n<p><p>\nGet together: some like to work with others and discuss ideas and opinions.  You can also\nquiz each other.\n<p><p>\nListening: you may have access to a podcast on a subject you're revising, or a lecture you've\nrecorded.  The advantage of this is you can do it while doing another activity."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "",
+                                "subtitle": "Ask your friends what works for them, and don't be afraid to try something new."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "How can you make revision interesting?",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Think/discuss, then look at the ideas below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Revision strategies \n<p><p> Presentation"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Emergency strategies",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "What if you've left it too late and you don't have enough time to do everything?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Use your anxiety to help you focus"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Revise several subjects in less depth"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Give yourself 5 minutes to jot down key topics to revise"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Put them in order of importance (5 mins)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Circle 2 or 3 you know best and start revising these"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Gain an overview"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Select key information"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Repeat for several topics – if you have more time later you can go back and do more"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use spare moments"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Look after yourself",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Remember to look after yourself"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Build up sleep patterns prior to exams – changing patterns can cause disruptions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Eat well and drink plenty of water"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Exercise and relaxation are important"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/sleep.jpeg"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Making good use of time in the exam",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "image-single",
+                                "src": "/images/time_2.jpg"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Two reasonable answers are better than one in-depth"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Divide time accordingly – and stick to it"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do a brief plan with main points"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Include as many main points as succinctly as possible – marks are usually awarded for\ncovering essential items"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Don’t write everything you know or regurgitate lectures – put your analysis on it"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use a clear structure and academic style"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Stay focused on the question"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Controlling nerves",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What we said about presentations can also apply to exams"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Don’t try to get rid of them! Use the adrenaline to keep you alert and help you think (“Yes,\nI’m nervous, but I’m confident”)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Prepare, prepare, prepare: if you know your material inside out, you are less likely to let\nnerves get the better of you"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Overcoming anxiety: unhelpful scenario"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/overcoming_anxiety_2.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Overcoming anxiety: helpful scenario"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/overcoming_anxiety_helpful_2 copy.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Summary",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Prepare, prepare, prepare!"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Try to stay calm"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Organise your thoughts before you write anything"
+                                    }
+                                ],
+                                "subtitle": "Points to remember:"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "The exam skills handbook, 2nd edition.",
+                                "publisher": "London: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2012)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Essential study and employment skills for business and management students, 3rd edition",
+                                "publisher": "Oxford: Oxford University Press",
+                                "authors": [
+                                    {
+                                        "name": "Gallagher, K. (2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Business degree success",
+                                "publisher": "London: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Groucutt, J. (2008)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "name": "Cross cultural communication",
                 "sections": [
                     {
@@ -10182,24 +10618,22 @@
         ]
     },
     {
-        "name": "Template 3",
+        "name": "Testerblock",
+        "chapters": [
+            {
+                "name": "Introduction",
+                "sections": []
+            }
+        ]
+    },
+    {
+        "name": "Academic Etiquette",
         "chapters": [
             {
                 "name": "Introduction",
                 "sections": [
                     {
-                        "subtitle": "Introduction",
-                        "space_after": true,
-                        "components": [
-                            {
-                                "type": "text-paragraph",
-                                "links": [],
-                                "text": "Simple paragraph component to explain the purpose of this block."
-                            }
-                        ]
-                    },
-                    {
-                        "subtitle": "Learning Outcomes",
+                        "subtitle": "Aims",
                         "space_after": false,
                         "components": [
                             {
@@ -10207,19 +10641,94 @@
                                 "list_elements": [
                                     {
                                         "links": [],
-                                        "text": "List component for presenting the learning outcomes for this block"
+                                        "text": "Identify suitable language for use in emails at university"
+                                    }
+                                ],
+                                "space_after": true
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Introduction",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "While you are at university, you should behave as you would in a professional work\nenvironment – this will prepare you for your career"
                                     },
                                     {
                                         "links": [],
-                                        "text": "in"
+                                        "text": "Most academic staff in the UK will be on first name terms with students – but check this\nfirst"
                                     },
                                     {
                                         "links": [],
-                                        "text": "list"
+                                        "text": "Emails have been an important part of our communication for a number of years now"
                                     },
                                     {
                                         "links": [],
-                                        "text": "form.."
+                                        "text": "They don’t need to be as formal as a letter, but not as informal as a text message for\nexample"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Email Etiquette: a few tips",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "It’s better to be too formal than too informal (consider that your email may be forwarded\nto another member of staff who you are not so familiar with)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Avoid using shorthand in emails, such as ‘thx’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use correct grammar, complete sentences and capital letters in the appropriate places (‘I’\nnot ‘i’)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make sure your email address is appropriate and professional"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Always check you've got the right name in the 'To' box: there are often staff members at\nuniversity who have similar names"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make sure your email only goes to the people who need to read it. Remember that if you\nreply to all, then everyone will get your email"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If you don’t want other recipients to see who else you’ve sent the email to, use the ‘bcc’\nfield"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "This sounds obvious, but don't forget to attach attachments! A word of advice – attach the\nfile you want to send before you start writing. That way, you can't forget to attach it!"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "DON’T USE CAPITAL LETTERS! If you write in this way, you are basically shouting at\nyour reader"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Short emails can sometimes sound rude, so try to make them polite and friendly"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Long emails can be quite off-putting, so consider putting extra information in an\nattachment, which the reader can read later"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Proofread before you send. If you make mistakes in your email, people will think you also\nmake mistakes in your work. So always check everything carefully"
                                     }
                                 ]
                             }
@@ -10228,24 +10737,208 @@
                 ]
             },
             {
-                "name": "Chapter 1",
-                "sections": []
+                "name": "Starting and finishing phrases",
+                "sections": [
+                    {
+                        "subtitle": "Starting and finishing phrases",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Look at the table for some suggestions on how you might start or finish an email.  The\nphrases in red aren't really suitable for addressing academic staff.  You should also avoid the\nvery formal phrase."
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/aims-table.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "We've got starting and ending phrases, separated into formal and informal.  Your tutor\nwould probably be happy with 'hi' as a greeting, or 'dear' is also a good one to use.  Avoid the\nphrases in red, as they are very informal and not really suitable for addressing a member of\nstaff.  Remember as well that you may be emailing someone you're familiar with, but that\nperson might forward it to someone else, so it's probably better to be a little more formal\nthan you are with your friends.  'Dear Sir or Madam' is probably not necessary though."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Try the quick quiz on the Microsoft form below",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "The quiz to go here >>>>>>>>>>>>>>>>>>"
+                            }
+                        ]
+                    }
+                ]
             },
             {
-                "name": "A New Chapter",
-                "sections": []
-            },
+                "name": "References",
+                "sections": [
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "Writing: English for emails [accessed 31 March 2016]",
+                                "link": "http://learnenglish.britishcouncil.org/en/english-emails?utm_source=LEfacebook&utm_medium=social&utm_campaign=emailenglish",
+                                "authors": [
+                                    {
+                                        "name": "British Council (2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Writing Business emails [accessed 14 June 2017]",
+                                "link": "http://www.plainenglish.co.uk/files/email.html",
+                                "authors": [
+                                    {
+                                        "name": "Plain English Campaign (2017)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "TEST NEW BLOCK",
+        "chapters": [
             {
-                "name": "Chapter 2",
+                "name": "Introduction",
                 "sections": []
             }
         ]
     },
     {
-        "name": "Testerblock",
+        "name": "Research for Beginners",
         "chapters": [
             {
                 "name": "Introduction",
+                "sections": [
+                    {
+                        "subtitle": "Aims",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Choosing a topic"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Research questions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Planning your dissertation – structure and sections"
+                                    }
+                                ],
+                                "subtitle": "Gain advice on:-"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Introduction",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Large-scale assignments enable you to:\n<ol>explore a particular area that interests you</ol>\n<ol>work independently</ol>\n<ol>improve your skills</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You have control over your work"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You need to demonstrate commitment and manage time"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You have the opportunity to make a difference!"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Choosing a topic",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "You may already have an idea of something that interests you"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If you do, start to jot ideas down, e.g., main topic areas, questions you want answers to,\nanything that comes into your head"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If you don’t, start to read around the subject you’re studying and see if anything generates\nan interest"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If you work, what problems occur in your workplace?  How could you help to address\nthese?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Talk to others about your ideas – what do they say?  Do they agree with your views?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Narrow down your list of topics: which are most interesting? Which have plenty of\nliterature?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Where have you identified gaps in existing literature?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Leave plenty of time for reading"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Start to formulate some questions you would like answers to"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Then begin to refine and order them"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Clarify exactly what you want to investigate: e.g., if you want to find out about the\nrelationship between students and their tutors: which students? (1st year? which college/\nschool? Any particular group of students?) Which tutors? (Personal/academic/seminar\ntutors?)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You also need to think about how you are going to do your research and whether it is\nfeasible - remember that you have a limited amount of time and topics often expand\nbeyond your expectations"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Start to write down some of your ideas on the form below.  This will help you to think about\nthe direction you might wish to take."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Research for Beginners",
                 "sections": []
             }
         ]
