@@ -10932,6 +10932,522 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "text": "Start to write down some of your ideas on the form below.  This will help you to think about\nthe direction you might wish to take."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "FORM >>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Writing a research question",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "When you have an idea of what you'd like answers to, you can start to refine your questions.\n<p><p>\nMake sure your questions are specific and not too broad - consider how they are connected\nwith your topic.\n<p><p>\n<b>A good research question will…</b>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Define an investigation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Set boundaries (Remember your limitations)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Provide direction"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Act as a frame of reference for assessing your work"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from O’Leary, 2017, 37)"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Research proposal",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Your dissertation supervisor will probably provide you with a template or tell you exactly\nwhat information is required"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You will need to know what the rationale is for your study? (what do you want to study\nand why?)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Prepare your outline plan"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Check it with your supervisor"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You will need to gain any relevant permission (ethics) and complete an ethical approval\nform"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Revise your proposal as your supervisor advises"
+                                    }
+                                ],
+                                "subtitle": "Writing and agreeing your proposal"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Reviewing the literature",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "what is the most important writing on the subject"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "what key contributions to findings have been made in this area, and who contributed\nthem"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "how previous research leads up to your research"
+                                    }
+                                ],
+                                "subtitle": "Before commencing your research, you will need to review what has already been written on the subject.  You will need to find out:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "show awareness of current state of knowledge of the topic"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "evaluate what has been written already"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "only mention relevant texts, not everything you have read - select carefully"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "group similar ideas together"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "compare results of different investigations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "keep records of what you’ve read"
+                                    }
+                                ],
+                                "subtitle": "You will also need to:"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Planning your research",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "How will you obtain answers to your questions?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Who are you researching?  Who do you plan to speak to/observe?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Where will your study be based (geographical area)?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "When will you carry out your research?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How will you collect your data?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What will you look for from your data?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What kind of data will you collect? ( e.g. ideas, opinions, numbers)"
+                                    }
+                                ],
+                                "subtitle": "Think about:"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from O’Leary, 2017, 125)"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Methods of data collection",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Think about the advantages and disadvantages of certain methods, e.g. interviews,\nquestionnaires, observations, document searches"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Which method(s) are best suited to your investigation?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "What do you think are the advantages and disadvantages of this\nmethod?  What should you consider when interviewing others?\n<p><p>\nThink/discuss, then have a look at the ideas below.",
+                                "subtitle": "Interviews"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "PRESENTATION >>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Questionnaires: What is wrong with these questions? Have a look and make a note of your answers on the quiz below.",
+                                "text": "<ol type='1'>\n<li>How old are you: 0-20, 20-40, 40-60</li>\n<li>Do you know who is the current Prime Minister? Yes/No</li>\n<li>Do you agree with capital punishment? Yes/No</li>\n<li>Do you like coming onto campus and eating in the café?</li>\n<li>How much time do you spend studying? A. a great deal, B. a\ncertain amount, C. not at all</li>\n</ol>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Adapted from Bell (1993, 77-82)"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Questionnaires FORM >>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Now have a look at the ideas on the presentation below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "QUESTIONS <p>\nPRESENTATIONS >>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Observations: You may wish to observe a situation such as a lesson in a classroom, some area of health care practice, or a business meeting. Think about:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "How will this help you answer your questions?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Will you be a participant/non-participant?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do you need a co-observer, who may notice things you don’t?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What are you looking for? (contents, processes, interaction)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Classifying behaviour (proposing, supporting, disagreeing,\ngiving information, seeking information, building)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You could use grids to record names and types of behaviour/\nnumber of interactions, e.g. in a business meeting"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Writing up your project",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Keep notes as you go along, and the writing up won’t seem so daunting"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Keep a research diary, recording any thoughts, setbacks, ideas"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "See next slide for possible structure"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Sections of a dissertation",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Title page"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Acknowledgements (if there’s anyone you want to thank)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Contents"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Abstract"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Introduction: aims/purpose of study"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Literature review"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Methodology"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Presentation of results"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Analysis/discussion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Summary and conclusions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "References"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Appendices"
+                                    }
+                                ],
+                                "subtitle": "Your dissertation will normally include…"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Abstracts",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "is a concise summary of your dissertation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "states why your research is important"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "states your conclusions/recommendations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "gives your research questions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "states your methods and results"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "is often read separately"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "is not included in your word count"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "is best written when you’ve finished"
+                                    }
+                                ],
+                                "subtitle": "An abstract..."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Methodology section",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "how you conducted your research"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "the methods you used"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "how many people you surveyed"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "how you selected your participants"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "the instructions you gave them"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "how you gained your data and analysed them"
+                                    }
+                                ],
+                                "subtitle": "The methodology section states..."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "It can be written in the passive (e.g. ‘first this was done, then this\nwas done…’) to avoid excessive use of 'I'"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Presentation of results"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Often done in tables/graphs for easy understanding"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The words need only point out main or surprising findings"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The discussion and analysis of your results will be a longer\nsection"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "General advice",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Don’t try to do too much – you will be surprised how your questions escalate"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make it clear what your study’s limitations are"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Consider the ethical implications of your study"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "Doing your research project, 2nd edition",
+                                "publisher": "Buckingham: Open University",
+                                "authors": [
+                                    {
+                                        "name": "Bell, J. (1993)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "The study skills handbook, 4th edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2013)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "The essential guide to doing your research project, 3rd edition",
+                                "publisher": "London: Sage",
+                                "authors": [
+                                    {
+                                        "name": "O’Leary, Z. (2017)"
+                                    }
+                                ]
                             }
                         ]
                     }
