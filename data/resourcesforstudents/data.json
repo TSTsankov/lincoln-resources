@@ -38,7 +38,7 @@
                 "name": "Discussion | Thinking",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
+                        "subtitle": " ",
                         "space_after": true,
                         "components": [
                             {
@@ -120,10 +120,68 @@
                 "name": "Effective time management",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Find out your time requirements",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Look in your module handbook and see how much time it is recommended\nyou spend studying."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "You may need more than this if your study background isn't\nstraightforward, or English isn't your first language."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Find out where the time goes",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [
+                                    {
+                                        "portion": "Mindtools website",
+                                        "href": "https://www.mindtools.com/pages/article/newHTE_03.htm"
+                                    }
+                                ],
+                                "text": "Have you ever thought you didn't know where your time went?  Many of us have!<br><br>\nTry keeping a log for a week and see exactly how you spend your time.  It might be\nvery different from what you think.<br><br>\nSee the activity log here: Mindtools website<br><br>\nDo you really need to spend your time in this way?  What things could you change to\nmake more room for studying?<br><br>\nHowever, remember to make time for hobbies, socialising and keeping healthy."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Prioritise",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Decide what is important and urgent, and leave tasks which aren't important or urgent\nuntil later.<br><br>\nDo you really need to do the things that aren't important?"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Make a plan, and stick to it",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Plan exactly when you are going to do what you need to do.<br><br>\nWork backwards from deadlines: what you need to do and how long it will take (e.g.\nearly brainstorming, research methods, searching for information, organising &\nselecting information, drafts, checking, hand-in).<br><br>\nPut your plan somewhere you can see it or will look at it regularly.<br><br>\nIf your plan isn't working - change it!  Don't try to stick to something that doesn't work\nfor you."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Manage Distractions",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "What distracts you?<br><br>\nHow can you stop this?<br><br>\nTry this app: Forest App"
+                            }
                         ]
                     }
                 ]
