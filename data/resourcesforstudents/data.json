@@ -431,10 +431,14 @@
                 "name": "Aims",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Aims",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Identify your strengths and weaknesses.<br><br>\nSMART targets – learn what they are and identify whether examples are SMART.<br><br>\nSet your goals."
+                            }
                         ]
                     }
                 ]
@@ -443,10 +447,76 @@
                 "name": "Skills → strengths & weaknesses",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Skills: strengths and weaknesses",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Skills: strengths and weaknesses"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Think about the skills you have and make a note of them"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "There are probably more than you think!"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You also develop skills in your personal life, e.g. comparing different opinions and\ndecision making"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Make a list of your current skills/qualities"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "People skills: understanding, being sociable, helping others, speaking clearly, leadership,\ngiving feedback"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Activities: making decisions, being creative, setting priorities, ICT skills, problem solving,\nlanguages, numbers"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Personal: managing self, learning from mistakes, staying calm, being assertive,\ndetermination"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from Cottrell, 2015)"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "What do you need to improve"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Below there are lists of academic skills"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Write down the ones you think are a priority for you to develop:"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
