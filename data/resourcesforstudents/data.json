@@ -491,7 +491,7 @@
                 ]
             },
             {
-                "name": "Academic writing should be…",
+                "name": "Academic writing should be",
                 "sections": [
                     {
                         "subtitle": "A Subtitle..",
@@ -897,7 +897,7 @@
                 ]
             },
             {
-                "name": "Example: how is this argument flawed?",
+                "name": "Example → how is this argument flawed?",
                 "sections": [
                     {
                         "subtitle": "A Subtitle..",
@@ -1022,7 +1022,7 @@
                 ]
             },
             {
-                "name": "Activity: argument or not?",
+                "name": "Activity → argument or not?",
                 "sections": [
                     {
                         "subtitle": "A Subtitle..",
@@ -1406,7 +1406,7 @@
         ]
     },
     {
-        "name": "Presentations (1): The slides",
+        "name": "Presentations (1)→ The slides",
         "chapters": [
             {
                 "name": "Aims",
@@ -1678,7 +1678,7 @@
                 ]
             },
             {
-                "name": "Overcoming anxiety: unhelpful scenario",
+                "name": "Overcoming anxiety→ unhelpful scenario",
                 "sections": [
                     {
                         "subtitle": "A Subtitle..",
@@ -1827,7 +1827,7 @@
                 ]
             },
             {
-                "name": "Speed reading: what works?",
+                "name": "Speed reading → what works?",
                 "sections": [
                     {
                         "subtitle": "A Subtitle..",
@@ -1839,7 +1839,7 @@
                 ]
             },
             {
-                "name": "Summary: types of reading",
+                "name": "Summary → types of reading",
                 "sections": [
                     {
                         "subtitle": "A Subtitle..",
@@ -1930,7 +1930,7 @@
         ]
     },
     {
-        "name": "Academic Writing 3: Hedging",
+        "name": "Academic Writing 3 → Hedging",
         "chapters": [
             {
                 "name": "Aims",
@@ -2130,7 +2130,7 @@
                 ]
             },
             {
-                "name": "Summary: critical thinking...",
+                "name": "Summary → critical thinking...",
                 "sections": [
                     {
                         "subtitle": "A Subtitle..",
@@ -2389,7 +2389,7 @@
         ]
     },
     {
-        "name": "Cross→cultural communication",
+        "name": "Cross → cultural communication",
         "chapters": [
             {
                 "name": "Aims",
@@ -2944,7 +2944,7 @@
         ]
     },
     {
-        "name": "English language skills: Sentence structure",
+        "name": "English language skills → Sentence structure",
         "chapters": [
             {
                 "name": "Aims",
