@@ -307,10 +307,18 @@
                 "name": "Managing procrastination and distraction",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": " ",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "It's easy to put off studying and get distracted.  What do you think might motivate you\nto study and stay on task?<br><Br>\nThink about/discuss your ideas, then have a look at the ideas below."
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/study_v2.jpg"
+                            }
                         ]
                     }
                 ]
@@ -319,10 +327,66 @@
                 "name": "Employability & Time Management",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": " ",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Prospective employers will often ask questions relating to time management in a job\ninterview.  Some typical questions could be:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Describe a situation in which you had to work under pressure."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How do you balance your time between your studies and your spare time?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You are sat on reception, answering the telephone when a visitor arrives at the\noffice and your manager hands you a note to see them straightaway. How do you\nrespond?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Tell me about a time when you had multiple deadlines to meet; how did you cope\nwith this situation?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(University of Manchester Careers Service, 2016)<br><br>\nIn order to answer the questions, you could use one of the following acronyms:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Context – Say who, when, what, where, how and why this situation was."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Action – Say specifically what you did and how you demonstrated that competence."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Result – Say something specific or quantifiable, a learning point or feedback from\nothers."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Alternative: STAR (Situation, Task, Action, Result)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(University of Manchester Careers Service, 2016)<br><br>\nWatch the video below.  What time management tips are given?<br><br>\n\nTIME MANAGEMENT TIPS VIDEO >>>>>>>>>>>>>>>>"
+                            }
                         ]
                     }
                 ]
@@ -331,10 +395,29 @@
                 "name": "References",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "References and Further Study",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "link-reference",
+                                "title": "The Study Skills Handbook (4th ed.)",
+                                "publisher": "Cottrell, S. (2013)",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2013)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Mindtools website",
+                                "link": "https://www.mindtools.com/pages/main/newMN_HTE.htm"
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "University of Manchester Careers Service",
+                                "link": "http://www.careers.manchester.ac.uk/experience/skills/timemanagement/"
+                            }
                         ]
                     }
                 ]
