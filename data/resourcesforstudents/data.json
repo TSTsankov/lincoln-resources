@@ -768,8 +768,8 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "subtitle": "Record your answers on the form below."
-                            },
+                                "subtitle": "Record your answers on the form ìn the next section."
+                            }
                             {
                                 "type": "text-paragraph",
                                 "links": [],
@@ -816,37 +816,42 @@
                 ]
             },
             {
-                "name": "Identify your targets",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Action plan",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
                 "name": "References",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "References",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "link-reference",
+                                "title": "The Study Skills Handbook, 4th edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2013)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Skills for Success: Personal Development and Employability, 3rd edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2015)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Study Skills for Business and Management Students",
+                                "publisher": "Harlow: Pearson Education Ltd",
+                                "authors": [
+                                    {
+                                        "name": "Ramsay, P., Maier, P. and Price, G. (2010)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
