@@ -518,6 +518,107 @@
                                 ]
                             }
                         ]
+                    },
+                    {
+                        "subtitle": "Academic Skills",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Organising myself for study"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Using study time well"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Thinking creatively"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Solving problems"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reading for academic purposes"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Searching for information for assignments"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Making and using notes"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Making good use of lectures"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Memory skills"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Preparing for exams/taking exams"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Evaluating my work & using feedback"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Contributing to group work"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Presenting"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Managing writing tasks"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Using academic style in writing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Writing reports and dissertations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Undertaking a research project"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Avoiding plagiarism"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Citing sources and writing references"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Thinking critically and analytically"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Evaluating arguments"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "You can record your thoughts on the form below.",
+                                "text": "SKILLS FORM >>>>>>>>>>>>>>>>>>>>"
+                            }
+                        ]
                     }
                 ]
             },
