@@ -626,10 +626,191 @@
                 "name": "SMART targets",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "SMART targets",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "SMART targets"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Targets need to be clear and achievable.\nWe need to know when we have completed them.\nVague targets like: “I need to study more” are not useful.<br><br>\nHow much is “more”? How will you know you have done more? When will you start?.\nTo make this target useful, we need to identify how much is “more”, e.g. 2 hours per day.<br><br>\nSo a more reasonable target might be: “I will study for 2 hours per day starting from today\nuntil my exams”."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "What is SMART ?"
+                            },
+                            {
+                                "type": "list-text",
+                                "links": [],
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Specific"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Measurable"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Achievable"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Realistic"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Time-related"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/smart_pics.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Example",
+                                "text": "“I will complete my essay introduction (200 words) by 9p.m. this evening”"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Specific: the introduction"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Measurable: I can count the words"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Achievable: I’ve already planned the content so I should have the knowledge to complete\nthe introduction"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Realistic: It is not too difficult to write 200 words in one evening"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Time-related: by 9p.m."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Flexibility"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "You need to allow some flexibility in the targets"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "For example, if you get interrupted and don’t finish a task, extend the ‘deadline’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Monitor targets regularly to see if they are working"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If not, change them"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Perhaps you were being unrealistic"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Are these targets SMART?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Improve my grades this term"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Read more"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Write a 250-300 word introduction by 3p.m. today (to be handed in at 6p.m. in 2 days’\ntime)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Write a 1000 word report within the next 24 hours"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Go and see my Personal Tutor"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Record your answers on the form below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Identify your targets"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Look back at the skills you wrote down that you wanted to improve.\nHow are you going to improve them?\nWhat are you going to do and when?\nHow will you know when you have improved?<br><br>\nIdentify at least 2 targets you would like to achieve this term. \nAre they SMART?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Action Plan"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Create an action plan like the one below, write down your goals and how you are going to\nachieve them.<br><br>\n<b>Action plan</b>"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/actionplan_form.png"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Who might be able to help?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What will you need to do?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Remember to keep them SMART – identify small stages rather than overall aims"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
