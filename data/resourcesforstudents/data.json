@@ -9607,10 +9607,26 @@
                 "name": "Aims",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Aims",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify what is meant by reflection"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Look at different reflective cycles/models"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Relate theory to practice"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -9619,10 +9635,38 @@
                 "name": "Reflection",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Reflection",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "The term ‘reflection’ is limited"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "A mirror simply reflects what’s in front"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reflective practice goes right through glass to the other side\nand sees experiences from other viewpoints"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It examines different scenarios (Bolton, 2005, 4)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It encourages learning and developing by examination of a situation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It looks at how others might see it (Bolton, 2005, 7)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -9631,10 +9675,27 @@
                 "name": "What reflection is not",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "What reflection is not",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "links": [],
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Being overly negative about yourself"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Blaming others"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Dwelling on things you did ‘wrong’ without any action plan"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -9643,10 +9704,26 @@
                 "name": "Purpose of reflection",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Purpose of reflection",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "For what reason are you reflecting?  It could be...\n<ol>Assessment</ol>\n<ol>Professional development</ol>\n<ol>Just because you want to!</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What do you want to understand or do better because of it?  It's important to identify\nwhat you want to achieve."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "There are many ways to reflect (e.g. blogs, journals, essays, discussion, workplace CPD)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -9655,10 +9732,98 @@
                 "name": "Reflective writing",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Reflective writing",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "image-single",
+                                "src": "/images/notebook.jpeg"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Written in the first person (I) with a focus on yourself"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Generally more personal than other forms of academic writing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Helpful when you’re asked to evaluate experiences"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Focused on your experiences, thoughts, feelings, assumptions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "A form of self-supervision"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Honest and spontaneous"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Subjective"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "A record of your thoughts and experiences that you can return to"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "An investment of time"
+                                    }
+                                ],
+                                "subtitle": "Reflective writing is…"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Bassot, 2016, 16)"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Selection: you can select one aspect of practice for analysis"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Changing perspective: you can analyse different angles and try seeing it from another's\npoint of view"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Returning to experience:  it could be a recurring incident, a critical incident, maybe based\non a theme, or a particular challenge you had to face"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Analysis of role: analyse the impact of your role in a situation, reasons you did things, any\nchanges that took place within you or your group for example"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Received wisdom: what are the theories and research that apply to the situation?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Deepening understanding: you should start to make sense of your experience"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Using insights to effect change: you should be aiming to make a difference – e.g. more\neffective studying or developing in professional practice"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Different models of reflection… have a look at the following examples that can be used to\ninspire your thinking.  You could even create your own model!"
+                                    }
+                                ],
+                                "subtitle": "Characteristics of Critical Reflection"
+                            }
                         ]
                     }
                 ]
@@ -9667,10 +9832,208 @@
                 "name": "Reflective cycles",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Reflective cycles",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Argyris’ ladder of inference (1982)"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/argyris_ladder_2.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [
+                                    {
+                                        "href": "https://cdn.pixabay.com/photo/2013/07/12/12/03/tool-145193_960_720.png",
+                                        "portion": "https://cdn.pixabay.com/photo/2013/07/12/12/03/tool-145193_960_720.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Start at the bottom with ‘observe’\n<p><p>\nAction: taking action\n<p><p>\nBeliefs: this leads to beliefs about the world\n<p><p>\nConclusions: form conclusions based on assumptions\n<p><p>\nAssumptions: based on the meanings\n<p><p>\nMeanings: attachment of meanings to these\n<p><p>\nSelect: selection of focus from these experiences/data\n<p><p>\nObserve: experiences or data"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Kolb’s cycle of experiential learning (1984)"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/kolbs_cyle_2.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Concrete experience: doing/taking part in/having an experience\n<p><p>\nReflective observation: thoughts, reviews on the experience\n<p><p>\nAbstract conceptualization: conclusions made from the experience\n<p><p>\nActive experimentation: trying out what was learned – leading on to another experience,\nwhich starts the cycle again"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Gibbs’ reflective cycle (1988)"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/Gibbs_reflection_2.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "We'll look at Gibbs' cycle in more detail.  It is a useful, straightforward model to use."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What happened?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What was my role?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What was the role of others?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What did I do?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What did they do?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What outcomes were there?"
+                                    }
+                                ],
+                                "subtitle": "Gibbs’ cycle: description"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/feelings_emotions.jpeg"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "How did I feel?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What did I find interesting/inspiring/disappointing and why?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Why did I respond as I did?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How might others have responded in a similar situation?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Were my actions appropriate?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Were my expectations met?"
+                                    }
+                                ],
+                                "subtitle": "Gibbs’ cycle: feelings"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What was positive and negative about the experience?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What were my strengths and weaknesses?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What did I learn?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Has it changed anything in me?"
+                                    }
+                                ],
+                                "subtitle": "Gibbs’ cycle: evaluation"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What theory or research is relevant to this?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How does what happened relate to this theory?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How could my involvement have improved?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What could we have done instead and what consequences would that have had?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Questions in bold particularly important if for an assessment"
+                                    }
+                                ],
+                                "subtitle": "Gibbs’ cycle: analysis"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What did I learn from this exercise?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What would I do differently next time?"
+                                    }
+                                ],
+                                "subtitle": "Gibbs’ cycle: conclusion"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Useful for both academic study and work"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reflection should result in action planning"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Remember the SMART goals:\n\n<ol>Specific</ol>\n<ol>Measurable</ol>\n<ol>Achievable</ol>\n<ol>Realistic</ol>\n<ol>Time-related</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Monitor and review if necessary"
+                                    }
+                                ],
+                                "subtitle": "Gibbs’ cycle: action plan"
+                            }
                         ]
                     }
                 ]
@@ -9679,10 +10042,46 @@
                 "name": "Relating theory to practice",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Relating theory to practice",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Check research basis – choose an area you know has published research"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Key issues – research that supports, any criticisms, debate within the subject"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How and why your experiences support/don’t support these theories"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "New insights – are there theories that support these?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Relate your conclusions to broad research base"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Learn from experts – reputable sources of research to understand difficult areas"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Does research encourage you to do things differently?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Helps understand: what happened, why, how wider issues impact, how you can act\ndifferently for different outcomes"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -9691,10 +10090,31 @@
                 "name": "Good reflection",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Good reflection",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "has a clear focus"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "goes below the surface, analyses initial thoughts"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "uses theory and links experience to it"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "leads to action"
+                                    }
+                                ],
+                                "subtitle": "Good reflection…"
+                            }
                         ]
                     }
                 ]
@@ -9703,10 +10123,35 @@
                 "name": "Poor reflection",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Poor reflection",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "blames others"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "tries to cover too many aspects/be too general"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "is superficial (only looks at the surface)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "doesn’t refer to theory"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "is mainly descriptive and doesn’t develop understanding"
+                                    }
+                                ],
+                                "subtitle": "Poor reflection…"
+                            }
                         ]
                     }
                 ]
@@ -9715,10 +10160,64 @@
                 "name": "Applications for professional practice",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Applications for professional practice",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Reflection is increasingly used for Continuing Professional Development in the work place"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It brings theory alive"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It recognises lifelong learning - we never stop learning!"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It relates practical experience to academic study"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It helps us develop understanding of difficult situations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It challenges our own assumptions and actions"
+                                    }
+                                ],
+                                "subtitle": ""
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": []
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "areas of health care, education, teaching, management, and research often engage in\nreflection"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "encourages practitioners to gain insight into their own professionalism through their\nexperiences"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "approaches may range from informal discussions to highly structured formats"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "models guide process, but allow for flexibility"
+                                    }
+                                ],
+                                "subtitle": "Reflection in work"
+                            }
                         ]
                     }
                 ]
@@ -9727,10 +10226,31 @@
                 "name": "Practice",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Practice",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Think about a recent activity you took part in as part of your studies (e.g. a presentation,\ngroup work)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use Gibbs' cycle and make notes of your ideas for each stage, based on the activity you\ntook part in"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use the form below for your notes"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "REFLECTION \n<p><p>\nFORM >>>>>>>>>>>>>>"
+                            }
                         ]
                     }
                 ]
@@ -9739,10 +10259,30 @@
                 "name": "Summary",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Summary",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "We have identified what reflection is and is not"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "We have looked at several models, or you could create your own"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "We have considered the academic and professional applications"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reflection should effect a change/contribute to your development"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -9751,10 +10291,59 @@
                 "name": "References",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "References",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "link-reference",
+                                "title": "The reflective journal, 2nd edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Bassot, B. (2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Reflective practice, 2nd edition",
+                                "publisher": "London: Sage",
+                                "authors": [
+                                    {
+                                        "name": "Bolton, G. (2005)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Critical Thinking Skills 2nd edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2011)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "The Study Skills Handbook, 4th edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2013)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "How to improve your critical thinking and reflective skills",
+                                "publisher": "Harlow: Prentice Hall",
+                                "authors": [
+                                    {
+                                        "name": "McMillan, K. and Weyers, J. (2013)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -9768,10 +10357,29 @@
                 "name": "Aims",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Aims",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify the advantages of working with people from other cultures"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify the challenges and try to address these"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify the differences between people from different cultures and how these might affect\nthe work place"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph"
+                            }
                         ]
                     }
                 ]
@@ -9780,10 +10388,82 @@
                 "name": "Discussion | Thinking",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Discussion/Thinking",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Have you ever visited another country and been misunderstood or misunderstood\nsomeone?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What happened?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Why do you think the misunderstanding happened?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Click on the form and make a note of your answer."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "FORM >>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "What are the advantages of working with other cultures?",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Think/discuss and then have a look at the suggestions."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "PRESENTATION >>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "More different viewpoints"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Greater range of ideas"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Gain understanding of diverse markets"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Broader talent pool"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Broadens your experience"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Makes you a more valuable job candidate"
+                                    }
+                                ],
+                                "subtitle": "Suggestions"
+                            }
                         ]
                     }
                 ]
@@ -9792,10 +10472,14 @@
                 "name": "What about the challenges ",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "What about the challenges?",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "image-single",
+                                "links": [],
+                                "src": "/images/challenges_cultural.png"
+                            }
                         ]
                     }
                 ]
@@ -9804,10 +10488,39 @@
                 "name": "Think | discuss and then have a look at the suggestions",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Think/discuss and then have a look at the suggestions",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Connecting with each other"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Understanding each other"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Language"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Working in teams"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Different expectations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Sending and receiving messages"
+                                    }
+                                ],
+                                "subtitle": "Some of the challenges could be..."
+                            }
                         ]
                     }
                 ]
@@ -9816,10 +10529,32 @@
                 "name": "Challenge",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Challenge",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "“We are a group of students from a variety of different cultures working together on\ncoursework, which can sometimes present certain challenges.  Are there ways to make\nthis easier?”"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What do you think?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Complete the form with your ideas."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Thinking/discussion<p>\nFORM >>>>>>>>>>>>>>>>>>>"
+                            }
                         ]
                     }
                 ]
@@ -9828,10 +10563,14 @@
                 "name": "Suggestions",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Suggestions",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<li>Identify exactly where the problem might be.  Some students…<p><p>\n<ol>may not seem to speak as much.  This doesn’t mean that they don’t want to contribute.\nThey may need more time to process the information.  Find out what the issue is,\nreassure them that their contribution is valuable, give time and space to ensure they are\nheard;</ol>\n<ol>may do their work in a different way/at a different timescale.  Develop some rules –\nmake sure all understand group norms;</ol>\n<ol>may not want to socialise. Values/religion may be different.  Make sure social events are\naccessible to all.</ol></li>"
+                            }
                         ]
                     }
                 ]
@@ -9840,10 +10579,19 @@
                 "name": "Thinking | discussion",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Thinking/discussion",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "What differences have you noticed when working with people from other cultures?  What\ndifferences do you think might occur in the workplace? Make a note.\n<p><p>\ne.g. attitudes to time and punctuality"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "FORM >>>>>>>>>>>>>>>>>>>>>>"
+                            }
                         ]
                     }
                 ]
@@ -9852,10 +10600,80 @@
                 "name": "Some ideas",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Some Ideas",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "image-single",
+                                "links": [],
+                                "text": "Presentation >>>>>>>>>>>>>",
+                                "src": "/images/success.jpeg"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Attitudes to work and success"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Respect for rank and status (power distance)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Manners/politeness"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Openness/inclusiveness"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use of ICT"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Greetings"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Personal space"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Perception of gender differences"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Facial expressions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Eye contact"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Body language"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Respect for age/youth"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Mixing of work with pleasure"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Religious differences"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Direct/indirect communication styles"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -9864,10 +10682,25 @@
                 "name": "Improving intercultural communication",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Improving intercultural communication",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<b>How can we improve our communication with people from other cultures?</b>\n\nThink/discuss, then have a look at the presentation for some ideas."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "PRESENTATION >>>>>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "It's important to be sensitive to others and realise that they\nmight have a different understanding or perspective.  Check that\nyou understand correctly, but also be aware that too much\nchecking could cause offence.\n<p><p>\nAlso remember that no one is perfect, and if you make a mistake,\nbe prepared to apologise.",
+                                "subtitle": "Remember"
+                            }
                         ]
                     }
                 ]
@@ -9876,10 +10709,31 @@
                 "name": "Case Study",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Case Study",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "John is visiting colleagues from his company in China for a business meeting.  After the\nmeeting, his colleagues decide to go out for a meal, and invite John to go with them.  John\nrefuses, as he feels tired.  During the meal, some important business decisions were made,\nand when John finds out later, he is annoyed.  His colleagues say he should have gone with\nthem."
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/meeting.jpg"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What should John have done?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Why did the colleagues make decisions at a social event?"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -9888,10 +10742,43 @@
                 "name": "Intercultural competencies → the 7C’s",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Intercultural competence – the 7Cs",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Capability: possesses knowledge about being ‘cross-cultural’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Care: considers all stakeholders in making decisions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Connection: is used to engaging with diverse/international communities"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Context: is humble enough to be aware of own strengths and weaknesses"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Contrasts: understands situations without judging"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Consciousness: develops followers according to their cultural backgrounds"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Cultural immersion: has experience of living abroad"
+                                    }
+                                ],
+                                "subtitle": "Developed by Sheridan (2005, cited in Morgan, 2017, 287)"
+                            }
                         ]
                     }
                 ]
@@ -9900,10 +10787,47 @@
                 "name": "How can we develop our own cross→cultural awareness ",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "How can we develop our own cross-cultural awareness?",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Visit new places"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Read about other cultures"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Get to know students from another culture"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Learn another language"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Visit a friend in their culture"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Live in another country or go on a student exchange"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Communicate in international online communities"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "What are you going to do to develop yours?  Add it to your Action Plan!"
+                            }
                         ]
                     }
                 ]
@@ -9912,10 +10836,18 @@
                 "name": "Action Plan",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Action Plan",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Have a look at the action plan and develop one of your own."
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/action_plan_culture.png"
+                            }
                         ]
                     }
                 ]
@@ -9924,10 +10856,19 @@
                 "name": "Taking it to work",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Taking it to work",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<b>Possible interview questions: what might your answers be?</b>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "What do you think are the biggest issues currently facing international organisations?<p><p>\nWhat difficulties would you expect to face if you were offered a role in another country?<p><p>\nImagine a situation where you – as a departmental manager – needed quickly to resolve\na conflict between two individuals of different cultural backgrounds about an issue where\nboth held very strong and opposing views.  How would you handle such a situation?<p><p>"
+                            }
                         ]
                     }
                 ]
@@ -9936,10 +10877,34 @@
                 "name": "Summary",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Summary",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Be aware of your own and others’ cultural differences"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Give others time to respond"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Be prepared to work in a different way"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Try not to assume or make judgements"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Develop your inter-cultural competence"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -9948,10 +10913,29 @@
                 "name": "References",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "References",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "link-reference",
+                                "title": "Business communication today, global edition, 13th ed.",
+                                "publisher": "Harlow: Pearson Education",
+                                "authors": [
+                                    {
+                                        "name": "Bovee, C. L.  and Thill, V. J.(2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "The business student’s guide to study and employability",
+                                "publisher": "London: Sage",
+                                "authors": [
+                                    {
+                                        "name": "Morgan, P. (2017)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -9965,10 +10949,33 @@
                 "name": "Aims",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Aims",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify how to structure a response"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify what makes a good answer"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Look at different revision strategies"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Look at use of time in the exam"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text"
+                            }
                         ]
                     }
                 ]
@@ -9977,10 +10984,32 @@
                 "name": "Discussion | Thinking",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Discussion/thinking",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What’s your general experience of exams?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do you prefer exams or coursework?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "You can record your thoughts on the form below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Exam <p>\nFORM >>>>>>>>>>>>>>"
+                            }
                         ]
                     }
                 ]
@@ -9989,10 +11018,30 @@
                 "name": "Check your course learning outcomes",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Check your course learning outcomes",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Go to your course information and find the learning\noutcomes – these should be clearly listed"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make sure you have achieved these"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Assessments are designed to check learning outcomes, so if\nthey don’t appear in your previous assignments, they are\nvery likely to appear in the exam"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make sure you understand the terminology used, e.g.,\nexplain, analyse, synthesise"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -10001,10 +11050,59 @@
                 "name": "Essay→styled responses",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Essay-styled responses",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "These should be relatively detailed"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "They should contain an introduction, main body and a\nconclusion as you would in an essay for course work"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Introduction: scene setting, e.g. approach, model you’re\ngoing to use and why; how you're going to answer the\nquestion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Main section: explore, analyse, synthesise and evaluate"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Conclusion: draw together key issues to form a supported\nconclusion that comes from the points discussed (e.g.\n‘Company X should avoid entering market Z due to the\ncurrent high entry barriers as shown in the Five Forces\nanalysis…’ )"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "What makes a 'good' exam answer?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<b>Make a note on the form below.</b>\n<p><p>\n<i>What do you think makes a ‘good answer’ for an essay-styled\nquestion?</i>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "A good exam answer\n<p><p>\nFORM >>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Have a look at the ideas below.  Click on the pictures to see the\nnext."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Presentation \n\n<p> <p>FORM >>>>>>>>>>>>>>>\n<p>What makes a good answer for an essay-style question."
+                            }
                         ]
                     }
                 ]
@@ -10013,10 +11111,26 @@
                 "name": "Short answer responses",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Short answer responses",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Need to be succinct"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Short paragraphs/extended bullet points"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "For example, bullet points could be used to explain PESTLE factors or key elements of a\nmodel (such as Porter’s Five Forces)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -10025,10 +11139,44 @@
                 "name": "Multiple choice questions",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Multiple choice questions",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "image-single",
+                                "src": "/images/multiplechoiceques.jpeg"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Possible to get 100%"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Usually follow a pattern: one correct answer, close (but wrong) answer, one or two\nanswers near topic, answer far removed from topic (sometimes an ‘all of the above’\noption)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Aim is to check understanding of key concepts and make basic links"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You need to know the subject well to answer them"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use reasoning if the answer isn’t immediately obvious to you"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<ol type=\"1\">\n<li>Read all the questions first</li>\n<li>Answer the ones you are sure of</li>\n<li>Look at the ones you’re not sure of: compare and contrast questions and possible\nanswers – look for links and similarities (rephrase to T/F question?)</li>\n<li>Only guess as a last resort if there’s no penalty for a wrong answer</li>\n<li>Check your answers and that you’ve clearly indicated them</li>\n</ol>",
+                                "subtitle": "Multiple choice questions: reasoning"
+                            }
                         ]
                     }
                 ]
@@ -10037,10 +11185,49 @@
                 "name": "Revision strategies",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Revision strategies",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Discussion/thinking"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What are your experiences of revision?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do you prefer to revise alone or with others?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How do your experiences compare with your course mates?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do their views change your opinions about the way you study?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What kind of plans (if any) do you use?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Make a note of your thoughts on the form below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "REVISION<p><p>\n\nFORM >>>>>>>>>>>>>>>>>>>>>"
+                            }
                         ]
                     }
                 ]
@@ -10049,10 +11236,30 @@
                 "name": "Planning",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Planning",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Draw up a plan of each major area and when you’ll revise it"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Organise your environment"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Monitor your time wasting"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Just start – open up a file, jot down an essay title, pick a favourite topic…"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -10061,10 +11268,73 @@
                 "name": "How much is ‘enough’",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "How much is 'enough'?",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "If you can answer the following questions, you should have a broad grasp and enough information to answer your exam questions."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What are the key themes in your subject?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Main points of view/schools of thought?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Key debates in the subject over time"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Major pieces of research on each topic"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Which points of view you find convincing and why"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Have a look at the image below, and complete your notes in a similar way."
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "blob:https://lincoln-resources.herokuapp.com/191c7b28-6098-4662-9660-f50fc81696aa"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Summarise: in headings, several paragraphs, in one paragraph, in one sentence"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Actively select – what is really key?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Revise at least twice as many main topics as the number of questions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Questions may be multi-topic"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Read further than lectures"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -10073,10 +11343,20 @@
                 "name": "Different ways of revising",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Different ways of revising",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Flashcards: many people like to test themselves by writing, for example, a concept on one\nside of a card with its definition/further details on the other.  The website and app Quizlet is\nvery good for this.\n<p><p>\nWriting notes: some people like to go through their course work and make notes/reduce the\ninformation to key words.\n<p><p>\nDrawing diagrams: try taking your notes and making a visual representation, which you can\nstick on your wall.\n<p><p>\nGet together: some like to work with others and discuss ideas and opinions.  You can also\nquiz each other.\n<p><p>\nListening: you may have access to a podcast on a subject you're revising, or a lecture you've\nrecorded.  The advantage of this is you can do it while doing another activity."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "",
+                                "subtitle": "Ask your friends what works for them, and don't be afraid to try something new."
+                            }
                         ]
                     }
                 ]
@@ -10085,10 +11365,19 @@
                 "name": "How can your make revision interesting ",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "How can you make revision interesting?",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Think/discuss, then look at the ideas below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Revision strategies \n<p><p> Presentation"
+                            }
                         ]
                     }
                 ]
@@ -10097,10 +11386,55 @@
                 "name": "Emergency strategies",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Emergency strategies",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "What if you've left it too late and you don't have enough time to do everything?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Use your anxiety to help you focus"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Revise several subjects in less depth"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Give yourself 5 minutes to jot down key topics to revise"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Put them in order of importance (5 mins)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Circle 2 or 3 you know best and start revising these"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Gain an overview"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Select key information"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Repeat for several topics – if you have more time later you can go back and do more"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use spare moments"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -10109,10 +11443,35 @@
                 "name": "Look after yourself",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Look after yourself",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Remember to look after yourself"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Build up sleep patterns prior to exams – changing patterns can cause disruptions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Eat well and drink plenty of water"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Exercise and relaxation are important"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/sleep.jpeg"
+                            }
                         ]
                     }
                 ]
@@ -10121,10 +11480,46 @@
                 "name": "Making good use of time in the exam",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Making good use of time in the exam",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "image-single",
+                                "src": "/images/time_2.jpg"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Two reasonable answers are better than one in-depth"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Divide time accordingly – and stick to it"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do a brief plan with main points"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Include as many main points as succinctly as possible – marks are usually awarded for\ncovering essential items"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Don’t write everything you know or regurgitate lectures – put your analysis on it"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use a clear structure and academic style"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Stay focused on the question"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -10133,10 +11528,44 @@
                 "name": "Controlling nerves",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Controlling nerves",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What we said about presentations can also apply to exams"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Don’t try to get rid of them! Use the adrenaline to keep you alert and help you think (“Yes,\nI’m nervous, but I’m confident”)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Prepare, prepare, prepare: if you know your material inside out, you are less likely to let\nnerves get the better of you"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Overcoming anxiety: unhelpful scenario"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/overcoming_anxiety_2.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Overcoming anxiety: helpful scenario"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/overcoming_anxiety_helpful_2 copy.jpg"
+                            }
                         ]
                     }
                 ]
@@ -10145,10 +11574,27 @@
                 "name": "Summary",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Summary",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Prepare, prepare, prepare!"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Try to stay calm"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Organise your thoughts before you write anything"
+                                    }
+                                ],
+                                "subtitle": "Points to remember:"
+                            }
                         ]
                     }
                 ]
@@ -10157,10 +11603,39 @@
                 "name": "References",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "References",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "link-reference",
+                                "title": "The exam skills handbook, 2nd edition.",
+                                "publisher": "London: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2012)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Essential study and employment skills for business and management students, 3rd edition",
+                                "publisher": "Oxford: Oxford University Press",
+                                "authors": [
+                                    {
+                                        "name": "Gallagher, K. (2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Business degree success",
+                                "publisher": "London: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Groucutt, J. (2008)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -10168,237 +11643,933 @@
         ]
     },
     {
-        "name": "Research for beginners",
+        "name": "Research for Beginners",
         "chapters": [
-            {
-                "name": "Aims",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
             {
                 "name": "Introduction",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Aims",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Choosing a topic"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Research questions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Planning your dissertation – structure and sections"
+                                    }
+                                ],
+                                "subtitle": "Gain advice on:-"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Introduction",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Large-scale assignments enable you to:\n<ol>explore a particular area that interests you</ol>\n<ol>work independently</ol>\n<ol>improve your skills</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You have control over your work"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You need to demonstrate commitment and manage time"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You have the opportunity to make a difference!"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Choosing a topic",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "You may already have an idea of something that interests you"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If you do, start to jot ideas down, e.g., main topic areas, questions you want answers to,\nanything that comes into your head"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If you don’t, start to read around the subject you’re studying and see if anything generates\nan interest"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If you work, what problems occur in your workplace?  How could you help to address\nthese?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Talk to others about your ideas – what do they say?  Do they agree with your views?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Narrow down your list of topics: which are most interesting? Which have plenty of\nliterature?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Where have you identified gaps in existing literature?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Leave plenty of time for reading"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Start to formulate some questions you would like answers to"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Then begin to refine and order them"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Clarify exactly what you want to investigate: e.g., if you want to find out about the\nrelationship between students and their tutors: which students? (1st year? which college/\nschool? Any particular group of students?) Which tutors? (Personal/academic/seminar\ntutors?)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You also need to think about how you are going to do your research and whether it is\nfeasible - remember that you have a limited amount of time and topics often expand\nbeyond your expectations"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Start to write down some of your ideas on the form below.  This will help you to think about\nthe direction you might wish to take."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "FORM >>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Writing a research question",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "When you have an idea of what you'd like answers to, you can start to refine your questions.\n<p><p>\nMake sure your questions are specific and not too broad - consider how they are connected\nwith your topic.\n<p><p>\n<b>A good research question will…</b>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Define an investigation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Set boundaries (Remember your limitations)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Provide direction"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Act as a frame of reference for assessing your work"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from O’Leary, 2017, 37)"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Research proposal",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Your dissertation supervisor will probably provide you with a template or tell you exactly\nwhat information is required"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You will need to know what the rationale is for your study? (what do you want to study\nand why?)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Prepare your outline plan"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Check it with your supervisor"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You will need to gain any relevant permission (ethics) and complete an ethical approval\nform"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Revise your proposal as your supervisor advises"
+                                    }
+                                ],
+                                "subtitle": "Writing and agreeing your proposal"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Reviewing the literature",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "what is the most important writing on the subject"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "what key contributions to findings have been made in this area, and who contributed\nthem"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "how previous research leads up to your research"
+                                    }
+                                ],
+                                "subtitle": "Before commencing your research, you will need to review what has already been written on the subject.  You will need to find out:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "show awareness of current state of knowledge of the topic"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "evaluate what has been written already"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "only mention relevant texts, not everything you have read - select carefully"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "group similar ideas together"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "compare results of different investigations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "keep records of what you’ve read"
+                                    }
+                                ],
+                                "subtitle": "You will also need to:"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Planning your research",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "How will you obtain answers to your questions?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Who are you researching?  Who do you plan to speak to/observe?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Where will your study be based (geographical area)?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "When will you carry out your research?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How will you collect your data?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What will you look for from your data?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What kind of data will you collect? ( e.g. ideas, opinions, numbers)"
+                                    }
+                                ],
+                                "subtitle": "Think about:"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from O’Leary, 2017, 125)"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Methods of data collection",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Think about the advantages and disadvantages of certain methods, e.g. interviews,\nquestionnaires, observations, document searches"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Which method(s) are best suited to your investigation?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "What do you think are the advantages and disadvantages of this\nmethod?  What should you consider when interviewing others?\n<p><p>\nThink/discuss, then have a look at the ideas below.",
+                                "subtitle": "Interviews"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "PRESENTATION >>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Questionnaires: What is wrong with these questions? Have a look and make a note of your answers on the quiz below.",
+                                "text": "<ol type='1'>\n<li>How old are you: 0-20, 20-40, 40-60</li>\n<li>Do you know who is the current Prime Minister? Yes/No</li>\n<li>Do you agree with capital punishment? Yes/No</li>\n<li>Do you like coming onto campus and eating in the café?</li>\n<li>How much time do you spend studying? A. a great deal, B. a\ncertain amount, C. not at all</li>\n</ol>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Adapted from Bell (1993, 77-82)"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Questionnaires FORM >>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Now have a look at the ideas on the presentation below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "QUESTIONS <p>\nPRESENTATIONS >>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Observations: You may wish to observe a situation such as a lesson in a classroom, some area of health care practice, or a business meeting. Think about:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "How will this help you answer your questions?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Will you be a participant/non-participant?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do you need a co-observer, who may notice things you don’t?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What are you looking for? (contents, processes, interaction)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Classifying behaviour (proposing, supporting, disagreeing,\ngiving information, seeking information, building)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You could use grids to record names and types of behaviour/\nnumber of interactions, e.g. in a business meeting"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Writing up your project",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Keep notes as you go along, and the writing up won’t seem so daunting"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Keep a research diary, recording any thoughts, setbacks, ideas"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "See next slide for possible structure"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Sections of a dissertation",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Title page"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Acknowledgements (if there’s anyone you want to thank)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Contents"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Abstract"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Introduction: aims/purpose of study"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Literature review"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Methodology"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Presentation of results"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Analysis/discussion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Summary and conclusions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "References"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Appendices"
+                                    }
+                                ],
+                                "subtitle": "Your dissertation will normally include…"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Abstracts",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "is a concise summary of your dissertation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "states why your research is important"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "states your conclusions/recommendations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "gives your research questions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "states your methods and results"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "is often read separately"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "is not included in your word count"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "is best written when you’ve finished"
+                                    }
+                                ],
+                                "subtitle": "An abstract..."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Methodology section",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "how you conducted your research"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "the methods you used"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "how many people you surveyed"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "how you selected your participants"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "the instructions you gave them"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "how you gained your data and analysed them"
+                                    }
+                                ],
+                                "subtitle": "The methodology section states..."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "It can be written in the passive (e.g. ‘first this was done, then this\nwas done…’) to avoid excessive use of 'I'"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Presentation of results"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Often done in tables/graphs for easy understanding"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The words need only point out main or surprising findings"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The discussion and analysis of your results will be a longer\nsection"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "General advice",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Don’t try to do too much – you will be surprised how your questions escalate"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make it clear what your study’s limitations are"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Consider the ethical implications of your study"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "Doing your research project, 2nd edition",
+                                "publisher": "Buckingham: Open University",
+                                "authors": [
+                                    {
+                                        "name": "Bell, J. (1993)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "The study skills handbook, 4th edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2013)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "The essential guide to doing your research project, 3rd edition",
+                                "publisher": "London: Sage",
+                                "authors": [
+                                    {
+                                        "name": "O’Leary, Z. (2017)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
             },
             {
-                "name": "Choosing a topic",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Writing your research question",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Research proposal",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Reviewing the literature",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Planning your research",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Methods of data collection",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Writing up your project",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Sections of a dissertation",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "General advice",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "References",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
-                    }
-                ]
+                "name": "Research for Beginners",
+                "sections": []
             }
         ]
     },
     {
-        "name": "English language skills → Sentence structure",
+        "name": "English language skills: sentence structure",
         "chapters": [
             {
-                "name": "Aims",
+                "name": "Introduction",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Aims",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify and create:\n<ol>Simple sentences</ol>\n<ol>Compound sentences</ol>\n<ol>Complex sentences</ol>"
+                                    }
+                                ]
+                            }
                         ]
-                    }
-                ]
-            },
-            {
-                "name": "Simple sentences",
-                "sections": [
+                    },
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Simple sentences",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "need at least a subject and a verb, for example: John studies."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "We could add more information, e.g. John studies hard.  John studies history.  John\nstudies at university."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "However, it is still a simple sentence as it expresses a complete idea, and can stand on its\nown."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "This is also called an independent clause."
+                                    }
+                                ],
+                                "subtitle": "Simple sentences"
+                            }
                         ]
-                    }
-                ]
-            },
-            {
-                "name": "Compound sentences",
-                "sections": [
+                    },
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Compound sentences",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "are formed when you join two independent clauses together."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "There are 2 ways of doing this:"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "(1) using a semi-colon (;)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "(2) using a coordinating conjunction"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "For example: (1) John studies hard; he expects to pass his exams."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "(2) John studies hard, so he expects to pass his exams."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "See below for the main coordinating conjunctions.  (Click on the\nimages to see them all).\n<p><p>\nWe usually put a comma before the conjunction, particularly if it\nis a long clause.",
+                                "subtitle": "Coordinating conjunctions"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "PRESENTATION"
+                            }
                         ]
-                    }
-                ]
-            },
-            {
-                "name": "Complex sentences",
-                "sections": [
+                    },
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Complex sentences",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "are formed by joining a dependent clause to an independent clause."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "For example: While he was studying, John heard a knock at the door."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Can ‘while he was studying’ be a sentence on its own?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "No, so it is a dependent clause."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "‘While’ is a subordinating conjunction – it makes the clause dependent."
+                                    }
+                                ],
+                                "subtitle": "Complex sentences"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Subordinating conjunctions"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/subordinating_clauses.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "We can also use relative clauses to make a sentence complex.<p><p>\nFor example: John, who was a student, lived in London.",
+                                "subtitle": "Relative pronouns"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/relative_pronouns.png"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Conditional sentences are also complex."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Can you remember the different types?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If not, have a look at the presentation below for a reminder!"
+                                    }
+                                ],
+                                "subtitle": "Conditionals"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "PRESENTATION"
+                            }
                         ]
-                    }
-                ]
-            },
-            {
-                "name": "Transitions and connectors (linking vocabulary)",
-                "sections": [
+                    },
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Transitions and connectors (linking vocabulary)",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "These are neither coordinating nor subordinating conjunctions."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "They act like signposts, directing the reader through your writing/speech."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "blob:https://lincoln-resources.herokuapp.com/d943a9b5-0212-45f8-b4d8-3cd7e3caef3e"
+                            }
                         ]
-                    }
-                ]
-            },
-            {
-                "name": "Practice creating sentences",
-                "sections": [
+                    },
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Practise creating sentences",
+                        "space_after": false,
                         "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Summary",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "I attended 3 lectures today."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The university has a café on campus."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "I’ve visited 4 different countries so far."
+                                    }
+                                ],
+                                "subtitle": "Add another clause to turn these simple sentences into compound:"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Write your answers on the form below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Compound Sentences <p><p>\nFORM >>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Some examples"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "I attended 3 lectures today, and I understood everything."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The university has a café on campus, but I usually bring my\nown lunch."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "I’ve visited 4 different countries so far, so I’ve seen some\ninteresting sights."
+                                    }
+                                ],
+                                "text": "<ol type=\"1\">\n<li>I attended 3 lectures today, and I understood everything.</li>\n\n<li>The university has a café on campus, but I usually bring my\nown lunch.</li>\n\n<li>I’ve visited 4 different countries so far, so I’ve seen some\ninteresting sights.</li>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Of course, these aren't the only correct answers and yours could\nbe equally valid."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Complete these dependent clauses, to make a complex sentence:"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<ol Type='1'>\n<li>If you drink coffee,</li>\n\n<li>Because I stayed up late last night,</li>\n\n<li>Although I listened hard to the lecture,</li>\n</ol>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Write your answers on the form below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Complex sentences<p>\nFORM >>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Some examples"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<ol type='1'>\n<li>If you drink coffee, it might keep you awake.</il>\n\n<li>Because I stayed up late last night, I didn’t want to get up this\nmorning.</li>\n\n<li>Although I listened hard to the lecture, I still didn’t\nunderstand.</li>\n</ol>"
+                            }
                         ]
                     }
                 ]
