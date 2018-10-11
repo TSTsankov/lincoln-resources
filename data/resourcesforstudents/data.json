@@ -5910,19 +5910,7 @@
                 "name": "Why paraphrase",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "What makes a ‘good’ paraphrase",
-                "sections": [
-                    {
-                        "subtitle": "Why paraphrase?",
+                        "subtitle": " ",
                         "space_after": false,
                         "components": [
                             {
@@ -6584,10 +6572,45 @@
                 "name": "Aims & Introduction",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Aims",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Delivering a presentation\n<ol>practice</ol>\n<ol>voice tips</ol>\n<ol>body language</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Building confidence\n<ol>anxiety</ol>\n<ol>improving physical feelings</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Job-seeking tips"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Introduction",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "In Presentations (1), we looked at creating the visuals"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "This session focuses on the actual delivery"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -6596,10 +6619,28 @@
                 "name": "Discussion | Thinking",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Discussion/thinking",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What problems have you encountered in doing presentations so far?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Look back on presentations you have done and reflect on things such as: your\nvoice (volume, tempo), body language (maybe ask friends in your group if they\nnoticed anything), overall feelings of confidence/anxiety"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Make a note of your thoughts on the form below.",
+                                "text": "Form >>>>>>>>>>>>>>>>>>>>>>"
+                            }
                         ]
                     }
                 ]
@@ -6608,10 +6649,34 @@
                 "name": "Practice",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Practice",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "As with many things, presentation skills can be improved with practice"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Practise by yourself, with friends, try videoing yourself"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Practise speaking during group work in seminars"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Decide whether to use cue cards, but beware of reading word for word"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Does anyone have any tips for practising?"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -6620,10 +6685,51 @@
                 "name": "Voice checklist",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Voice checklist: ask yourself...",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Is my voice loud, perhaps too loud?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Is my voice soft, perhaps too soft?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do I speak too slowly?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do I speak too quickly?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Is my voice monotonous?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do I articulate clearly or do I mutter?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Will my accent cause my audience any particular difficulty?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do I run out of breath and gasp for air as I speak?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Van Emden and Becker, 2016, 6)"
+                            }
                         ]
                     }
                 ]
@@ -6632,10 +6738,34 @@
                 "name": "Voice tips",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Voice tips",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Advice from friends can be invaluable here"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Remember when a room is full of people, you will need to project your voice\nmore"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Try placing your hand on your diaphragm and pushing as you speak"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Tummy should go out as you breathe in. Try lying on the floor – you usually\nbreathe deeply in this position!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/diaphragm.jpeg"
+                            }
                         ]
                     }
                 ]
@@ -6644,10 +6774,26 @@
                 "name": "Voice exercise",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Voice exercise",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Your breathing should support your voice without straining vocal cords"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Try to ‘focus’ the voice in your face rather than throat"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Try this humming exercise:\n<ol>Take a deep breath from the diaphragm (watch your shoulders don’t move)</ol>\n<ol>Hum one note for as long as you can, letting out the breath in a slow,\ncontrolled way</ol>\n<ol>Do the exercise daily to extend the length of the note and control your\nbreathing</ol>\n<ol>This also reduces stress!</ol>"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -6656,10 +6802,42 @@
                 "name": "More voice tips",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "More voice tips",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Pace should be not too fast or too slow: break up content of speech into\ngroups of words and look for natural places to pause for breath"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Don’t be tempted to read from a script"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Beware of ‘dropping’ your voice at the ends of phrases"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Don’t worry about regional accents but make sure you are clear (e.g. avoid\nswallowing ‘t’ sounds)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make your mouth work so that every sound is heard"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Vary the rhythm and tone to make speech interesting"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Silence can also be effective (e.g. between subjects, changing visuals, giving\naudience a chance to look at something)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -6668,10 +6846,31 @@
                 "name": "Non→verbal communication",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Non-verbal communication",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Am I aware of any negative body language I might use during a presentation?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do I look at my audience?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What do I do when other group members are presenting (in a group\npresentation)?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do I notice the audience’s body language when I’m presenting?"
+                                    }
+                                ],
+                                "subtitle": "Think…"
+                            }
                         ]
                     }
                 ]
@@ -6680,10 +6879,42 @@
                 "name": "Eye contact tips",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Eye contact tips",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Eye contact should be all around the audience (i.e. don’t focus on one\nparticular area of the room)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Should also be brief"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Turn slightly in the direction of people who are outside of your line of vision\n(occasionally)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make eye contact at the beginning of your presentation and maintain it\nthroughout"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Focus on making your audience feel comfortable (this can also help with your\nnerves)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Don’t be afraid to smile when appropriate!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/smiley.png"
+                            }
                         ]
                     }
                 ]
@@ -6692,10 +6923,26 @@
                 "name": "Facial expression",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Facial expression",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Facial expression should support your words"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "In groups (or using a mirror), try saying the following phrases to each other,\nand notice the facial expressions:\n<ol>I do agree with what you’ve said</ol>\n<ol>No, I entirely disagree</ol>\n<ol>It’s a surprising fact</ol>\n<ol>What a disgusting taste!</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What facial expressions did you/other people use?"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -6704,10 +6951,18 @@
                 "name": "Negative body language",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Negative body language",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Can you think of examples of things you shouldn’t do when presenting?\n<p><p>\nThink/discuss, then have a look at the ideas below."
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/negativebodylanguage.jpeg"
+                            }
                         ]
                     }
                 ]
@@ -6716,10 +6971,18 @@
                 "name": "Positive body language",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Positive body language",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "What might be some positive body language you could use?\n<p><p>\nAgain, think/discuss and have a look at the suggestions below."
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/positivebodylanguage.jpeg"
+                            }
                         ]
                     }
                 ]
@@ -6728,10 +6991,27 @@
                 "name": "Nerves | anxiety",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Nerves/anxiety",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Some nerves are good – they help us perform better"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Be aware of how your body and mind interact\n<ol>how you think</ol>\n<ol>your emotional mood</ol>\n<ol>how you feel physically</ol>\n<ol>how you behave</ol>"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Padesky and Greenberger, 1995, cited in Gallagher, 2016, 174)\n<p><p>\nWe need to try and improve each factor to improve overall anxiety levels"
+                            }
                         ]
                     }
                 ]
@@ -6740,10 +7020,13 @@
                 "name": "Overcoming anxiety→ unhelpful scenario",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Overcoming anxiety: unhelpful scenario",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "image-single",
+                                "src": "/images/overcominganxiety_2.png"
+                            }
                         ]
                     }
                 ]
@@ -6752,10 +7035,69 @@
                 "name": "Improving your thoughts",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Improving your thoughts",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify your strengths and weaknesses"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify areas for improvement"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Replace unhelpful feelings with helpful ones"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It will seem strange at first if you’ve spent a long time thinking negatively"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Negative thoughts are unrealistic – they don’t usually happen and you’re\nsetting yourself up for failure"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Think of a positive counter thought to every negative one"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You may have to try this repeatedly"
+                                    }
+                                ],
+                                "subtitle": "You could try the following..."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Take prompt cards to aid your memory"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Rehearse well so you're sure of what you're doing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Be prepared to laugh at yourself"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Relax before the presentation: chat about positive things, look after yourself"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Show enthusiasm and confidence during the presentation even if you don't\nfeel like it"
+                                    }
+                                ],
+                                "subtitle": "Some positive things you can think/do to improve your feelings and performance:"
+                            }
                         ]
                     }
                 ]
@@ -6764,10 +7106,26 @@
                 "name": "Action Plan",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Action Plan",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Draw up a plan of action for your next presentation based on graphic on\nprevious slide"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "After the presentation has taken place, note your improvements"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make an appointment with your tutor for any help you might need with this"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -6776,10 +7134,34 @@
                 "name": "Job→seeking tips",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Job-seeking tips",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Many of the presentation tips apply to job-seeking, e.g. interviews, particularly\nif you’re asked to prepare a presentation as part of the selection process"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "First interview: maybe by telephone – voice very important – refer to the voice\ntips"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Preparation very important – knowing what you are going to say and doing\nyour homework on the company will increase your confidence"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Also important to prepare getting there"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Dress, body language – create good impressions"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -6788,10 +7170,30 @@
                 "name": "Summary",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Summary",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Voice: think about tempo, volume and pitch"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Be aware of body language and maintain eye contact"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Try and overcome anxiety by replacing negative thoughts and behaviours with\npositive ones"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Apply what you’ve learnt to your job search"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -6800,10 +7202,28 @@
                 "name": "Further resources",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Further resources",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "VIDEO >>>>>>>>>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What makes the presenter engaging/effective?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The content is also important: how can you make stress your friend?"
+                                    }
+                                ],
+                                "subtitle": "Watch the video."
+                            }
                         ]
                     }
                 ]
@@ -6812,10 +7232,32 @@
                 "name": "References",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "References",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "link-reference",
+                                "title": "Essential study and employment skills for business and management students, 3rd edition",
+                                "publisher": "Oxford: Oxford University Press",
+                                "authors": [
+                                    {
+                                        "name": "Gallagher, K. (2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Presentation skills for students, 3rd edition",
+                                "publisher": "London: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Van Emden, J."
+                                    },
+                                    {
+                                        "name": "Becker, L. (2016)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -6829,10 +7271,26 @@
                 "name": "Aims",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Aims",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Look at skimming and scanning techniques"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify how to improve reading comprehension"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify how to improve reading speed"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -6841,10 +7299,92 @@
                 "name": "Checklist",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Checklist",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "consider the questions I want to answer?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "think about what information I need?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "use the recommended reading list?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "know what I need to read?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "make sure something is relevant/up to date?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "use contents pages & identify specific chapters of a book?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "use headings/sub-headings for guidance?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "read first sentence of paragraphs?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "use highlighters for important information?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "make notes?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "think about what I’m reading?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "challenge a writer’s logic/assumptions?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "predict what’s coming next?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "change pace according to need?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "scan for specific information?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "read best from screen or paper?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "read when I’m awake and alert enough?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "create the right conditions for reading?"
+                                    }
+                                ],
+                                "subtitle": "Ask yourself these questions – Do I…"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from Cottrell, 2013, 165)"
+                            }
                         ]
                     }
                 ]
@@ -6853,10 +7393,218 @@
                 "name": "Techniques for speed reading",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Techniques for speed reading",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<b>Skimming and scanning</b> are the two main trusted techniques for getting through a lot of\nreading quickly.<p><p>\n\nThis doesn't just mean quickly looking through a text, but involves specific steps. We'll look\nat skimming first, then move on to scanning."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<b>Skimming</b> involves moving your eyes quickly over a text to get\na general idea.\n<p><p>\nIt is useful for:",
+                                "subtitle": "Skimming"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "reviewing a text you've read before"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "quickly reading a text when you don’t need detail"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Steps for skimming",
+                                "text": "<b>Have a look at the steps for skimming below</b>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Read titles, headings and subtitles"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Read the paragraph"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Look for proper nouns, numbers, signpost words indicating importance, words in bold/italics"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Read final pragraph"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Scanning"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Looking over a text quickly for certain information"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Keeping in mind what you are looking for"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identifying what you are looking for (e.g. a number, noun,\netc.)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Letting your eyes run quickly over several lines at a time"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reading the complete sentence when you think you’ve found\nthe information"
+                                    }
+                                ],
+                                "subtitle": "Scanning involves:"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "You don’t need to read or understand everything - the aim here is just to locate what you're looking for."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Give yourself 30 seconds to look at the text below"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify the 6 qualities the author thinks a teacher should have"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use one of the techniques we have talked about"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You don't need to read the whole text"
+                                    }
+                                ],
+                                "subtitle": "Example"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>THE PERSONAL QUALITIES OF A TEACHER\n<p><p>\nHere I want to try to give you an answer to the question: What\npersonal qualities are desirable in a teacher? Probably no two\npeople would draw up exactly similar lists, but I think the\nfollowing would be generally accepted.</i>\n<p><p>\n<i>First, the teacher's personality should be pleasantly live and\nattractive. This does not rule out people who are physically plain,\nor even ugly, because many such have great personal charm. But\nit does rule out such types as the over-excitable, melancholy,\nfrigid, sarcastic, cynical, frustrated, and over-bearing : I would\nsay too, that it excludes all of dull or purely negative personality.\nI still stick to what I said in my earlier book: that school children\nprobably 'suffer more from bores than from brutes'.<p><p>\nSecondly, it is not merely desirable but essential for a teacher to\nhave a genuine capacity for sympathy - in the literal meaning of\nthat word; a capacity to tune in to the minds and feelings of\nother people, especially, since most teachers are school teachers,\nto the minds and feelings of children. Closely related with this is\nthe capacity to be tolerant - not, indeed, of what is wrong, but of\nthe frailty and immaturity of human nature which induce people,\nand again especially children, to make mistakes.<p><p>\n<i>Thirdly, I hold it essential for a teacher to be both intellectually\nand morally honest. This does not mean being a plaster saint. It\nmeans that he will be aware of his intellectual strengths, and\nlimitations, and will have thought about and decided upon the\nmoral principles by which his life shall be guided. There is no\ncontradiction in my going on to say that a teacher should be a bit\nof an actor. That is part of the technique of teaching, which\ndemands that every now and then a teacher should be able to put\non an act - to enliven a lesson, correct a fault, or award praise.\nChildren, especially young children, live in a world that is rather\nlarger than life.<p><p>\nA teacher must remain mentally alert. He will not get into the\nprofession if of low intelligence, but it is all too easy, even for\npeople of above-average intelligence, to stagnate intellectually -\nand that means to deteriorate intellectually. A teacher must be\nquick to adapt himself to any situation, however improbable and\nable to improvise, if necessary at less than a moment's notice.\n(Here I should stress that I use 'he' and 'his' throughout the book\nsimply as a matter of convention and convenience.)<p><p>\nOn the other hand, a teacher must be capable of infinite\npatience. This, I may say, is largely a matter of self-discipline and\nself-training; we are none of us born like that. He must be pretty\nresilient; teaching makes great demands on nervous energy. And\nhe should be able to take in his stride the innumerable petty\nirritations any adult dealing with children has to endure.<p><p>\nFinally, I think a teacher should have the kind of mind which\nalways wants to go on learning. Teaching is a job at which one\nwill never be perfect; there is always something more to learn\nabout it. There are three principal objects of study: the subject,\nor subjects, which the teacher is teaching; the methods by which\nthey can best be taught to the particular pupils in the classes he\nis teaching; and - by far the most important - the children, young\npeople, or adults to whom they are to be taught. The two cardinal\nprinciples of British education today are that education is\neducation of the whole person, and that it is best acquired\nthrough full and active co-operation between two persons, the\nteacher and the learner. </i>\n<p>(From Teaching as a Career, by H. C.\nDent, Batsford, 1961)"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "What are the 6 qualities?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Have a look at the qualities below.\n<p><p>\nNote: this text was written in 1961!  Therefore, you might not\nwant to use it as a source, unless you are comparing, for\nexample, past attitudes around teaching with present."
+                            },
+                            {
+                                "type": "list-text",
+                                "subtitle": "The six qualities that a teacher should have according to H. C. Dent"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Pleasant personality"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Capacity for sympathy"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Intellectually and morally honest"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Mentally alert"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Patient"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Mind which wants to go on learning"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Surveying the text",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "It's useful to look at basic information before you decide whether\na text will be useful.  For example, look at:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Titles/sub-titles"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Details of author"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Date of publication and edition (is it the most recent edition?)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Abstract"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Foreward/introduction/preface"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Contents/index"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "References"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Blurb - the information on the back cover of a book"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reviewer’s comments - is it recommended?  who for?"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -6865,10 +7613,113 @@
                 "name": "Reading comprehension",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Reading comprehension",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Ask yourself: do you…"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "understand most of what you read?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "know how much you understand?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "understand something if you don’t find it interesting?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "monitor your understanding?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "know how to improve comprehension?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "You may be bewildered at the start of a course by the amount of\nreading you have to do, and its complexity.  Don't worry - this is\nperfectly normal and you will soon get used to it.  If you're\nstruggling, try:",
+                                "subtitle": "Improving your comprehension"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Starting general: read something you know a little about & understand the context of before moving on to more difficult material. Maybe get hold of a \"Dummies' guide\" to familiarise yourself with basic concepts."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "After reading a few sentences, try summarising it to yourself -\nif you can do this, then you've understood"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Setting yourself questions to answer on what you've read"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Re-reading if necessary, looking up any difficult words you\nmight not understand"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Highlighting key words/phrases - this may also help you\nremember"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Colour-coding information to organise ideas - again, a good\nmemory aid"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Ask yourself questions to improve your critical thinking"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Don't just read a text, but ask yourself questions as you go.  This\nwill get you into the habit of thinking about what you read in a\ncritical way.  Ask questions such as:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What point is the writer making?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Why is it relevant?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do I agree with the writer?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What lessons can I learn from this?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Is the argument supported?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How does it relate to other things I’ve read?"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -6877,10 +7728,103 @@
                 "name": "Improving reading speed",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Improving reading speed",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Discussion/thinking"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "We've already mentioned skimming and scanning when you only\nneed basic information or a general understanding.  Sometimes\nit's important to read something in detail and really understand\nit - in this case speed isn't so important.\n<p><p>\nHowever, sometimes you just have a lot of reading to get through\nand you need to do it quickly.  What other techniques could we\nuse to achieve this?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What speed reading techniques have you heard of/tried?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What works for you?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Make a note on the form below, or discuss with others.\n<p><p>\nThen read on to see some suggested techniques."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "READING STRATEGIES: FORM >>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Try following a text along a page or screen using your finger, a\npointer, or a piece of paper.\n<p><p>\nKeep it moving forwards and don't be tempted to look back.\n<p><p>\nTry to keep moving it faster and make sure your eyes keep up.",
+                                "subtitle": "Finger tracking"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Have you ever noticed that when you're reading you are 'saying'\nthe words in your head?  This means you will only ever read as\nfast as you can speak.\n<p><p>\nIf you can get out of the habit of doing this, you can improve\nyour reading speed.",
+                                "subtitle": "Subvocalisation"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Try reading 3-5 words at a time.\n<p><p>\nSee the website below, particularly useful if English isn't your\nfirst language.",
+                                "subtitle": "Chunking"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [
+                                    {
+                                        "portion": "Chunking",
+                                        "href": "http://successfulenglish.com/2011/10/better-reading-its-in-the-chunks/"
+                                    }
+                                ],
+                                "text": "Chunking"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Newspapers can be useful for practising this, as they are in\ncolumns and you don't need to move your eyes as far across a\npage.\n<p><p>\nOr try the following website:"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [
+                                    {
+                                        "portion": "Spreeder",
+                                        "href": "https://www.spreeder.com/index.php"
+                                    }
+                                ],
+                                "text": "Spreeder"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Here you can paste a piece of text into a box and have the\ncomputer show you so many words at a time at a speed of your\nchoice.  Try setting it faster to improve your speed."
+                            },
+                            {
+                                "type": "text-paragraph"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "What do you think are the benefits and downfalls of such methods?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "For example, seeing only a few words at a time may mean you\nlose the sense of the passage.\n<p><p>\nHowever, you may find some of them useful when you need a\ngeneral understanding and have a lot of reading to get through."
+                            }
                         ]
                     }
                 ]
@@ -6889,10 +7833,29 @@
                 "name": "Speed reading → what works ",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Speed reading: what works?",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Have a look at the video, and try to remember the techniques the speaker mentions."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Speed reading \nVideo >>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Now look at the presentation below and see if you remembered the speaker's ideas."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Presentation >>>>>>>>>>>>>>>>>"
+                            }
                         ]
                     }
                 ]
@@ -6901,10 +7864,39 @@
                 "name": "Summary → types of reading",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Summary: types of reading",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "image-single",
+                                "src": "/images/summarrytypesofreading_2.jpg"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What is the purpose for your reading?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do you need a general understanding?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Are you looking for specific information?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do you need to get a detailed understanding of the text?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Like everything, reading needs practice (the more you read,\nthe faster you will become)"
+                                    }
+                                ],
+                                "subtitle": "Things to think about"
+                            }
                         ]
                     }
                 ]
@@ -6913,10 +7905,40 @@
                 "name": "References",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "References",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "link-reference",
+                                "title": "Reading and study skills lab [accessed 18th November 2015]",
+                                "link": "https://www.aacc.edu/tutoring/file/skimming.pdf",
+                                "authors": [
+                                    {
+                                        "name": "Anne Arundel Community College (undated)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "The Study Skills Handbook, 4th edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2013)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Using English for Academic Purposes [accessed 18th November 2015]",
+                                "publisher": "UEFAP",
+                                "link": "http://www.uefap.com/reading/readfram.htm",
+                                "authors": [
+                                    {
+                                        "name": "Gillett, A. (2015)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
