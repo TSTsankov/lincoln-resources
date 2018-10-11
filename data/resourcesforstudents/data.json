@@ -7952,10 +7952,22 @@
                 "name": "Aims",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Aims",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Revision: identify:\n<ol>Common problems</ol>\n<ol>Possible solutions</ol>\n<ol>Revision strategies</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Memory: identify:\n<ol>Memory triggers</ol>\n<ol>How to improve your memory</ol>"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -7964,10 +7976,76 @@
                 "name": "Revision",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Revision",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What are the common problems you face when you revise?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How can you overcome these?"
+                                    }
+                                ],
+                                "subtitle": "Problems with revision: discussion/thinking"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Make a note on the form below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Revision \nForm >>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Now have a look at the ideas in the presentation below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Presentation <p><p>\n\nForm >>>>>>>>>>>>>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Revision strategies: discussion/thinking",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "How do you revise?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What works for you?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Think about or share your ideas"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Look at the ideas below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Revision Ideas >>>> Presentation"
+                            }
                         ]
                     }
                 ]
@@ -7976,10 +8054,236 @@
                 "name": "Memory Techniques",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Memory Techniques",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Memory triggers"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Different things trigger our memories.  For example, a certain\nsong might remind you of a holiday.   Find out what triggers\nyours and use this to your advantage"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Sound: odd-sounding words or rhymes, rhythm, music"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Place: you can associate words to a place you know, for\nexample, imagine a scene and 'place' different ideas in\ndifferent places in your scene"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Visual: what does the word look like? Use pictures, notice how\nthings are arranged on a page"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Word association: group related ideas together"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Activity: you might remember something because you did an\nactivity based around it, e.g. perhaps you took part in a\ndiscussion on a certain topic, and this helps you remember key\nconcepts"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Improving your memory",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "image-single",
+                                "src": "/images/improvememory.png"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Self-awareness is important: know what works for you already,\ne.g., do you prefer visuals or sound?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Repetition: checking often can keep things in your long-term\nmemory"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Association: linking to what you know already can help you to\nremember"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Mnemonics: e.g. Every Good Boy Deserves Fruit"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Active listening/reading: discuss/think about it"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Write things in your own words"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Personalise information: how can you use it? What are its\nimplications?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Place stickers of key information around your rooms so you can\nvisualise it in an exam situation, e.g., place notes above your bed,\non your lamp, by the window...",
+                                "subtitle": "Use your environment"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/bedroommemory_4.jpg"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Record yourself and listen back (you can do this while doing\nother things)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Set things to music (I can still remember a silly song I made\nup with my friends when I was 16! That's a long time ago...)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Dramatise things: act out scenarios/words/concepts"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make up stories (the more bizarre, the better!):"
+                                    }
+                                ],
+                                "subtitle": "Use auditory memory"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [
+                                    {
+                                        "portion": "Making up stories",
+                                        "href": "https://www.beatingdyslexia.com/techniques-to-improve-memory.html"
+                                    }
+                                ],
+                                "text": "See this website, for example:\n<p><p>\nMaking up stories"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Make clear & attractive notes"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use colour: give themes different colours, familiar colour\ncombinations, e.g. traffic lights"
+                                    }
+                                ],
+                                "subtitle": "Use visual memory"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "List A: read for one minute",
+                                "subtitle": "Organisation"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/organisation_test.png"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Write down the words you remember"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How many do you remember? (there were 12)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How did you remember them? (e.g. visualise a picture, first\nletters of words)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "List B: repeat the process (including the titles)"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": []
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/list_B.png"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Write down the words you remember"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How many do you remember this time? (there were 20)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Were they easier to remember because they were organised in\ngroups?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You probably found you remembered more of the second table"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Organising information can help memory"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Further Reading"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [
+                                    {
+                                        "portion": "http://Tony Buzan: Use Your Head",
+                                        "href": "https://www.slideshare.net/SemperIdem1/buzan-tony-use-your-head"
+                                    }
+                                ],
+                                "text": "‘Use your memory’ by author/speaker Tony Buzan (1986):<p>\nhttp://Tony Buzan: Use Your Head"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Some of these techniques might be useful<p>\n  (see p.65 – technique for remembering a word list)"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/mindmap.png"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>https://commons.wikimedia.org/wiki/\nFile:MindMapGuidlines.svg</i>"
+                            }
                         ]
                     }
                 ]
@@ -7988,10 +8292,31 @@
                 "name": "Remember",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Remember",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Imagination"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Association"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Organisation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Repetition"
+                                    }
+                                ],
+                                "subtitle": "Remember, memory thrives on…"
+                            }
                         ]
                     }
                 ]
@@ -8000,10 +8325,19 @@
                 "name": "References",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "References",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "link-reference",
+                                "title": "The study skills handbook (4th ed.)",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2013)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -8017,10 +8351,26 @@
                 "name": "Aims",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Aims",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify why hedging is important"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify different ways of hedging in writing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Suggest changes to a text to make it less certain"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -8029,10 +8379,23 @@
                 "name": "Whats is ‘hedging’ ",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "What is 'hedging'?",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "links": [],
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Cautious language"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Makes what we say less direct/certain"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -8041,10 +8404,30 @@
                 "name": "Why use hedging language ",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Why use hedging language?",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Reduces the chance of disagreement from readers"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "More precise when reporting results (particularly if there is not too much evidence)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Prevents the writer from appearing too arrogant"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It is good academic style"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -8053,34 +8436,95 @@
                 "name": "Ways of hedging",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Ways of hedging",
+                        "space_after": false,
                         "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "More examples",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Examples",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Modal auxiliary verbs (e.g. might)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Tentative/cautious verbs (e.g. tend)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Modal adjectives (e.g. probable)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Modal nouns (e.g. possibility)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Modal adverbs (e.g. apparently)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Adverbs of frequency (e.g. occasionally)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reporting verbs (e.g. suggest)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>(modal = expresses likelihood)</i>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "These are often used in ‘it’ or ‘there’ phrases:"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "‘it’ phrases (+ adjective), e.g. It is probable that…"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "‘there’ phrases (+ noun), e.g. There is a possibility that…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "More examples"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/examplesofhedging_2.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "What do you think about this?  Is it acceptable? If not, why?\n<p><p>\nStudying in a different country is a very difficult experience for students.  They will miss\ntheir families and home land, particularly in the first few weeks.  They will also find a\nproblem with their academic studies, as university in the UK is very different from their\nhome country.\n<p><p>\nDiscuss or note your ideas on the following form.",
+                                "subtitle": "Examples"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Hedging \n<p>\nFORM >>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Use of ‘will’ and ‘is’ makes it very certain.\n<p><p>\nStudying in a different country is a very difficult experience for students.  They will miss\ntheir families and home land, particularly in the first few weeks.  They will also find a\nproblem with their academic studies, as university in the UK is very different from their\nhome country.\n<p><p>\nWhat would be more appropriate?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Studying in a different country is a very difficult experience for students.  They may miss\ntheir families and home land, particularly in the first few weeks.  They could also find a\nproblem with their academic studies, as university in the UK might be very different from\ntheir home country.\n<p><p>\n‘May', ‘could’ and ‘might be’ (for example) make it less certain, and therefore more\nacceptable.",
+                                "subtitle": "Maybe something like this..."
+                            }
                         ]
                     }
                 ]
@@ -8089,10 +8533,27 @@
                 "name": "Probability",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Probability",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Modal auxiliary verbs can be changed to express degrees of probability."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "These claims become progressively weaker:\n\n<ol>A reduced speed limit will result in fewer motorway injuries.</ol>\n <ol>A reduced speed limit may well result in fewer motorway injuries.</ol>\n<ol>A reduced speed limit may result in fewer motorway injuries.</ol>\n<ol>A reduced speed limit could result in fewer motorway injuries.</ol>"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Hitchcock, 2010, 3-4)"
+                            }
                         ]
                     }
                 ]
@@ -8101,10 +8562,79 @@
                 "name": "Double hedging",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Double hedging",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Claims can be made stronger or weaker by use of double hedging, for example:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "It is almost certain that…"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It is highly improbable that…"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It seems likely that…"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The results seem to suggest that…"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "There is a strong possibility that…"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "There is a remote possibility that…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "There is a possibility that…"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It is almost certain that…"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It is unlikely that…"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It is highly improbable that…"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "There is a strong likelihood that…"
+                                    }
+                                ],
+                                "subtitle": "Order the following from weak to strong"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Complete your answers on the form below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Order the hedging phrases\n<p><p>\nForm >>>>>>>>>>>>>"
+                            }
                         ]
                     }
                 ]
@@ -8113,10 +8643,40 @@
                 "name": "Distance",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Distance",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "It is useful to distance yourself from the claims you make.  The following are some ways you\ncan do this:-"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "On the limited data available, …"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "In the view of some experts, …"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "According to this preliminary study, …"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Based on informal observations made, …"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "…a lower speed limit may reduce motorway fatalities."
+                            }
                         ]
                     }
                 ]
@@ -8125,10 +8685,31 @@
                 "name": "Quantifying",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Quantifying",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Another way of hedging is to limit by use of numbers/quantities, e.g."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Many consumers have less confidence in the economy."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "A majority of consumers have less confidence in the economy."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "In most parts of the country, consumers have less confidence in the economy."
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -8137,10 +8718,41 @@
                 "name": "Weaker verbs",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Weaker verbs",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Which verb is weaker in these sentences?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Deregulation caused/contributed to the banking crisis."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The table suggests/shows that Venezuelan scientists need help with writing English."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The results indicate/establish that there is a link between secondary smoking and cancer."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Complete your suggested answers on the form below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Weaker verb \n<p><P>\nForm>>>>>>>>>>>>>>>>>>>>>>>>"
+                            }
                         ]
                     }
                 ]
@@ -8149,10 +8761,34 @@
                 "name": "Combined qualifications",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Combined Qualifications",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "image-single",
+                                "src": "/images/seatbelt.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Look at the following sentence:\n<p><p>\nThe use of seat belts <b>prevents</b> physical injuries in car accidents.\n<p><p>\n'Prevents' is probably too strong here.  We could make it less certain by use of 'reduces'\ninstead, or even less certain by use of 'may reduce'.\n<p><p>\n'The use of seat belts <b>may reduce</b> physical injuries in car accidents' is probably more\nacceptable.\n<p><p>\nWe could go even further and add more qualification statements, such as:\n<p><p>\nAccording to simulation studies, in some circumstances the use of seat belts may reduce\ncertain types of physical injuries in car accidents.\n<p><p>\nThis is now so weak that it doesn’t really say anything!\n<p><p>\nSo you need to be careful that you use the right verb strengths and qualifications according\nto the evidence available."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "There are a number of reasons why Thai graduates have low English language skills. To\nbegin with, it is because too much emphasis is placed on grammar and vocabulary, rather\nthan on writing and speaking fluently. A further reason is that Thai teachers of English are\nthemselves not comfortable using English, thus reducing the amount of English used in the\nclassroom.\n<p><p>\nHowever, the main reason is that Thai learners of English do not have much interaction\nwith native-English teachers and speakers when learning the language.\n<p><p>\n(Hitchcock, 2010, 4)",
+                                "subtitle": "How could this text be more cautious?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Re-write it with your suggestions on the form below.\n<p><p>\nFORM >>>>>>>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Now have a look at some suggestions  below.  Of course, this isn't the only correct answer,\nand you may have some equally valid suggestions of your own."
+                            }
                         ]
                     }
                 ]
@@ -8164,7 +8800,17 @@
                         "subtitle": "A Subtitle..",
                         "space_after": true,
                         "components": [
-                            {}
+                            {
+                                "type": "link-reference",
+                                "title": "The division of time II and cautious language [accessed 6 June 2017]",
+                                "publisher": "University of Portsmouth",
+                                "link": "http://humbox.ac.uk/1526/2/Microsoft_Word_- _Student_materials_Week_2.pdf",
+                                "authors": [
+                                    {
+                                        "name": "Hitchcock, R. (2010)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -8178,10 +8824,26 @@
                 "name": "Aims",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Aims",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify how you can become more critical in your reading and writing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify the right questions to ask"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Apply Bloom’s taxonomy"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -8190,10 +8852,38 @@
                 "name": "Recap: Critical analysis (1) looked at flaws in an argument",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Recap: Critical analysis (1) looked at flaws in an argument:",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Confusing cause and effect"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Failing to meet necessary conditions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Attacking the person rather than reasoning"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Emotive language"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Misrepresentation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "We also identified the characteristics of critical, analytical writing (see next slide as a\nreminder)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -8202,10 +8892,13 @@
                 "name": "Critical v Descriptive writing",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Critical v Descriptive writing",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "image-single",
+                                "src": "/images/criticalvdescriptive_writing_2.jpg"
+                            }
                         ]
                     }
                 ]
@@ -8214,10 +8907,38 @@
                 "name": "Summary → critical thinking...",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Summary: critical thinking...",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Examines from different angles"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Checks the accuracy of something"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Checks the order of logic"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Checks the relevance of the data"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Compares different points of view"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Assesses the evidence"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -8226,10 +8947,134 @@
                 "name": "Greasley’s survey (2010)",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Greasley's survey (2010)",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "In 2010, author Peter Greasley surveyed 32 tutors, and writes extensively about the results\nand implications for students in the book Doing essays and assignments (see reference list).\nThe tutors responded to a survey in which they were asked to:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "list up to 10 things that annoy/disappoint you when marking assignments"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "list up to 10 things that impress you when marking assignments"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<b>What do you think some of those things were?\n<p><p>\nDiscuss or make a note of your ideas on the form below.</b>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Greasely's survey<p><p>\n\nFORM >>>>>>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Now have a look at the presentation below and see what tutors said they liked and disliked\nabout student work."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Most common problems lecturers find with assignments"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Presentation<p><p>\n\nForm >>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "A more recent survey of tutors asked ‘What key advice (tips) would you give to students\nabout doing essays and assignments?’ (Greasley, 2016, 21).  The key advice was:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Develop your argument"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Read widely (and critically)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Answer the question"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Plan your assignment"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Get formative feedback"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Description rather than analysis (particularly from second year upwards)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Presenting lots of bullet points instead of discussion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Long bits of description which could be condensed into a sentence or two"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Not providing some sort of critique of, or reflection on, the work they’ve read (i.e.\nassuming because it’s in print it must be ‘right’)"
+                                    }
+                                ],
+                                "subtitle": "What tutors dislike"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Students who attempt to look critically at models/theories"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Analysis of reading rather than description"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Concise critical appraisal (with citations in support, where appropriate)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Ability to see more than one side of an argument"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Comparison of sources and analysis"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Critical comment on the literature (author A takes this view in contrast to author B –\nwhat they both fail to account for fully is…; or an alternative interpretation can be offered\nby…)"
+                                    }
+                                ],
+                                "subtitle": "What tutors like"
+                            }
                         ]
                     }
                 ]
@@ -8238,10 +9083,221 @@
                 "name": "How can we be more critical ",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "How can we be more critical?",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Don’t stop at the ‘who, what, why, when, where, how’ questions."
+                                    }
+                                ],
+                                "subtitle": "So, how can we be more critical?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Moving on"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/moving_on_2.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [
+                                    {
+                                        "portion": "https://www.plymouth.ac.uk/uploads/ production/document/path/1/1710/Critical_Thinking.pdf",
+                                        "href": "https://www.plymouth.ac.uk/uploads/ production/document/path/1/1710/Critical_Thinking.pdf"
+                                    }
+                                ],
+                                "text": "Adapted from https://www.plymouth.ac.uk/uploads/\nproduction/document/path/1/1710/Critical_Thinking.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Asking the right questions",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What questions can you think of to ask about a text you are\nreading?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What is the purpose of the text?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Who is the audience?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Why am I reading this?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What are the authors claiming?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How convincing are the claims? What evidence? Is it\nreputable/refutable?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Who would agree/disagree with this?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How could I use this in my assignment?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What theories are referred to?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Who is the author referencing?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Are there inconsistencies?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Does the conclusion reflect the evidence?"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Ways of finding the answers",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "So, what can we look for to find answers to these questions?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Example question: are these ideas the author’s summary of\nsomeone else’s research?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Look for:\n<ol>words like ‘according to…’</ol>\n<ol>‘a research study by…’</ol>\n<ol>‘evidence supplied by…’\ncitations</ol>"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Is the argument sound/strong?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Is the evidence (statistical, reports, etc.) reputable?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Is the evidence refutable?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Are there any threads in the text that have not been dealt with\nor inconsistent statements?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Does the conclusion reflect the evidence/information in the\ntext?"
+                                    }
+                                ],
+                                "subtitle": "How would you find answers to these questions?"
+                            },
+                            {
+                                "type": "list-text",
+                                "links": [],
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Is the argument sound/strong?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Look for examples of other research to back it up"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Look at other sources for disagreement – which is more\nconvincing?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Is the evidence (statistical, reports, etc.) reputable?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What is the author’s track record?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Compare with lectures, course textbooks, etc."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Survey the author on internet"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Is he/she recommended by your lecturer?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What type of publication is it?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Is the evidence refutable?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What are other authors’ views?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What methods were used to gather the evidence?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Are there any threads in the text that have not been dealt with\nor inconsistent statements?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Take each idea and check what was said. Colour-coding useful\nhere."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use ‘find’ facility to survey electronic texts"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Does the conclusion reflect the evidence/information in the\ntext?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Scan the text for each conclusion statement to see where it was\ndealt with"
+                                    }
+                                ],
+                                "subtitle": "Suggestions"
+                            }
                         ]
                     }
                 ]
@@ -8250,10 +9306,44 @@
                 "name": "Applying it to your writing",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Applying it to your writing",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "When reading your writing, your readers will be asking the same critical questions of you.\nFor example:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What is this paragraph about?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What exactly is that?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What is your argument?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What is the evidence – and what does it mean?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How does this relate back to the question?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>Try and answer them as you go along.</i>"
+                            }
                         ]
                     }
                 ]
@@ -8262,10 +9352,57 @@
                 "name": "Bloom’s taxonomy",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Bloom's Taxonomy",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<b>Remember Bloom’s taxonomy?</b>\n<p><p>\n\nWhat do you think each stage involves in terms of your assignments?"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/blooms_taxonomy_2.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Applying Bloom's Taxonomy",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<b>Remember:</b> the foundation for everything else, e.g.,\n<ol>the terminology to discuss your subject,</ol>\n<ol>factual data and information (open to interpretation)</ol>\n<ol>origins of managerial thinking,</ol>\n<ol>theories and research related to your subject</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You need to have this in place to progress to the further stages,\nbut this alone will not get you the higher marks"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<b>Understand</b>\n<ol>Translation: making sense, word for word, of writing, ideas,\nsymbols, research data and expressions</ol>\n<ol>Interpretation: re-ordering, or a new view on writing, ideas,\nsymbols and expressions.  Research findings and\nconclusions</ol>\n<ol>Extrapolation: inferring something further from that\ncontained in writing, ideas, symbols and expressions.</ol>\n<ol>Taking research findings and predicting what this might\nmean.</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<b>Apply:</b>\n\n<ol>using what a theorist has said</ol>\n<ol>applying a particular theory, e.g. leadership, to a given\nsituation</ol>\n<ol>hypothetical or actual real-world examples</ol>\n<ol>internalising the concepts of the theory</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<b>Analyse:</b>\n\n<ol>analysing your research findings, making sense of the data</ol>\n<ol>breaking down and examining in detail</ol>\n<ol>how something interrelates to something else</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<b>Create:</b> produce new or original work\n<ol>creating a generalisation, trend or rule from your findings</ol>\n<ol>creating a business plan for a new venture</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<b>Evaluate:</b> giving a judgment or value to something\n<ol>comparing your findings against accepted external theories\nor standards (e.g. how a company rates in quality terms\nagainst a standard)</ol>\n<ol>comparing against internal evidence (e.g. percentage in\nsales figures against previous years)</ol>"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -8274,10 +9411,77 @@
                 "name": "A critical checklist",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "A critical checklist",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "The acronym WEB-SPUN (Gallagher, 2016) has been developed to aid memory for a\ncritical approach to assignments (see next slide)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "WEB represents the first elements of a typical assignment"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "SPUN represents further thoughts you might develop"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Experiment with adding other questions of your own or even make your own acronym!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<b>Gallagher’s (2016) WEBSPUN</b>"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/web copy.jpg"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "W - What? Where? Why? When? How? Who? What if? What next? So what?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "E - Evidence: references, quotes, examples, data"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "B -  Build argument: use the evidence and data to support your argument"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "S - Situation: effect on the outcome.  Static or dynamic?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "P -  Practicality: what are the limitations?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "U -  Universality: does the theory apply generally or only in certain cases?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "N -  Links to other findings. Do theories support each other?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from Gallagher, 2016, 105)\n<p><p>\nOr you could create your own acronym – this way you are more likely to remember it."
+                            }
                         ]
                     }
                 ]
@@ -8286,10 +9490,39 @@
                 "name": "Summary",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Summary",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Never rely on a single source – use multiple sources"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Ensure logic is sound and one point leads to another"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use credible sources"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Question everything and apply the same to your writing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Don’t assume because something is in print it must be ‘right’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use sources to build your argument"
+                                    }
+                                ],
+                                "subtitle": "Final tips"
+                            }
                         ]
                     }
                 ]
@@ -8298,10 +9531,69 @@
                 "name": "References",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "References",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "link-reference",
+                                "title": "Essential study skills, 4th edition",
+                                "publisher": "London: Sage.",
+                                "authors": [
+                                    {
+                                        "name": "Burns, T. and Sinfield, S. (2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Critical thinking skills, 2nd edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2011)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Essential study and employment skills for business and management students, 3rd edition",
+                                "publisher": "Oxford: OUP",
+                                "authors": [
+                                    {
+                                        "name": "Gallagher, K. (2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Doing essays and assignments, 2nd edition",
+                                "publisher": "London: Sage",
+                                "authors": [
+                                    {
+                                        "name": "Greasley, P. (2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Study skills for business and management students",
+                                "publisher": "Harlow: Pearson",
+                                "authors": [
+                                    {
+                                        "name": "Ramsay, P., Maier, P. and Price, G. (2010)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Critical reading and writing for postgraduates, 3rd edition",
+                                "publisher": "London: Sage",
+                                "authors": [
+                                    {
+                                        "name": "Wallace, M. and Wray, A. (2016)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
