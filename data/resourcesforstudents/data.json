@@ -5299,7 +5299,6 @@
                 "name": "References",
                 "sections": [
                     {
-
                         "subtitle": "References",
                         "space_after": false,
                         "components": [
@@ -5336,7 +5335,6 @@
                 "name": "Aims",
                 "sections": [
                     {
-
                         "subtitle": " ",
                         "space_after": false,
                         "components": [
@@ -5369,10 +5367,58 @@
                 "name": "Discussion | Thinking",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Discussion/Thinking",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What are your experiences of group work?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What are the benefits of group work?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What are the drawbacks?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How can we overcome the drawbacks?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Think about your own contribution to group work"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What are your strengths?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What are your weaknesses?"
+                                    }
+                                ],
+                                "subtitle": "What about me?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Record your thoughts on the form below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Group work: thinking or discussion\n\n<p><p>\n\nForm >>>>>>>>>>>>>>>>>>>>>>>>>>"
+                            }
                         ]
                     }
                 ]
@@ -5381,10 +5427,22 @@
                 "name": "Targets",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Targets",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Try and think of some targets to address your weaknesses\n<ol>for example: “I talk too much”</ol>\n<ol>target: “next time I will ask at least 2 other people a question and listen to their\nanswers”</ol>\n<ol>example 2: “I often arrive late”</ol>\n<ol>target: “set an alarm and leave before I need to”</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Think about how your weaknesses affect other group members"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -5393,10 +5451,13 @@
                 "name": "Adiar’s model of team functions (2004)",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Adair's model of team functions (2004)",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "image-single",
+                                "src": "/images/adairsmodel_2.png"
+                            }
                         ]
                     }
                 ]
@@ -5405,10 +5466,74 @@
                 "name": "Strategies for effective group work",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Strategies for effective group work",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Work together to set ground rules: if you all agree they are more\nlikely to be kept.  These rules may involve:",
+                                "subtitle": "Ground rules"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Attendance"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Acceptable behaviour"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Consequences of not contributing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Doing work on time"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Respecting others"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Be clear on who will take on which role"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Divide tasks fairly"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Set deadlines for completion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Keep a record of what you have agreed"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Decide how and when you will communicate with each other"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use the attached Team Agreement to set your guidelines"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "When assigning tasks, consider the strengths and weaknesses of\nyour team mates, and try to give them roles which relate to their\nstrengths"
+                                    }
+                                ],
+                                "subtitle": "Roles and tasks"
+                            }
                         ]
                     }
                 ]
@@ -5417,10 +5542,18 @@
                 "name": "Example team agreement",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Example Team Agreement",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "You could create something similar yourself and ask your team members to agree.<p><p>\nAdapted from Gallagher (2016, 225)"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/groupagreement.png"
+                            }
                         ]
                     }
                 ]
@@ -5429,10 +5562,43 @@
                 "name": "Body language",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Body Language",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "image-single",
+                                "src": "/images/bodylanguage_2.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "You can show you are listening and interested by your body language"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Facial expressions, e.g. smiling, frowning"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Eye contact"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Way of sitting, e.g. slouching"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Fidgeting"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Gestures, e.g. nodding"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -5441,10 +5607,43 @@
                 "name": "Listening",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Listening",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Encourage the speaker by acknowledging what they said"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Think about what they are saying"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Listen for key points"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Think of a question you could ask"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Let them finish"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Think of a positive comment"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "For further development in this area, see the resource 'Active Listening'"
+                            }
                         ]
                     }
                 ]
@@ -5453,10 +5652,38 @@
                 "name": "Speaking",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Speaking",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Give yourself a target, e.g. make at least one comment/suggestion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Write down what you want to say"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make eye contact"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Be clear and brief"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Don’t speak too quietly"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Act confidently even if you don’t feel it"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -5465,22 +5692,26 @@
                 "name": "Case Study",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Case Study",
+                        "space_after": false,
                         "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Possible actions",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "You are working with some people you know and some you don’t.  Things are going well and\nyou have developed ground rules, appointed a group coordinator and have regular meetings.\nHowever, as time goes on, problems arise as two group members aren’t contributing; one\nhas even stopped coming to meetings and hasn’t produced anything yet.  The group is\ngetting annoyed as they see all their hard work being compromised.<p><p>\nMake a note of your thoughts on the form below.",
+                                "subtitle": "Scenario: what would you do with two weeks to go?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Group Case Study <p><p>\n\nForm >>>>>>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Listen to the audio for some ideas about the case study.  If you prefer, you can read the\ntranscript below.\n<p><p>\nAUDIO >>>>>>>>>>>>>>>",
+                                "subtitle": "Possible actions"
+                            }
                         ]
                     }
                 ]
@@ -5489,22 +5720,55 @@
                 "name": "Group work case study transcript",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Group work case study transcript",
+                        "space_after": false,
                         "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Speaking and listening",
-                "sections": [
-                    {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "First you might want to find out if there's a genuine reason this person hasn't been engaging\nwith the group.  For example, they might have been ill or had a situation which prevented\nthem from contacting you.  If this is the case, it would be best to try and support them, and\noffer any help they might need.<p><p>\nIf there isn't a genuine reason, it might be a good idea to remind them of the rules and what\nyou set out in your group agreement (this is precisely why it's a good idea to do that!)  It\nmight be best to send an email so that you can keep a copy in writing.<p><p>\nSometimes just doing it yourself might be the only way, but this is obviously not an ideal\nsituation.  You could report it to your tutor as a last resort after you've given them a chance.\nAgain, not ideal but they might be able to do something about it.  This is where it's good if\nyou've kept a record of the interaction you've had with them.<p><p>\nYou might have had some other ideas – if so, please share them with your group!"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Encourage each other"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Listen to others"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Build on others’ ideas"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Share ideas"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Include everyone"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Show when you agree"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Admit mistakes"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Politely disagree, e.g. ‘Why do you think that?’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Summarise"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -5513,10 +5777,22 @@
                 "name": "Final thoughts",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Final thoughts",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What am I going to do to make a more effective contribution to group work?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How can I encourage others?"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -5525,10 +5801,59 @@
                 "name": "References",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": " ",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "link-reference",
+                                "title": "Adair on team building and motivation",
+                                "publisher": "T. London: Thorogood Publishing",
+                                "authors": [
+                                    {
+                                        "name": "Adair, J. (2004)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "The Study skills handbook, 4th edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2013)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Skills for success: personal development and employability, 3rd edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2015)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Essential study and employment skills for business and management students, 3rd edition",
+                                "publisher": "Oxford University Press",
+                                "authors": [
+                                    {
+                                        "name": "Gallagher, K. (2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Study skills for business and management students",
+                                "publisher": "Harlow: Pearson Education Ltd",
+                                "authors": [
+                                    {
+                                        "name": "Ramsay, P., Maier, P. and Price, G. (2010)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
