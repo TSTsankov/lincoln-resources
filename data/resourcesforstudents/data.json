@@ -11643,10 +11643,10 @@
         ]
     },
     {
-        "name": "Research for Beginners",
+        "name": "Research for beginners",
         "chapters": [
             {
-                "name": "Introduction",
+                "name": "Aims",
                 "sections": [
                     {
                         "subtitle": "Aims",
@@ -11671,7 +11671,12 @@
                                 "subtitle": "Gain advice on:-"
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Introduction",
+                "sections": [
                     {
                         "subtitle": "Introduction",
                         "space_after": false,
@@ -11698,7 +11703,12 @@
                                 ]
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Choosing a topic",
+                "sections": [
                     {
                         "subtitle": "Choosing a topic",
                         "space_after": false,
@@ -11767,7 +11777,12 @@
                                 "text": "FORM >>>>>>>>>>"
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Writing your research question",
+                "sections": [
                     {
                         "subtitle": "Writing a research question",
                         "space_after": false,
@@ -11804,7 +11819,12 @@
                                 "text": "(Adapted from O’Leary, 2017, 37)"
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Research proposal",
+                "sections": [
                     {
                         "subtitle": "Research proposal",
                         "space_after": false,
@@ -11840,7 +11860,12 @@
                                 "subtitle": "Writing and agreeing your proposal"
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Reviewing the literature",
+                "sections": [
                     {
                         "subtitle": "Reviewing the literature",
                         "space_after": false,
@@ -11894,7 +11919,12 @@
                                 "subtitle": "You will also need to:"
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Planning your research",
+                "sections": [
                     {
                         "subtitle": "Planning your research",
                         "space_after": false,
@@ -11939,7 +11969,12 @@
                                 "text": "(Adapted from O’Leary, 2017, 125)"
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Methods of data collection",
+                "sections": [
                     {
                         "subtitle": "Methods of data collection",
                         "space_after": false,
@@ -12029,7 +12064,12 @@
                                 ]
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Writing up your project",
+                "sections": [
                     {
                         "subtitle": "Writing up your project",
                         "space_after": false,
@@ -12052,7 +12092,12 @@
                                 ]
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Sections of a dissertation",
+                "sections": [
                     {
                         "subtitle": "Sections of a dissertation",
                         "space_after": false,
@@ -12219,7 +12264,12 @@
                                 ]
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "General advice",
+                "sections": [
                     {
                         "subtitle": "General advice",
                         "space_after": false,
@@ -12242,7 +12292,12 @@
                                 ]
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "References",
+                "sections": [
                     {
                         "subtitle": "References",
                         "space_after": false,
@@ -12280,18 +12335,14 @@
                         ]
                     }
                 ]
-            },
-            {
-                "name": "Research for Beginners",
-                "sections": []
             }
         ]
     },
     {
-        "name": "English language skills: sentence structure",
+        "name": "English language skills → Sentence structure",
         "chapters": [
             {
-                "name": "Introduction",
+                "name": "Aims",
                 "sections": [
                     {
                         "subtitle": "Aims",
@@ -12307,7 +12358,12 @@
                                 ]
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Simple sentences",
+                "sections": [
                     {
                         "subtitle": "Simple sentences",
                         "space_after": false,
@@ -12335,7 +12391,12 @@
                                 "subtitle": "Simple sentences"
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Compound sentences",
+                "sections": [
                     {
                         "subtitle": "Compound sentences",
                         "space_after": false,
@@ -12381,7 +12442,12 @@
                                 "text": "PRESENTATION"
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Complex sentences",
+                "sections": [
                     {
                         "subtitle": "Complex sentences",
                         "space_after": false,
@@ -12455,7 +12521,12 @@
                                 "text": "PRESENTATION"
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Transitions and connectors (linking vocabulary)",
+                "sections": [
                     {
                         "subtitle": "Transitions and connectors (linking vocabulary)",
                         "space_after": false,
@@ -12478,7 +12549,12 @@
                                 "src": "blob:https://lincoln-resources.herokuapp.com/d943a9b5-0212-45f8-b4d8-3cd7e3caef3e"
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Practice creating sentences",
+                "sections": [
                     {
                         "subtitle": "Practise creating sentences",
                         "space_after": false,
