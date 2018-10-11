@@ -1571,66 +1571,71 @@
                 ]
             },
             {
-                "subtitle": "Essays",
-                "space_after": false,
-                "components": [
+                "name": "Essays",
+                "sections": [
                     {
-                        "type": "text-paragraph",
-                        "links": [],
-                        "subtitle": "Essays"
-                    },
-                    {
-                        "type": "list-text",
-                        "list_elements": [
+                        "subtitle": " ",
+                        "space_after": false,
+                        "components": [
                             {
+                                "type": "text-paragraph",
                                 "links": [],
-                                "text": "A piece of writing which follows set conventions"
+                                "subtitle": "Essays"
                             },
                             {
-                                "links": [],
-                                "text": "Usually follows a particular structure (introduction, main body, conclusion)"
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "A piece of writing which follows set conventions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Usually follows a particular structure (introduction, main body, conclusion)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Should keep very strictly to the task or question set"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You can explore a topic in detail"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Allows you to express your views"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You should engage in critical debate around the subject"
+                                    }
+                                ]
                             },
                             {
+                                "type": "text-paragraph",
                                 "links": [],
-                                "text": "Should keep very strictly to the task or question set"
+                                "subtitle": "Essay structure"
                             },
                             {
-                                "links": [],
-                                "text": "You can explore a topic in detail"
-                            },
-                            {
-                                "links": [],
-                                "text": "Allows you to express your views"
-                            },
-                            {
-                                "links": [],
-                                "text": "You should engage in critical debate around the subject"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "text-paragraph",
-                        "links": [],
-                        "subtitle": "Essay structure"
-                    },
-                    {
-                        "type": "list-text",
-                        "list_elements": [
-                            {
-                                "links": [],
-                                "text": "Introduction: explain how you interpret question (define if necessary), give a brief outline\nof what you will cover and in what order"
-                            },
-                            {
-                                "links": [],
-                                "text": "Main body paragraphs: each cover a separate issue, develop the topic, include details,\nevidence, references, link to next paragraph"
-                            },
-                            {
-                                "links": [],
-                                "text": "Conclusion: summarise argument, main themes; state conclusions, link back to title (no\nnew information)"
-                            },
-                            {
-                                "links": [],
-                                "text": "References: list all the sources you have cited"
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Introduction: explain how you interpret question (define if necessary), give a brief outline\nof what you will cover and in what order"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Main body paragraphs: each cover a separate issue, develop the topic, include details,\nevidence, references, link to next paragraph"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Conclusion: summarise argument, main themes; state conclusions, link back to title (no\nnew information)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "References: list all the sources you have cited"
+                                    }
+                                ]
                             }
                         ]
                     }
