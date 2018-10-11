@@ -5867,10 +5867,41 @@
                 "name": "Aims & Introduction",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Aims",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify different ways of paraphrasing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Summarise a passage"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Introduction",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Paraphrasing and summarising are important skills for academic writing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "We’ll look at paraphrasing first, then move on to summarising"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -5891,10 +5922,42 @@
                 "name": "What makes a ‘good’ paraphrase",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Why paraphrase?",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Why do you think lecturers usually say it’s better to paraphrase? Note/discuss your ideas."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Paraphrasing: discussion/thinking<p><p>\n\nForm >>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Now look at the ideas below."
+                            },
+                            {
+                                "type": "list-text",
+                                "subtitle": "Why paraphrase ?",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "You may want to target a specific audience and use language to suit"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Shows you've understood your reading"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Keeps your writing style consistent in <b>your</b> voice"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -5903,10 +5966,78 @@
                 "name": "Steps to successful paraphrasing",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Steps to successful paraphrasing",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Read the original passage/sentence and make sure you understand the meaning and\ncontext"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Cover the text and make notes"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Write your paraphrase from your notes without looking at the original"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Compare with the original and make sure it is sufficiently changed without altering the\nmeaning"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make sure you’ve added an in-text citation"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "What makes a 'good' paraphrase",
+                "sections": [
+                    {
+                        "subtitle": " ",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "It is sufficiently changed from the original"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It retains the original meaning"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It is roughly the same length as the original"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It will include an in-text citation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It should include your own comments on the author’s ideas"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It will be linked to the rest of the text"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You shouldn’t paraphrase complete paragraphs"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -5915,10 +6046,128 @@
                 "name": "Ways of paraphrasing",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Ways of paraphrasing",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "There are two main ways of paraphrasing:\n<ol>Changing the sentence structure</ol>\n<ol>Changing the words</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "We’ll look at these in turn"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "One way to do this is by changing active voice to passive voice or\nvice versa",
+                                "subtitle": "Changing the sentence structure"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Original: PDP [Personal Development Planning] can have a positive\nimpact on your academic achievement (Cottrell, 2015, 11).<p><p>\nThis sentence is active, with PDP as the subject.<p><p>\nPassive: A positive impact on your academic achievement can be\nachieved by use of PDP (Cottrell, 2015, 11).<p><p>\nThe object (a positive impact) becomes the subject of the passive\nsentence.<p><p>\nIf a sentence is already passive, you can change it to active if you\nknow who or what the agent (doer of the action) is.",
+                                "subtitle": "Example"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Radium was discovered in 1898. (Passive)<p><p>\nThe Curies discovered radium in 1898. (Active)<p><p>\nNote: this may not always be appropriate, depending on the\ncontext.<p><p>\nThe order of the sentence could also be changed as follows:<p><p>\nOriginal: “When engaged upon a long-term project, such as gaining\na degree or developing a career path, it is important to stay focused\non what you want to achieve” (Cottrell, 2015, 50).<p><p>\nIt is important to stay focused on what you want to achieve when\nengaged upon a long-term project, such as gaining a degree or\ndeveloping a career path (Cottrell, 2015, 50).",
+                                "subtitle": "Example"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Changing the sentence structure alone, however, is not really\nsufficient to be a successful paraphrase"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "We also need to look at the vocabulary and if/how we can change\nit"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Changing the words",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Some words (which are not technical or very specific) can be\nchanged as long as you retain the original meaning"
+                                    },
+                                    {
+                                        "links": [
+                                            {
+                                                "portion": "http://www.thesaurus.com/",
+                                                "href": "http://www.thesaurus.com/"
+                                            }
+                                        ],
+                                        "text": "A thesaurus can be useful for this, e.g. http://www.thesaurus.com/ - but be careful not to use words which are\ntoo informal, and remember that similar words often have\ndifferent connotations"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "“In recent decades there has been much consideration of types of\nlearner and styles of doing this – such as <i>visual</i>, or <i>auditory</i>, or\n<i>kinaesthetic</i> learning styles” (Cottrell, 2015, 68)."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Which words do you think could be changed in this sentence?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Which would you not want to change?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You would probably not want to change <i>visual</i>, <i>auditory</i> or\n<i>kinaesthetic</i>, as they are specific terms related to learning styles"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "“In recent decades there has been much consideration of types of\nlearner and styles of doing this – such as <i>visual</i>, or <i>auditory</i>, or\n<i>kinaesthetic</i> learning styles” (Cottrell, 2015, 68).<p><p>\n‘Consideration’ could be changed to ‘attention’, ‘debate’,\n‘deliberation’, for example<p><p>\n‘Styles’ could be ‘approaches’, ‘ways’…<p><p>\nOver the past few decades, there has been a great deal of\ndeliberation around different learners and approaches to learning –\nfor example, visual, or auditory, or kinaesthetic (Cottrell, 2015, 68)."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Successful paraphrasing",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Again, on its own, this is probably not enough"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Ideally, we should use a combination of changing the structure\nand the words, for example:"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "\"There has been much deliberation over the past few decades around\ndifferent learners using <i>visual</i>, <i>auditory</i> or <i>kinaesthetic</i> approaches\nto learning (Cottrell, 2015, 68).\"<p><p>\nNote that the original meaning has been retained"
+                            }
                         ]
                     }
                 ]
@@ -5927,10 +6176,54 @@
                 "name": "Summarising",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Summarising",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "The steps to a successful summary are very similar to paraphrasing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The difference is that you are reading a longer passage, and condensing it into fewer\nwords"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You may not need a page number in your citation if, for example, you are summarising an\nauthor’s idea from a whole publication"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Read the following passage and summarise"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Read the text first and make notes, then cover it and write a\nsummary from your notes on the form below"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Check that you have kept the original meaning"
+                                    }
+                                ],
+                                "subtitle": "Activity"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "We all have preferred ways of doing things.  Some believe there are\ninherent, immutable ‘learning styles’; others consider such ‘styles’\nto be deeply seated preferences that simply indicate our ‘comfort\nzones’.  Either way, it is useful to be aware of our styles or\npreferences, so that we can evaluate how well these are working for\nus.<p><p>\nFollowing our preferences can make tasks more enjoyable, less of\nan effort, more intuitive, and make it easier to stay on task for\nlonger.  However, we can become over-attached to one set of\napproaches: what worked last year or last week for a different\nassignment or with different people is not working effectively for us\nany more.  It is useful to be able to recognise when that happens.\nBe ready to experiment afresh.  If you find you are becoming bored\nor disengaged, try something new.<p><p>\nFrom Cottrell, S. (2015) <i>Skills for Success: Personal Development\nand Employability</i> p. 69."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "SUMMARISING <p><p>\n\nExercise >>>>>>>>>>>>>>>>>>"
+                            }
                         ]
                     }
                 ]
@@ -5939,10 +6232,25 @@
                 "name": "References",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "References",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "link-reference",
+                                "title": "Writing academic English, 4th Ed.",
+                                "publisher": "New York, USA: Pearson Education",
+                                "authors": [
+                                    {
+                                        "name": "Oshima, A. and Hogue, A. (2006)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Cottrell, S. (2015) <i>Skills for success: personal development and employability.</i>  Basingstoke:\nPalgrave Macmillan",
+                                "subtitle": "Example texts taken from:"
+                            }
                         ]
                     }
                 ]
@@ -5956,10 +6264,26 @@
                 "name": "Aims",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Aims",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify what to include in a presentation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How to structure your slides"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Watch a video and spot the mistakes"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -5968,10 +6292,41 @@
                 "name": "Discussion | Thinking",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Discussion/thinking",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "What are the advantages of using visual aids in a presentation?"
+                            },
+                            {
+                                "type": "list-text",
+                                "subtitle": "Think about it, then look at the suggestions below.",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "We are used to visuals"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Often more likely to remember what we see"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Gives a focus"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Adds variety and interest"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<b>HOWEVER: be careful!  Good visuals are not compensation for\nlack of speech content, and they can be excessive</b>"
+                            }
                         ]
                     }
                 ]
@@ -5980,10 +6335,30 @@
                 "name": "Preparation",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Preparation",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Make sure you prepare your visuals carefully"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Familiarise yourself with the equipment you are going to use"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Practise with others, especially if someone else is going to\nchange the slides for you"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Decide which software you are going to use (see next slide)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -5992,10 +6367,37 @@
                 "name": "Software",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Software",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Power Point is still the most common software for\npresentations, and has several advantages (doesn’t rely on\ninternet connection, is private)"
+                                    },
+                                    {
+                                        "links": []
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Prezi (prezi.com) is interesting and allows for creativity"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You could use Microsoft Sway or Adobe\nSpark"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "There’s also VideoScribe and PowToon, and you probably\nknow of others…"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If it’s for an assessment make sure you check with your tutor\nthat you’re allowed to use particular software"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -6004,10 +6406,38 @@
                 "name": "What should you presentation include",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "What should your presentation include?",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "An introductory slide (names, title of presentation, date if\nnecessary)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Outline (list of points, numbered or bulleted, which you\nfollow the order of)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Main content"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Summary/conclusion (or points you want your audience to\ntake away)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "References (just as you would in an essay)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Questions (providing a slide gives your audience a focus)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -6016,10 +6446,15 @@
                 "name": "Slide structure",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Slide structure",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Have a look at the images below for some suggestions on slide structure.",
+                                "text": "PRESENTATION >>>>>>>>>>>>>>>>>>>>>>>>"
+                            }
                         ]
                     }
                 ]
@@ -6028,10 +6463,14 @@
                 "name": "Watch the video below",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Watch the video below and spot  the mistakes.",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "VIDEO >>>>>>>>>>>>>>>>>>>>>>>"
+                            }
                         ]
                     }
                 ]
@@ -6040,10 +6479,67 @@
                 "name": "Visual aids checklist",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Visual aids checklist",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Can your visuals be seen from the back of the room?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Is there any irrelevant material?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do you need to make grammatical or factual corrections?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Is there any unnecessary punctuation?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Has any necessary punctuation been omitted?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Does the colour combination work?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Are the background and layout appropriate?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Are diagrams correctly and clearly labelled?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Is there too much detail?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Have you any sentences or paragraphs which are too long?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Is the style and layout consistent?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Is your message clear, easy to understand and attractively\npresented?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(adapted from van Emden and Becker, 2016, 46)"
+                            }
                         ]
                     }
                 ]
@@ -6052,10 +6548,29 @@
                 "name": "References",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "References",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "link-reference",
+                                "title": "Presentations [presentation]",
+                                "publisher": "Nottingham: NTIC",
+                                "authors": [
+                                    {
+                                        "name": "Nottingham Trent International College (2014)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Presentation skills for students, 3rd edition",
+                                "publisher": "London: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Van Emden, J. and Becker, L. (2016)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
