@@ -3383,40 +3383,45 @@
                 ]
             },
             {
-                "subtitle": "Note making",
-                "space_after": false,
-                "components": [
+                "name": "Note making",
+                "sections": [
                     {
-                        "type": "text-paragraph",
-                        "links": [],
-                        "subtitle": "Discussion/thinking: your note making"
-                    },
-                    {
-                        "type": "list-text",
-                        "list_elements": [
+                        "subtitle": " ",
+                        "space_after": false,
+                        "components": [
                             {
+                                "type": "text-paragraph",
                                 "links": [],
-                                "text": "Do you make notes in lectures?"
+                                "subtitle": "Discussion/thinking: your note making"
                             },
                             {
-                                "links": [],
-                                "text": "What do you do with them after the lecture?"
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Do you make notes in lectures?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What do you do with them after the lecture?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What kind of notes do you make (e.g. linear, pattern, mind map)?"
+                                    }
+                                ]
                             },
                             {
+                                "type": "text-paragraph",
                                 "links": [],
-                                "text": "What kind of notes do you make (e.g. linear, pattern, mind map)?"
+                                "subtitle": "Record your answers on the following form."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Note-making form >>>>>>>>>>>>>>>"
                             }
                         ]
-                    },
-                    {
-                        "type": "text-paragraph",
-                        "links": [],
-                        "subtitle": "Record your answers on the following form."
-                    },
-                    {
-                        "type": "text-paragraph",
-                        "links": [],
-                        "text": "Note-making form >>>>>>>>>>>>>>>"
                     }
                 ]
             },
@@ -3963,10 +3968,26 @@
                 "name": "Aims",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": " ",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify what critical thinking is"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify characteristics of critical, analytical writing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Find flaws in an argument"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -3975,10 +3996,48 @@
                 "name": "Typical comments",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Typical comments",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Have you ever had any of these comments in your feedback?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "More analysis needed"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Less description, more evaluation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Too descriptive"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Descriptive rather than analytical"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You have used theories but have not evaluated them"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Using higher level skills should lead to higher marks!"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/blooms_taxonomyjpg2.jpg"
+                            }
                         ]
                     }
                 ]
@@ -3987,10 +4046,59 @@
                 "name": "What is critical thinking",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "What is critical thinking?",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "links": [],
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Evaluating evidence and arguments for and against"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Considering an issue carefully"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Considering where the viewpoint leads – what the conclusions are and if they are logical"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Examining in detail"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identifying how arguments relate to each other"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Checking for accuracy"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Looking for flaws in reasoning, evidence or conclusions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Comparing the same issue from different authors’ opinions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Explaining why different authors arrived at different conclusions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Being able to argue why one set of opinions is preferable to another"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Looking for hidden assumptions"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -3999,10 +4107,22 @@
                 "name": "Characteristics of critical, analytical writing",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Characteristics of critical, analytical writing",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Aim should be to present a case through:\n<p>\n<ol>\nproviding reasons,</ol>\n<ol>relevant evidence,</ol>\n<ol>comparing and evaluating arguments,</ol>\n<ol>evaluating evidence,</ol>\n<ol>assessing conflicting evidence</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Background information and description should be minimal"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -4011,10 +4131,46 @@
                 "name": "Some tips for critical writing",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Some tips for critical writing",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Be aware of your audience: how will others interpret your message?  How will you\npersuade them?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Be clear: make sure writing is not ambiguous"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Analysis: look at evidence in detailed and critical way, evaluate strengths and weaknesses"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Don’t present too many points: better to have more detail about fewer points, so your\nargument doesn’t get lost"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Logical order: often best to put points that support your own argument first"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Emphasise important or controversial aspects"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Group similar points: points that support one aspect together, complete analysis of one\npoint before moving to another"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Signposting: words and phrases which direct the reader, e.g. however, additionally,\nsubsequently, consequently, initially, moreover…"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
@@ -4023,10 +4179,13 @@
                 "name": "Critical v Descriptive Writing",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Critical v Descriptive writing",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "image-single",
+                                "src": "/images/criticalvdescriptive2.png"
+                            }
                         ]
                     }
                 ]
@@ -4035,35 +4194,195 @@
                 "name": "Flaws in an argument",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Flaws in an argument",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Confusing cause and effect"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Failing to meet necessary conditions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Attacking the person rather than reasoning"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Emotive language"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Misrepresentation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Can be deliberate to mislead, or author may not realise"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Confusing cause and effect"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Because two things are found together doesn’t mean there is a\nlink"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Example: “The entire family was ill last night.  They all ate fish at\nthe restaurant yesterday.  Therefore, the fish must have been\ncontaminated.”"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What do you think?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Assuming a link where there is none is a flawed argument (false\ncorrelation)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Example: In summer sales of ice cream and sandals are\nincreased. This is a correlation but does one cause the other?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Check:\n\n<ol>Are patterns and trends coincidental or are you sure there is a\ndirect link?</ol>\n<ol>Are they linked by a third cause?</ol>"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Not meeting necessary conditions"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Reasons or evidence necessary to support an argument"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If not, the argument is flawed"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "All necessary conditions must be present"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Example: lottery winner must have valid ticket – but what else is\nnecessary?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Must be necessary AND sufficient"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Example: Birds have wings.  The item has wings.  Therefore, it is\na bird."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Attacking the person and emotive language"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Argument should take counter-arguments into consideration"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Critically analyse the line of reasoning, not the person"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Sometimes authors use emotive/strong language or subjects to\npersuade and affect your judgement"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "See example on next slide:"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Personal identity cards don’t present any real dangers to human\nrights.  They add to our security, by making it easier for the police\nto track and catch criminals.<p><p>\nOpponents of identity cards are wishy-washy liberals who live in\nleafy areas and haven’t a clue what it is like to live in run-down\nareas where crime is rife.",
+                                "subtitle": "Example: Identity Cards"
+                            },
+                            {
+                                "type": "list-text",
+                                "links": [],
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Presenting options in an unfair way"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Focusing on minor points in an opposing argument and ignoring\nmain reasons"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Restricted options: presenting an argument to look as if there are\nonly 2 possible conclusions, selecting one weak to make the other\nlook preferable"
+                                    }
+                                ],
+                                "subtitle": "Misrepresentation"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Example: how is this argument flawed?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Curfews<p><p>\nJuvenile crime has risen sharply in cities.  Young people are out of control.  There are only\ntwo options in a situation like this.  Either we agree to put up with savage assaults on our\npersons and property, or we place a curfew on all young people after 10 o’clock.<p><p>\nMake a note of your thoughts on the following form."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Critical analysis Form >>>>>>>>>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>The writer is presenting two options: put a curfew in place or put\nup with 'savage assaults'.  The second option is obviously one which\npeople will not want, so they are really being forced into choosing\nthe curfew option.  In reality, there are more than only these two\noptions.  We could suggest things such as improved street lighting,\nmore policing, or CCTV cameras.  In giving the reader limited\noptions, the writer isn't considering any other alternatives.<p><p>\nThe writer has also used strong, emotive language to provoke a\nreaction, for example 'savage'.  There is no evidence that it is young\npeople committing the crimes, or that crime is occurring after\n10pm.  These are therefore not valid arguments.</i>",
+                                "subtitle": "Transcript"
+                            }
                         ]
                     }
                 ]
             },
             {
-                "name": "Example → how is this argument flawed",
-                "sections": [
+                "subtitle": "Evaluating evidence",
+                "space_after": false,
+                "components": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Evaluating evidence",
-                "sections": [
+                        "type": "text-paragraph",
+                        "links": [],
+                        "text": "We need to evaluate any evidence or sources we read.<p><p>\nHow do you think we might do this?<p><p>\nThink/discuss, then have a look at suggestions below."
+                    },
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
-                        "components": [
-                            {}
-                        ]
+                        "type": "text-paragraph",
+                        "links": [],
+                        "text": "PRESENTATION >>>>>>>>>>>>"
                     }
                 ]
             },
@@ -4071,10 +4390,105 @@
                 "name": "Relevant and irrelevant evidence",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Relevant and irrelevant evidence",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>People need to improve their understanding of how language works so that they can use it\nmore effectively.  Research studies (Bloggs, 2003; Bloggs, 2006) show that the study of a\nforeign language improves our understanding of the structure of language, providing a way\nof comparing different language structures.  Therefore, people who only speak one language\nshould be encouraged to study a second language.</i>",
+                                "subtitle": "Read the passage below.  Do you think the evidence supports the conclusion?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<b>What do you think?<p><p>\nWe could conclude from this that the evidence does support the conclusion.<p><p>\nWhat about this one?</b><p><p>\n<i>People need to improve their understanding of how language works so that they can use it\nmore effectively.  Research studies (Bloggs, 2003; Bloggs, 2006) show that many people\ncannot describe the different components of their own language.  A surprising number of\npeople have difficulties remembering the rules even of their mother tongue.  Therefore,\npeople who only speak one language should be encouraged to study a second language.</i>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Evidence might suggest people having difficulties with their own language shouldn’t learn\na second"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It is relevant, but doesn’t support the argument"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Further evidence would be needed to support the conclusion"
+                                    }
+                                ],
+                                "subtitle": "Does the evidence support the conclusion?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Be relevant"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Support the conclusion/argument"
+                                    }
+                                ],
+                                "subtitle": "So, evidence needs to"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Ice Age<p><p>\nWinters are getting colder.  Opinion polls show that most people think there is a new Ice\nAge on the way.  Therefore, we need to take measures to ensure that fuel resources are\nmanaged so that nobody is left to suffer from extreme cold during forthcoming winters.",
+                                "subtitle": "What do you think about this text?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Is the evidence relevant to the conclusion?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Are the reasons given relevant to the conclusion?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reason ‘winters are getting colder’ is relevant to the conclusion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Evidence from opinion polls – not facts, so does not support the conclusion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Stronger evidence is needed"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Browsing: are they relevant and reputable?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Focusing on relevant items: how do these support your line of reasoning?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Selecting and evaluating a small number of sources: weighing the evidence and\narguments; looking for flaws and gaps"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Comparing and contrasting different sources and checking for inconsistencies"
+                                    }
+                                ],
+                                "subtitle": "Ways to evaluate sources"
+                            }
                         ]
                     }
                 ]
@@ -4083,10 +4497,168 @@
                 "name": "Activity",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Activity",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Is the line of reasoning good?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What is the conclusion?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How strong is the evidence?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What are the underlying assumptions?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How well do the reasoning and evidence support the conclusion?"
+                                    }
+                                ],
+                                "subtitle": "Read the passage and answer the questions:"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Children at Play"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/childrenatplay.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Children need to play outdoors and yet it is amazing how few\nchildren get that opportunity today. Although Smith (2004) argues\nthat 48% of children prefer to play inside, Jones (1964) found that\n98% of children in Britain prefer to play outdoors. I spoke to some\nparents in Rochborough who said their children missed out by\nnot being able to play down by the river or roam the countryside\nin safety. Most children are now television addicts, or, worse, are\naddicted to computer games. Everybody knows that this is\ndamaging children educationally, and yet nothing is done about it.<p><p>\nThis is certainly true of Rochborough’s children, and the main\nreason is that they do not have anywhere to play. Hardly anybody\nin Rochborough has a garden. It would be better for their health if\nthey played outdoors, but parents say they won’t let them unless\nsupervised play areas are provided. The parents are worried that\nthey cannot see their children when they are playing. What chance\nis there for the health of citizens in Rochborough if its children do\nnot get to play outdoors, and end up as TV addicts?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Critical Analysis 1: Children at Play form >>>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What is the point?  There doesn't seem to be one"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Weak line of reasoning"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Information not ordered logically"
+                                    }
+                                ],
+                                "subtitle": "The line of reasoning (logical progression)"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Not clear"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "“children need to play outdoors” at the beginning is more of a\nconclusion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Final sentences don’t lead to a conclusion"
+                                    }
+                                ],
+                                "subtitle": "The conclusion"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Weak, with insufficient detail"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How many?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How representative are they of the area?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Statistics not really analysed"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Dates of evidence very different"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Emotive language: ‘addicts’, ‘golden age’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "No support for children being TV or computer addicts"
+                                    }
+                                ],
+                                "subtitle": "Evidence"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "“Everybody knows”"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "“Most children are now television addicts, or, worse, are\naddicted to computer games”"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Is it worse?  Who says?"
+                                    }
+                                ],
+                                "subtitle": "Assumptions"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Poor support for conclusion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Some reasons, but order not logical"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Some without supporting evidence"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Mixed with irrelevant information such as computer addiction"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Not clear whether argument is made on basis of children’s\nhealth"
+                                    }
+                                ],
+                                "subtitle": "Does the reasoning support the conclusion?"
+                            }
                         ]
                     }
                 ]
@@ -4095,10 +4667,39 @@
                 "name": "Summary",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "Summary",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Examines from different angles"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Checks the accuracy of something"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Checks the order of logic"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Checks the relevance of the data"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Compares different points of view"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Assesses the evidence"
+                                    }
+                                ],
+                                "subtitle": "Summary: critical thinking…"
+                            }
                         ]
                     }
                 ]
@@ -4107,10 +4708,39 @@
                 "name": "References",
                 "sections": [
                     {
-                        "subtitle": "A Subtitle..",
-                        "space_after": true,
+                        "subtitle": "References",
+                        "space_after": false,
                         "components": [
-                            {}
+                            {
+                                "type": "link-reference",
+                                "title": "The Study Skills Handbook, 4th edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2013)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Critical Thinking Skills, 2nd edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2011)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Study Advice",
+                                "link": "http://www.reading.ac.uk/internal/studyadvice/StudyResources/sta- index.aspx",
+                                "authors": [
+                                    {
+                                        "name": "University of Reading (2016)"
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
