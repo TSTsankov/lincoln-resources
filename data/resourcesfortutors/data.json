@@ -11,8 +11,17 @@
                         "components": [
                             {
                                 "type": "text-paragraph",
-                                "links": [],
-                                "text": "In this chapter, we will examine all the various responsibilities of a personal tutor and try to define the overall role in relation to the students."
+                                "links": [
+                                    {
+                                        "portion": "https://share.coventry.ac.uk/staff/Personaltutors/Pages/RoleofPersonalTutor.aspx",
+                                        "href": "https://share.coventry.ac.uk/staff/Personaltutors/Pages/RoleofPersonalTutor.aspx"
+                                    },
+                                    {
+                                        "portion": "https://share.coventry.ac.uk/students/healthandwellbeing/Pages/Home.aspx",
+                                        "href": "https://share.coventry.ac.uk/students/healthandwellbeing/Pages/Home.aspx"
+                                    }
+                                ],
+                                "text": "In this chapter, we will examine all the various responsibilities of an academic personal tutor and try to define the overall role in relation to the students.\n\n<p>VIDEO OF STEPHEN GARVEY HERE ! >>>>>>>>>>>\n\n<p><p>\nThere are also some useful hints and tips as to the role here:\n<p> https://share.coventry.ac.uk/staff/Personaltutors/Pages/RoleofPersonalTutor.aspx\n<p><p>\nIn addition we are very keen to ensure that our students are fully supported in all aspects of their well-being so please see the link below to some helpful resources available here at Coventry University: <p><p>https://share.coventry.ac.uk/students/healthandwellbeing/Pages/Home.aspx"
                             }
                         ]
                     },
@@ -309,13 +318,13 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "subtitle": "Week 1",
-                                "text": "<span style='font-weight:500;font-style:italic;font-size:1.1em' class='mb-3'>\nSarah has been given the job of meeting a group of students in a tutorial session. She has been tasked with CV reviewing and researching empoyers, as well as developing their employability skills. She must work with each student individually and also set new SMART (Specific, Measurable, Achievable, Realistic and Time-related) targets regularly. Her head of department has asked her if she could track and monitor the students' progress throughout and feedback on their progress to the rest of the teaching team during the weekly departmental meeting. Sarah has found that she has been contacting students on the phone a lot when some students have been late, absent and not meeting deadlines. She has found this work challenging, but rewarding.\n</span>"
+                                "text": "<span style='font-weight:500;font-style:italic;font-size:1.1em' class='mb-3'>\nSarah has been given the job of meeting a group of students in a personal tutorial session. She has been tasked with CV reviewing and researching employers, as well as developing their employability skills. She must work with each student individually and also set new SMART (Specific, Measurable, Achievable, Realistic and Time-related) targets regularly. Her head of department has asked her if she could track and monitor the students' progress throughout and feedback on their progress to the rest of the teaching team during the monthly team meeting. Sarah has found that she has been contacting students on the phone a lot when some students have been late, absent and not meeting deadlines. She has found this work challenging, but rewarding.\n</span>"
                             },
                             {
                                 "type": "text-paragraph",
                                 "links": [],
                                 "subtitle": "Week 2",
-                                "text": "<span style='font-weight:500;font-style:italic;font-size:1.1em' class='mb-3'>\nIn her second week, while delivering a class where the students are working in groups to develop presentations, Sarah finds that she has time to work with students individually to discuss their learning and progress. Paul, a student in the class, confides in her that he is finding that he cannot keep up with all the expectations of the course and that he feels anxious. Sarah allows Paul to express his concerns and questions him to find out whether he is actually behind with his course and what reasons he believes there are for this. As the conversation develops, it becomes clear to Sarah that Paul isn't actually too far behind with his work but that his recent unexpected poor exam results has knocked his confidence down. Sarah steers the conversation more towards Paul's strengths and enbales him to explore the potential actions he could take to regain his confidence and get 'back on track'. They agree some small steps for Paul to take and decide to review the outcome of Paul's actions in the class next week.\n</span>"
+                                "text": "<span style='font-weight:500;font-style:italic;font-size:1.1em' class='mb-3'>\nIn her second week, while delivering a class where the students are working in groups to develop presentations, Sarah finds that she has time to work with students individually to discuss their learning and progress. Paul, a student in the class, confides in her that he is finding that he cannot keep up with all the expectations of the course and that he feels anxious. Sarah allows Paul to express his concerns and questions him to find out whether he is actually behind with his course and what reasons he believes there are for this. As the conversation develops, it becomes clear to Sarah that Paul isn't actually too far behind with his work but that his recent unexpected poor exam results has knocked his confidence down. Sarah steers the conversation more towards Paul's strengths and enables him to explore the potential actions he could take to regain his confidence and get 'back on track'. They agree some small steps for Paul to take and decide to review the outcome of Paul's actions in the class next week.\n</span>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -1610,8 +1619,16 @@
                                 "text": "<span class='text-info' style='font-size:1.3em'>Read the following transcript of a one to\none meeting between Jasmine and her\npersonal tutor, Asif.</span>"
                             },
                             {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<div class='border border-info p-2' style='font-size:1.2em'>\n<span class='fa fa-info-circle fa-2x text-info float-left d-block mr-4'></span>\nThink about which type of boundaries (from the\nfour listed in the table of boundary\ntypes above) are set or recognised by\nAsif and, in note form, explain how he\ndoes this.\n</div>"
+                            },
+                            {
                                 "type": "image-single",
                                 "src": "/images/jasmineasif1.jpg"
+                            },
+                            {
+                                "type": "text-paragraph"
                             },
                             {
                                 "type": "image-single",
@@ -1624,11 +1641,6 @@
                             {
                                 "type": "image-single",
                                 "src": "/images/jasmineasif4.jpg"
-                            },
-                            {
-                                "type": "text-paragraph",
-                                "links": [],
-                                "text": "<div class='border border-info p-2' style='font-size:1.2em'>\n<span class='fa fa-info-circle fa-2x text-info float-left d-block mr-4'></span>\nThink about which type of boundaries (from the\nfour listed in the table of boundary\ntypes above) are set or recognised by\nAsif and, in note form, explain how he\ndoes this.\n</div>"
                             }
                         ]
                     }

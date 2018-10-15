@@ -23,7 +23,7 @@
             }
         ],
         "mainParagraph": {
-            "text": "This resource was created by Ben Walker and Alison Wilkinson (University of Lincoln)\nas part of one of the ‘Addressing barriers to student success’ HEFCE Catalyst projects.\n\nThe structure and content of this resource has been adapted from:\n\nStork A. and Walker B. (2015) Becoming an Outstanding Personal Tutor: Supporting\nLearners Through Personal Tutoring and Coaching.  Northwich: Critical Publishing."
+            "text": "This resource was adapted by Arinola Adefila and Diane Phimster of Coventry University, with acknowledgement to colleagues as the University of Lincoln, as part of one of the 'Addressing barriers to student success' HEFCE Catalyst projects.\n\n\n<br>\nThis resource was created by Ben Walker and Alison Wilkinson (University of Lincoln)\nas part of one of the ‘Addressing barriers to student success’ HEFCE Catalyst projects.\n\nThe structure and content of this resource has been adapted from:\n\nStork A. and Walker B. (2015) Becoming an Outstanding Personal Tutor: Supporting\nLearners Through Personal Tutoring and Coaching.  Northwich: Critical Publishing."
         },
         "contact": {
             "subtitle": "Contact Team for Help",
@@ -33,12 +33,12 @@
                     "type": "link-telephone",
                     "phones": [
                         {
-                            "tag": "Ben Walker",
-                            "text": "01522 837195"
+                            "tag": "<Study Support Skills person 1 at Cov Uni.>",
+                            "text": "024776 ?????"
                         },
                         {
-                            "tag": "Alison Wilkinson",
-                            "text": "01522 835625"
+                            "tag": "<Study Support Skills person 2 at Cov Uni.>",
+                            "text": "024776 ?????"
                         }
                     ],
                     "space_after": false
@@ -48,14 +48,14 @@
                     "type": "link-email",
                     "links": [
                         {
-                            "tag": "Ben Walker",
-                            "text": "bewalker@lincoln.ac.uk",
-                            "link": "mailto:bewalker@lincoln.ac.uk"
+                            "tag": "<Study Support Skills person 1 at Cov Uni>",
+                            "text": "????@coventry.ac.uk",
+                            "link": "mailto:????@coventry.ac.uk"
                         },
                         {
-                            "text": "alwilkinson@lincoln.ac.uk",
-                            "tag": "Alison Wilkinson",
-                            "link": "mailto:alwilkinson@lincoln.ac.uk"
+                            "text": "??????@lincoln.ac.uk",
+                            "tag": "<Study Support Skills person 2 at Cov Uni>",
+                            "link": "mailto:??????@lincoln.ac.uk"
                         }
                     ],
                     "space_after": false
