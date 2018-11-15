@@ -4205,7 +4205,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Have a look at the presentation below for a suggested order.  (Adapted from Cottrell, 2013,\n358)\n\n<p><p> Presentation  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "Have a look at the list below for a suggested order.  (Adapted from Cottrell, 2013,\n358)"
                             },
                             {
                                 "type": "list-text",
@@ -4734,7 +4734,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Academic writing: match the extract to the genre QUIZ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"740px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUQjRMVTAzTUIyS085Rk03MTBYUlVRR1VJUy4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -4828,7 +4828,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Academic Style Form >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"740px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUQ0NISlBHNENEV0QwTk1MWlQ5VEVZVFJIQS4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "list-text",
@@ -4875,7 +4875,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Features to avoid in academic writing .......... presentation >>>>>>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/6vZJG65QrNvqlzYr/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     }
@@ -5189,7 +5189,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Multi-word verbs, such as 'turn up' are used frequently in spoken English and written\nEnglish of a less formal nature, but are generally not recommended for academic writing.\nMost have a one-part verb equivalent: for example, 'turn up' could be 'arrive'.<br><br>\nComplete the quiz below, replacing the multi-word verb with a one-word verb of the same\nmeaning.<br><br>\nMulti-word verb Quiz >>>>>>>>>>>>>>>>>>"
+                                "text": "Multi-word verbs, such as 'turn up' are used frequently in spoken English and written\nEnglish of a less formal nature, but are generally not recommended for academic writing.\nMost have a one-part verb equivalent: for example, 'turn up' could be 'arrive'.<br><br>\nComplete the quiz below, replacing the multi-word verb with a one-word verb of the same\nmeaning.<br><br>\n<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUMElKNjVESDZSWlRLTUQySTNIR1JXTDczNS4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -5220,7 +5220,8 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "subtitle": "Non-literal language Quiz >>>>>>>>>>>>>>>>>>"
+                                "subtitle": "",
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUOVc0OUw5Q0swTUQxWDg0WVRBQ0g5SEFKOS4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -5327,7 +5328,20 @@
                     {
                         "subtitle": "Recording Transcript",
                         "space_after": false,
-                        "components": []
+                        "components": [
+                            {
+                                "type": "image-single",
+                                "src": "/images/n_literal_language_1.jpeg"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/n_literal_language_2.jpeg"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/n_literal_language_3.jpeg"
+                            }
+                        ]
                     },
                     {
                         "subtitle": "Remember",
@@ -5487,7 +5501,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Lectures and Lecturers Form >>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUQzlBVVRFS1NKQTdQT0tRMENRSDczVE82Uy4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "list-text",
