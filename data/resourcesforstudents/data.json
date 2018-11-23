@@ -80,7 +80,7 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "subtitle": "Complete the form below with your thoughts.",
-                                "text": "Form Needs to go here >>>>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUN0haNVo3TzZFS1JNODhaUDJNMTlaQTkwUi4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -320,8 +320,9 @@
                                 "text": "It's easy to put off studying and get distracted.  What do you think might motivate you\nto study and stay on task?<br><Br>\nThink about/discuss your ideas, then have a look at the ideas below."
                             },
                             {
-                                "type": "image-single",
-                                "src": "/images/study_v2.jpg"
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/SP9cPBFOG4yPQRWe/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     }
@@ -390,6 +391,13 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "text": "(University of Manchester Careers Service, 2016)<br><br>\nWatch the video below.  What time management tips are given?<br><br>\n\nTIME MANAGEMENT TIPS VIDEO >>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://youtu.be/HoI0LDqY_xA",
+                                    "thumb": ""
+                                }
                             }
                         ]
                     }
@@ -620,7 +628,7 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "subtitle": "You can record your thoughts on the form below.",
-                                "text": "SKILLS FORM >>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNURUVJUDhWSjBQU0hHNEwxSTRZN1kzNEFJTS4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -951,7 +959,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Group work: thinking or discussion\n\n<p><p>\n\nForm >>>>>>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUMzhNUFZQSFQ1MENOUU45MDNOWEdLMlhRQS4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -1238,7 +1246,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Group Case Study <p><p>\n\nForm >>>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUREVHWkZNOEUwQ0lSNFkyMjFURkVPRjRMUi4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -1590,7 +1598,7 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "subtitle": "Have a look at the images below for some suggestions on slide structure.",
-                                "text": "PRESENTATION >>>>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/cRmeIshP0BCRG2wC/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     }
@@ -1604,9 +1612,13 @@
                         "space_after": false,
                         "components": [
                             {
-                                "type": "text-paragraph",
+                                "type": "video-single",
                                 "links": [],
-                                "text": "VIDEO >>>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "VIDEO >>>>>>>>>>>>>>>>>>>>>>>",
+                                "video": {
+                                    "src": "https://youtu.be/ATfY8dvbuFg",
+                                    "thumb": ""
+                                }
                             }
                         ]
                     }
@@ -1788,7 +1800,7 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "subtitle": "Make a note of your thoughts on the form below.",
-                                "text": "Form >>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUN1JBTjZYWlQzODFJV1c0SzlXUk5TSkhGQi4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -2109,8 +2121,9 @@
                                 "text": "Can you think of examples of things you shouldn’t do when presenting?\n<p><p>\nThink/discuss, then have a look at the ideas below."
                             },
                             {
-                                "type": "image-single",
-                                "src": "/images/negativebodylanguage.jpeg"
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/ciWkw0E0GWxHbCq4/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     }
@@ -2129,8 +2142,9 @@
                                 "text": "What might be some positive body language you could use?\n<p><p>\nAgain, think/discuss and have a look at the suggestions below."
                             },
                             {
-                                "type": "image-single",
-                                "src": "/images/positivebodylanguage.jpeg"
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/WcEdEcGq9smTqLXV/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     }
@@ -2355,9 +2369,13 @@
                         "space_after": false,
                         "components": [
                             {
-                                "type": "text-paragraph",
+                                "type": "video-single",
                                 "links": [],
-                                "text": "VIDEO >>>>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "VIDEO >>>>>>>>>>>>>>>>>>>>>>>>",
+                                "video": {
+                                    "src": "https://www.youtube.com/watch?v=RcGyVTAoXEU&feature=youtu.be",
+                                    "thumb": ""
+                                }
                             },
                             {
                                 "type": "list-text",
@@ -2674,33 +2692,9 @@
                                 "subtitle": "The six qualities that a teacher should have according to H. C. Dent"
                             },
                             {
-                                "type": "list-text",
-                                "list_elements": [
-                                    {
-                                        "links": [],
-                                        "text": "Pleasant personality"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Capacity for sympathy"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Intellectually and morally honest"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Mentally alert"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Patient"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Mind which wants to go on learning"
-                                    }
-                                ]
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/h1kJi57GejFvmse8/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     },
@@ -2911,7 +2905,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "READING STRATEGIES: FORM >>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUMTkyRUYzS0JBWkQyOUtWOFVRVlczQjI4My4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -2991,9 +2985,13 @@
                                 "text": "Have a look at the video, and try to remember the techniques the speaker mentions."
                             },
                             {
-                                "type": "text-paragraph",
+                                "type": "video-single",
                                 "links": [],
-                                "text": "Speed reading \nVideo >>>>>>>>>>>"
+                                "text": "Speed reading \nVideo >>>>>>>>>>>",
+                                "video": {
+                                    "src": "https://www.youtube.com/watch?v=kmDMrxUSXKY&feature=youtu.be",
+                                    "thumb": ""
+                                }
                             },
                             {
                                 "type": "text-paragraph",
@@ -3003,7 +3001,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Presentation >>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/Mi895VA1xBWhJyC4/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     }
@@ -3274,37 +3272,9 @@
                                 "subtitle": "Types of Feedback"
                             },
                             {
-                                "type": "list-text",
-                                "list_elements": [
-                                    {
-                                        "links": [],
-                                        "text": "Written comments on your assignment cover"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Receiving comments by email"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Opportunity to talk with your lecturer or tutor"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Peer feedback from a classmate"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Your own self-evaluation of your work"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Verbal comments in a seminar group"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "Written comments throughout your assignment"
-                                    }
-                                ]
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/nf3Z7kV05PWkbAGB/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     }
@@ -3445,13 +3415,13 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "subtitle": "Make a note of your suggested actions on the form below.",
-                                "text": "FeedForward Form >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUNUZLWFVDMjE4MzVINDJZNTNTVDhJODlaRC4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "text-paragraph",
                                 "links": [],
                                 "subtitle": "Now have a look at the presentation below for some ideas.",
-                                "text": "Feedforward Presentation >>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/x6PulODrxkVuHhC3/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     }
@@ -3730,7 +3700,8 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "subtitle": "Genres of Academic Writing Presentation >>>>>>>>>>>>>>>"
+                                "subtitle": "",
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/yLpKc56bHv0V8kci/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             },
                             {
                                 "type": "list-text",
@@ -3795,7 +3766,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Have a look at the characteristics of essays or reports in the following quiz.  Think about\nwhich characteristic is more typical of reports and which is more typical of essays.<br><Br>\n\n<b>Essays v Reports quiz >>>>>>>>>>>>>>>>>>>>>>></b>"
+                                "text": "Have a look at the characteristics of essays or reports in the following quiz.  Think about\nwhich characteristic is more typical of reports and which is more typical of essays.<br><Br>\n\n<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUM1gxNk5ZRk9WMThHTk5RRUlOQUtSQU9KVS4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -5310,7 +5281,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Non-literal language form >>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUNTVKTlZBT0pHMjlKOU5TRVVESEE0T0tFTy4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -5669,7 +5640,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Note-making form >>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNURTZLTVdWUDlJQzlaUU8wSTlYQkJCSVpHNi4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -5938,9 +5909,13 @@
                                 "text": "Have a look at the video of a student giving active listening tips."
                             },
                             {
-                                "type": "text-paragraph",
+                                "type": "video-single",
                                 "links": [],
-                                "text": "Student active listening tips presentation >>>>>>>>>>>"
+                                "text": "Student active listening tips presentation >>>>>>>>>>>",
+                                "video": {
+                                    "src": "https://www.youtube.com/watch?v=yCvHeM8yoDA&feature=youtu.be",
+                                    "thumb": ""
+                                }
                             }
                         ]
                     }
@@ -6119,7 +6094,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Try the following quick quiz to see how much you've remembered.\n<p>\nQUIZ >>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "Try the following quick quiz to see how much you've remembered.\n<p><br>\n<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUMlNQV1UzRFZHMVBaOE1JU1FUNVdGRkw3Qy4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -6608,7 +6583,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Critical analysis Form >>>>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUQlA1MldGU08wTDdIVEc2WFpUNkkyOTZTMy4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -6635,7 +6610,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "PRESENTATION >>>>>>>>>>>>"
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/HH8pcTgmKHbNvRxz/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     }
@@ -6798,7 +6773,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Critical Analysis 1: Children at Play form >>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUNklGVTdHNU9MSDkwWkFJRk9IMjRJVEs0SS4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "list-text",
@@ -7046,9 +7021,13 @@
                                 "text": "Watch the video, but don't take it too seriously!"
                             },
                             {
-                                "type": "text-paragraph",
+                                "type": "video-single",
                                 "links": [],
-                                "text": "What is an Argument --VIDEO  >>>>>>>>>>>>>>>>>>"
+                                "text": "",
+                                "video": {
+                                    "src": "https://www.youtube.com/watch?v=wdoGVgj1MtY&feature=youtu.be",
+                                    "thumb": ""
+                                }
                             },
                             {
                                 "type": "text-paragraph",
@@ -7223,7 +7202,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Developing a line of argument >>>>>>>>>>> QUIZ"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUQlZYVjJDQzM5SkpZNlBHSFlGU1k0TVE2NC4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -7639,7 +7618,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Paraphrasing: discussion/thinking<p><p>\n\nForm >>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUN1RFUVJINEE0NUNPR1ZTQ0NZSDU5MEVURC4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -7928,7 +7907,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "SUMMARISING <p><p>\n\nExercise >>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUMkpRVzZJVEpTRDAzMzBTTVcwRlVQRFdUSS4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -8019,7 +7998,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Revision \nForm >>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUM0YyV1NYSENZVFBGVDNNQ1JVR0YwOUk1RS4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -8029,7 +8008,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Presentation <p><p>\n\nForm >>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/69JjLJybXeUH82lI/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     },
@@ -8062,7 +8041,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Revision Ideas >>>> Presentation"
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/eHBWel8Ir7JVtSlx/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     }
@@ -8239,10 +8218,6 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "text": "List B: repeat the process (including the titles)"
-                            },
-                            {
-                                "type": "text-paragraph",
-                                "links": []
                             },
                             {
                                 "type": "image-single",
@@ -8530,7 +8505,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Hedging \n<p>\nFORM >>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUQktUWU9aVEI4WTdPVUxDRzlORVVPVjg0Sy4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -8651,7 +8626,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Order the hedging phrases\n<p><p>\nForm >>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUNkcwS01IUTRBVklNQU83VjBNSFZOQURVOS4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -8769,7 +8744,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Weaker verb \n<p><P>\nForm>>>>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUOVBRUzhYQUxWTTMzOTBEOVMyQzhNUjNJTi4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -8800,12 +8775,17 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Re-write it with your suggestions on the form below.\n<p><p>\nFORM >>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "Re-write it with your suggestions on the form below.\n<p><p>\n<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUOTk5STlFMkNIMDlWMU9LOURFSUtNNUVSVC4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "text-paragraph",
                                 "links": [],
                                 "text": "Now have a look at some suggestions  below.  Of course, this isn't the only correct answer,\nand you may have some equally valid suggestions of your own."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/nKw2HWdKmkHeVAsr/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     }
@@ -8994,7 +8974,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Greasely's survey<p><p>\n\nFORM >>>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUME9FUDNDSUNKVDA3M05GOE45VTlJU0NQQi4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -9004,12 +8984,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "subtitle": "Most common problems lecturers find with assignments"
-                            },
-                            {
-                                "type": "text-paragraph",
-                                "links": [],
-                                "text": "Presentation<p><p>\n\nForm >>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/n3gKLUopNIG8YZTC/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -10267,7 +10242,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "REFLECTION \n<p><p>\nFORM >>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUNUFNMExDVldDUUpUWlhTOTA4MkhTU0ZNSS4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -10434,7 +10409,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "FORM >>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUMjBJNDg0NkRCRFdXRDFOMlRGMUJKUFpZSC4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     },
@@ -10450,7 +10425,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "PRESENTATION >>>>>>>>>>>>>"
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/PMMUpjyBAKTLxE9g/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             },
                             {
                                 "type": "list-text",
@@ -10571,7 +10546,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Thinking/discussion<p>\nFORM >>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUMjBJNDg0NkRCRFdXRDFOMlRGMUJKUFpZSC4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -10608,7 +10583,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "FORM >>>>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUQ0E3RzlFNDI0TklWMkRVR0FKQjBMWVBVUy4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -10711,7 +10686,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "PRESENTATION >>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/0lcxKAJsGI3B2qxM/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -11026,7 +11001,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Exam <p>\nFORM >>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUNE42TTA1Q0FRSlY4RDRNTVRCVFJMTDg4VS4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -11109,7 +11084,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "A good exam answer\n<p><p>\nFORM >>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNURDk0Qlo1VE9VSE5VU0M0VTVOM01ORU9XSC4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -11119,7 +11094,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Presentation \n\n<p> <p>FORM >>>>>>>>>>>>>>>\n<p>What makes a good answer for an essay-style question."
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/2MmuzT63tfMNtBsx/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     }
@@ -11244,7 +11219,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "REVISION<p><p>\n\nFORM >>>>>>>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUQkwzSFM4OTlMU1JNN0JPTEo2NU8xUUhOVS4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -11326,7 +11301,7 @@
                             },
                             {
                                 "type": "image-single",
-                                "src": "blob:https://lincoln-resources.herokuapp.com/191c7b28-6098-4662-9660-f50fc81696aa"
+                                "src": "/images/how_much_is_enough copy.png"
                             },
                             {
                                 "type": "list-text",
@@ -11394,7 +11369,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Revision strategies \n<p><p> Presentation"
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/CtHAu9EvY8dltQv0/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     }
@@ -11792,7 +11767,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "FORM >>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUOTdSQ1pPWVVPSzlVWkMxUkRaQ0pENFRVRC4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             }
                         ]
                     }
@@ -12019,7 +11994,18 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "PRESENTATION >>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/I2hOQmH8F9G8dZnY/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Questionnaires",
+                                "text": "<b>Thinking/discussion</b>\n<br>\nWhat do you think are the advantages and disadvantages of using\nquestionnaires?  What issues will you need to consider?\n<br>\nThink about or discuss your ideas, then look at the presentation below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/uzHGsYr9Q3Cq6NAp/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -12035,7 +12021,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Questionnaires FORM >>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUQUs0SDVSUFFJQ1VLUllUOUNCRlI2NzlPVC4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -12045,7 +12031,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "QUESTIONS <p>\nPRESENTATIONS >>>>>>>>>>>"
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/EWrMYLi0JWK52SsO/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -12457,7 +12443,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "PRESENTATION"
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/SJG7Y9MPMctqPo2F/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     }
@@ -12536,7 +12522,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "PRESENTATION"
+                                "text": "<iframe width=\"760px\" height=\"500px\" src=\"https://sway.office.com/s/DlxTXyRG47zoCfQ2/embed\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" max-width=\"100%\" sandbox=\"allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts\" scrolling=\"no\" style=\"border: none; max-width: 100%; max-height: 100vh\" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>"
                             }
                         ]
                     }
@@ -12603,7 +12589,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Compound Sentences <p><p>\nFORM >>>>>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUOFZRTkZRTUdPT0ZXN0s1M09LR1AxMEdKQS4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -12652,7 +12638,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Complex sentences<p>\nFORM >>>>>>>>>>>>>"
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUMjU4VFg1TFBWVzlYU0VaTEU2U0c4N0k3VC4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
                             },
                             {
                                 "type": "text-paragraph",
@@ -12663,6 +12649,45 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "text": "<ol type='1'>\n<li>If you drink coffee, it might keep you awake.</il>\n\n<li>Because I stayed up late last night, I didn’t want to get up this\nmorning.</li>\n\n<li>Although I listened hard to the lecture, I still didn’t\nunderstand.</li>\n</ol>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Again, you could have equally valid answers.\n<br><br>\nNow do the quiz and decide whether the sentences are simple,\ncompound or complex."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=mqsYS2U3vkqsfA4NOYr9T-upcoFXjbVLuKSwo2KoNRNUMDM4WFlQMkJWMDlTU0g3N0U2S1YyWTdRVC4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Summary",
+                "sections": [
+                    {
+                        "subtitle": "Summary",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "links": [],
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Try to use a variety of sentence structures in your writing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Connect sentences using relative clauses and subordinating conjunctions for example"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make sure you avoid the comma splice"
+                                    }
+                                ]
                             }
                         ]
                     }
