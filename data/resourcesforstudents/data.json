@@ -5007,27 +5007,32 @@
                 ]
             },
             {
-                "subtitle": " Contractions ",
-                "space_after": false,
-                "components": [
+                "name": "Contractions",
+                "sections": [
                     {
-                        "type": "list-text",
-                        "list_elements": [
+                        "subtitle": "Contractions",
+                        "space_after": false,
+                        "components": [
                             {
-                                "links": [],
-                                "text": "These are easy to change"
-                            },
-                            {
-                                "links": [],
-                                "text": "e.g. it’s = it is"
-                            },
-                            {
-                                "links": [],
-                                "text": "can’t = cannot"
-                            },
-                            {
-                                "links": [],
-                                "text": "Be careful, don’t = do not NOT donot/donnot"
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "These are easy to change"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "e.g. it’s = it is"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "can’t = cannot"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Be careful, don’t = do not NOT donot/donnot"
+                                    }
+                                ]
                             }
                         ]
                     }
